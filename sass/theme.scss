@@ -22,6 +22,10 @@
     font-style: italic, oblique;
   }
 
+$font: "Computer Modern", sans-serif;
+$font-mono:  "Computer Modern", monospace;
+$padding: 8px;
+
 html, body {
     height: 100%;
 }
@@ -34,6 +38,7 @@ body {
     min-height: 100%;
     background: $back_color;
     text-align: center;
+    justify-content: center;
     font-family: 'Roboto Slab', serif;
 }
 
@@ -49,8 +54,17 @@ body h1{
 
 
 
-  a {
+  header a {
     color: #000;
+  }
+
+  .main a{
+    color: #057beb;
+  }
+
+  p{
+    max-width: 100%;
+    display: block;
   }
   
   /* header */
@@ -59,7 +73,9 @@ body h1{
     background-color: #fff;
     box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
     position: fixed;
-    width: 100%;
+    width: 101%;
+    border: solid;
+    color: $back_color;
     z-index: 3;
   }
   
@@ -164,10 +180,53 @@ body h1{
   .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
     top: 0;
   }
+
+  /* The progress container (grey background) */
+  .scroll-bar-wrapper {
+    width: 100%;
+    height:10px;
+    position:fixed;
+    top:0;
+    left:0;
+    background:white;
+  }
+  
+  .scroll-bar { 
+    width:0;
+    height: inherit;
+    background: $back_color;
+  }
+
   
   /* 48em = 768px */
+
+.main{
+  color: #fff;
+  padding-top: 100px;
+  margin: 0 auto;
+  text-align: justify;
+  max-width: 60%;
+}
+
+.s-logo{
+  width: 64px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 5px;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $main_color;
+  color: white;
+  text-align: center;
+}
+
   
-  @media (min-width: 48em) {
+  @media (min-width: 1045px) {
 
     .header li {
       float: left;
@@ -182,5 +241,11 @@ body h1{
     }
     .header .menu-icon {
       display: none;
+    }
+  }
+
+  @media (max-width: 1045px) {
+    .main{
+      max-width: 85%;
     }
   }
