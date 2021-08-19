@@ -40,11 +40,66 @@ body {
     text-align: center;
     justify-content: center;
     font-family: 'Roboto Slab', serif;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 body h1{
     color: $font_color;
+}
+
+h1 {
+  padding: 10px;
+  font-weight: bold;
+}
+
+h2{
+  padding: 10px;
+  font-weight: bold;
+}
+
+h3{
+  padding: 8px;
+  font-weight: bold;
+}
+
+
+
+li::marker {
+  color: #e03ff2;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+ul ul {
+  padding-left: 1em;
+}
+
+code {
+  font: 16px $font-mono;
+}
+
+p > code {
+  font-weight: bold;
+  color: gray;
+}
+
+blockquote {
+  border-radius: 8px;
+  background: $back_color;
+  border-left: 10px solid $main_color;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 
 * {
@@ -69,6 +124,10 @@ body h1{
   }
   
   /* header */
+
+  .header a:hover {
+    color: $main_color;
+  }
   
   .header {
     background-color: #fff;
@@ -211,7 +270,14 @@ body h1{
 }
 
 .s-logo{
-  width: 64px;
+  width: 56px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 5px;
+}
+
+.m-logo{
+  width: 40px;
   margin-left: 5%;
   margin-right: 5%;
   padding-top: 5px;
@@ -250,5 +316,18 @@ body h1{
     .main{
       max-width: 85%;
       padding-bottom: 200px;
+    }
+    .s-logo{
+      width: 28px;
+      margin-left: 10%;
+      margin-right: 10%;
+      padding-top: 5px;
+    }
+
+    .m-logo{
+      width: 20px;
+      margin-left: 10%;
+      margin-right: 10%;
+      padding-top: 5px;
     }
   }
