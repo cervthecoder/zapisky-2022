@@ -26,8 +26,13 @@ $font: "Computer Modern", sans-serif;
 $font-mono:  "Computer Modern", monospace;
 $padding: 8px;
 
-html, body {
-    height: 100%;
+html{
+  position:relative; 
+  min-height: 100%;
+
+body {
+  margin:0;
+  padding:0;
 }
 
 .title {
@@ -284,9 +289,10 @@ blockquote p {
 }
 
 .footer{
-  position: fixed;
-  left: 0;
+  position: absolute;
   bottom: 0;
+  left: 0;
+  right: 0;
   width: 100%;
   background-color: $main_color;
   color: white;
@@ -331,3 +337,4 @@ blockquote p {
       padding-top: 5px;
     }
   }
+}
