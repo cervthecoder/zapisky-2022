@@ -201,7 +201,7 @@ $_80 : [_2He],  2s^2, 2p^4 [\uparrow \downarrow]^{[\uparrow \downarrow][\uparrow
 
 ## Vlastnosti a info
 
-- **Izotopy** $\to$ $_8^{16}O$ - toho je nejíce, $_8^{17}O$, $O_8^{18}$
+- **Izotopy** $\to$ $_8^{16}O$ - toho je nejvíce, $_8^{17}O$, $O_8^{18}$
 
 - **Výskyt** $\to$ vzduch (21%)
 
@@ -258,9 +258,28 @@ $2H_2O_2 \to^{MnO_2} 2H_2O + O_2$
 
 $\to$ **Kyslík je velmi reaktivní prvek**
 
-## Sloučeniny Kyslíku
+## Využití
 
-### Peroxid vodíku
+- oxidace látek -  výroba oceli ze surového železa, spalování/hoření, sváření/řezání + vodík
+  nebo acetylen
+
+# Ozon ($O_3$)
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Ozone-1%2C3-dipole.png)
+
+- molekula má lomený tvar
+
+- silné oxidační účinky (větší, než $O_2$)
+
+- v ozonosféře pohlcuje UV záření B, C
+
+- Freony (plyny na pohánění tlakových lahví) snižují množství ozonu v ozonosféře dichlor difluor methan
+
+- $O_2 + UV \to O_3$
+
+  
+
+# Peroxid vodíku ($H_2O_2$)
 
 $H_2^{I}O_2^{-I}$
 
@@ -292,5 +311,5 @@ $H_2^{I}O_2^{-I}$
 
 - Je ovlivněna minerály, které jsou ve vodě rozpuštěné
   1. **Přechodná tvrdost vody**
-     - Zpuůsobují ji $Mg(HCO_3)_2$ a $Ca(HCO_3)_2$
+     - Způsobují ji $Mg(HCO_3)_2$ a $Ca(HCO_3)_2$
 
