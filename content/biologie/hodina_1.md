@@ -6,7 +6,7 @@ date=2021-09-07
 
 +++
 
-# Primáti (nehetnatci)
+# Primáti (Nehetnatci)
 
 - placentální savci
 
