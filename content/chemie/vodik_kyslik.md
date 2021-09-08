@@ -312,4 +312,27 @@ $H_2^{I}O_2^{-I}$
 - Je ovlivněna minerály, které jsou ve vodě rozpuštěné
   1. **Přechodná tvrdost vody**
      - Způsobují ji $Mg(HCO_3)_2$ a $Ca(HCO_3)_2$
-
+     - dá se odstranit doma z vody $\to$ varem $\to$ $MgCO_{3(aq)}$ a $CaCO_{3(aq)}$
+       1. $Ca(HCO_3)_{2(aq)} \to CaCO_{3(aq)} + CO_2 + H_2O$
+       2. $Mg(HCO_3)_{2(aq)} \to MgCO_{3(aq)} + CO_2 + H_2O$
+     - **Tvoří vodní kámen**, pokud jsou usazeniny na topných spirálách, tak se nazývá **Kotelní kámen**
+     - iontoměnič $\to$ sloučeniny a anionty, které vychytají kationty vápníku a hořčíku
+     
+     **Odstranění přechodné tvrdosti vodou**
+     
+     - $Na_2CO_{3(aq)} + Ca(HCO_3)_{2(aq)} \to NaHCO_{3(aq)} + CaCO_{3(s)}$ 
+     - $Na_2CO_{3(aq)} + Mg(HCO_3)_{2(aq)} \to NaHCO_{3(aq)} + MgCO_{3(s)}$ 
+     
+  2. **Trvalá tvrdost vody**
+  
+     - způsobují ji $CaSO_4$ a $MgSO_4$ (nejsou tak dobře rozpustné ve vodě)
+  
+     - Odstraňuje se opět sodou
+  
+       $Caso_4 + Na_2CO_3 \to CaCO_3 + Na_2SO_4$
+  
+       $Mgso_4 + Na_2CO_3 \to MgCO_3 + Na_2SO_4$
+  
+       
+  
+       

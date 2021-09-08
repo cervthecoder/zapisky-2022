@@ -81,7 +81,7 @@ date=2021-09-08
 
   ![](http://web2.mendelu.cz/af_291_projekty2/vseo/files/58/5123.png)
 
-  - Kyselina hexadec-9-enová!!!! **Špatně **(nesmí být konfigurace TRANS)
+  - Kyselina hexadec-9-enová!!!! **Špatně**(nesmí být konfigurace TRANS)
   - V místě dvojné vazby jsou substinuenty stejného vlivu na stejné straně $\to$ Konfigurace CIS (kvůli **štěpení**)
 
   **Kyselina olejová** (kyselina cis-oktadec-9-enová) $\to CH_3-(CH_2)7-CH=CH-(CH)_2-COOH$

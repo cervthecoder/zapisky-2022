@@ -35,12 +35,12 @@
         <loc>https://cervthecoder.github.io/zapisky-2022/chemie/</loc>
     </url>
     <url>
-        <loc>https://cervthecoder.github.io/zapisky-2022/chemie/anorganicka-chemie/</loc>
-        <lastmod>2021-05-26</lastmod>
-    </url>
-    <url>
         <loc>https://cervthecoder.github.io/zapisky-2022/chemie/halogeny/</loc>
         <lastmod>2021-09-03</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/zapisky-2022/chemie/vodik-kyslik/</loc>
+        <lastmod>2021-05-26</lastmod>
     </url>
     <url>
         <loc>https://cervthecoder.github.io/zapisky-2022/dejepis/</loc>
@@ -58,6 +58,10 @@
     <url>
         <loc>https://cervthecoder.github.io/zapisky-2022/fyzika/casticova-fyzika/</loc>
         <lastmod>2021-04-16</lastmod>
+    </url>
+    <url>
+        <loc>https://cervthecoder.github.io/zapisky-2022/fyzika/kmitavy-pohyb/</loc>
+        <lastmod>2021-09-08</lastmod>
     </url>
     <url>
         <loc>https://cervthecoder.github.io/zapisky-2022/fyzika/temata/</loc>
