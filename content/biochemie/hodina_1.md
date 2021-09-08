@@ -106,5 +106,5 @@ date=2021-09-08
 
 český název tuky není odborně správně
 
-n- před názvem kyseliny znamená narozvětvená
+n- před názvem kyseliny znamená nerozvětvená
 
