@@ -1,6 +1,6 @@
 +++
 
-title=""
+title="1. Hodina"
 
 date=2021-09-08
 
@@ -23,5 +23,4 @@ date=2021-09-08
 - opatření katolické církve proti šíření reformačních hnutí
 - od roku 1545 se koná tridentský koncil
 - tridentský koncil trval s přestávkami 18let
-- 
 

@@ -69,6 +69,89 @@ date=2021-09-07
 
 - Složité vzorce chování
 - více druhů
+- větší tělesný rámec
+- veliká velikostní variability (Kosmani x Gorily)
+- rozvoj mozku s výraznou gyrifikací pro zvětšení povrchu (gyry $\to$ závitý nejsvrchnější vrstvy koncového mozku [mozkové kůry])
+- Opozice palců vůči ostatním prstům
+- výhradně nehty
+- Výhradně se zaměřují na rostlinnou potravu
+- Aktivní přes den
+
+## 1. Ploskonosí
+
+- široká nosní přepážka
+- nozdry směrované do stran
+- Obývají Jižní Ameriku (opice nového světa)
+- chápavý ocas
+- nemají sedcí hrboly
+
+### Kosmanovití
+
+**kosman bělovousý**
+
+### Malpovití
+
+**malpa kaupicínská**
+
+### Chápanovití
+
+**chápan středoamerický**
+
+
+
+## 2. Úzkonosí
+
+- úzká nosní přepážka
+- nozdru směrované do předu
+- Obývají Ásii a Afriku (opice starého světa)
+- nemají chápavý ocas (používají ho spíše na rovnováhu)
+
+### Kočkodanovití
+
+**Kočkodan**
+
+### Makakovití
+
+### Hominoidea (lidoopy a lidé)
+
+	### 1. Gibonovití
+
+**Gibon**
+
+- brahiace = ručkování (skákání z větve na větev)
+
+### 2. Hominidea
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hominoid_taxonomy_7-2.svg/2880px-Hominoid_taxonomy_7-2.svg.png)
+
+**Orangutan (pongo)**
+
+- sumatra
+
+**Gorila (gorilla)**
+
+- 2 pod druhy
+- vytvářejí velké skupiny
+- mírumilovná zvířata
+- většinou se pohybují po zemi
+- dominantní samec (má stříbrnou srst na zádech)
+
+**Šimpanz (Pan)**
+
+- nám nejpříbuznější
+
+**Šimpanz učenlivý**
+
+- agresivní
+- přísná hyerarchie
+
+**Šimpanz bonobo**
+
+- mírumilovní
+- subtilnější
+- neustálá sexuální aktivita
+
+**Člověk (homo)**
 
 # 2. způsob dělení
 
