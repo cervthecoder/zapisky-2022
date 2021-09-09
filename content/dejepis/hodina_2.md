@@ -17,3 +17,9 @@ date=2021-09-09
 - založen na naprosté oddanosti a poslušnosti
 - byli reformní
 - byli velice vzdělaní
+- Jesuité začali jako první poukazovat na to, co my známe pod rasismem
+- bez jezuitů bychom neměli národní obrození
+- 
+
+---
+
