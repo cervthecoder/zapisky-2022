@@ -42,6 +42,10 @@ date=2021-09-08
 
   - Ve své struktury obsahují 10 a více uhlíku
 
+  - Vždy sudý počet uhlíku
+
+  - Linearní, přímý, nerozvětvený řetězec
+
   - obsahují ve své struktuře $COOH$ (**uhlík z karboxylové kyseliny je vždy první**)
 
     $\to$ Obsahují pouze jednu karboxylovou skupiny
@@ -59,7 +63,7 @@ date=2021-09-08
 
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lauric_acid.png/560px-Lauric_acid.png)
 
-  - Ve struktuře je karboxylová skupina polární $\to$ zbytek je polární
+  - Ve struktuře je karboxylová skupina polární $\to$ zbytek je nepolární
   - $CH3-(CH_2)10-COOH$
 
   **Kyselina myristová** (kyselina n-tetradekanová) $\to CH_3-(CH_2)_{12}-COOH$
@@ -88,15 +92,73 @@ date=2021-09-08
 
   **Kyselina linolová** (kyselina cis-cis-oktadekadi-9-12-enová) $\to CH_3-(CH_2)_4-CH=CH-CH-CH=CH-(CH_2)_7-COOH$
 
-  **Kyselina linolenová** (all-cis-oktadekatri-9-12-15-enová) $\to CH_3-CH_2-CH=CH-CH_2-CH=CH-CH_2-CH=CH-(CH_2)_7-COOH$ 
+  **Kyselina linolenová** (all-cis-oktadekatri-9-12-15-enová) $\to CH_3-CH_2-CH=CH-CH_2-CH=CH-CH_2-CH=CH-(CH_2)_7-COOH$
 
-  
+  ### Esenciální mastné kyseliny
 
-  
+  - Nepostradatelné pro člověka $\to$ neumí si je syntetizovat
 
-  
+  - Rostliny je umí syntetizovat
 
-  
+  - **Včechny jsou nenasycené** (obsahují ve svém řetězci více než jednu dvojnou vazbu)
+
+  - kyselina linolová, linolenová, arachidinová
+
+  - čím více es. mastných kyselin přijímamé přijímáme tím, lepší lipidy
+
+  - $\Omega-3$ nenasycené mastné kyseliny $\to$ 3. uhlík od konce má dvojnou vazbu (linolenová)
+
+    $\to$ **Většina z nich jsou pro nás esenciální**
+
+  ## Esterifikace
+
+  - lipidy vznikají **Esterifikací** $\to$ reakce karboxylové kyseliny s alkoholem
+  - probíhá v kyselém prostředí
+  - posuny chemických vazeb nebo volných elektronových párů
+  - **Indukční efekt** $\to$ posun $\sigma$ - vazeb k elektronegativnějšímu atomu (kladn)
+  - **Mezomérní efekt **$\to$ posun $\pi$-vazeb, nebo volných eletkronových párů po konjugovaném systému
+    1. Když se atom s nejvyšší elektronegativitou zapojuje do konjugace orbitalem, kde je pouze jeden elektron, tak $\pi$-vazby posouvá k sobě $\to$ **Zaporný mezomérní efekt**
+    2. Když se atom s nejvyšší elektronegativitou  zapojuje do konjugace s volným elektronovým párem, tak $\pi$-vazby odsouvá $\to$ **Kladný mezomérní efekt**
+
+  $R-COOH$ $\to$ substrát (karboxylová skupina)
+
+  - Karboxylová skupina je polární (nacházejí se zde atomy)
+
+    $R-OH$$\to$ činidlo (alkohol)
+
+  ### 1. část
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fischer-Veresterung_3.svg/1280px-Fischer-Veresterung_3.svg.png)
+
+  - všechny $\sigma$-vazby se budou posouvat ke kyslíkům v karboxylové skupině (záporný indukční efekt $-I-efekt$)
+  - Kyslík nahoře $\to$ **Záporný mezomérní efekt** $\to$ **Obrovský parciální záporný náboj** (vysoká elektronová hustota)
+  - Kyslík dole $\to$ **Kladný mezomérní efekt**
+  - Na karboxylovém uhlíku je celý kladný náboj (elektronové zředění) $\to$ potřebuje **nukleofil** $\to$ alkohol (má dostatečné elektronové zhuštění)
+
+  ### 2. Část
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fischer-Veresterung_4.svg/1100px-Fischer-Veresterung_4.svg.png)
+
+  - od kyslíku se naváže alkohol na uhlík
+
+  - Kyslík z alkoholu ukradne elektron vodíku z alkoholu $\to$ vznikne proton
+  - Proton se naváže na kyslík dole v karboxylové skupině $\to$ To se odtrhne jako voda
+
+  ### 3. Část
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischer-Veresterung_5.svg/1100px-Fischer-Veresterung_5.svg.png)
+
+  - Na uhlíku v kraboxylové skupině se zase udělá kladný náboj $\to$ odštěpí se proton nahoře
+  - **Esterová vazba** $\to$ vazba mezi karboxylovým uhlíkem a alkoholovým kyslíkem
+
+  ### Souhrná reakce
+
+  - reakce je velmi vratná, pokud by se neodčerpávala voda (v laboratoři se používá kyselina sírová, protože dehydruje)
+  - estery nižších karboxylových kyselin se používají v potravinářském průmyslu jako aroma (mají velmi nízkou teplotu varu)
+  - estery vyšších karboxylových kyselin jsou lipidy
+  - je to substituce nukleofilu jako celek, ale přesný podrobný mechanismus je adično-eliminační (přidávání vodíku a odebírání vody)
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Fischer-Veresterung_1a.svg/1280px-Fischer-Veresterung_1a.svg.png)
 
   
 
@@ -107,4 +169,8 @@ date=2021-09-08
 český název tuky není odborně správně
 
 n- před názvem kyseliny znamená nerozvětvená
+
+$\sigma$-vazby vždy vznikají na spojnici jader atomů
+
+Když se atom s nejvyšší elektronegativitou zapojuje do konjugace orbitalem, kde je pouze jeden elektron, tak $\pi$-vazby posouvá k sobě $\to$ **Zaporný mezomerní efekt**
 
