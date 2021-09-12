@@ -168,9 +168,20 @@ date=2021-09-08
 
 český název tuky není odborně správně
 
+substinuent = funkční skupina
+
 n- před názvem kyseliny znamená nerozvětvená
 
 $\sigma$-vazby vždy vznikají na spojnici jader atomů
 
-Když se atom s nejvyšší elektronegativitou zapojuje do konjugace orbitalem, kde je pouze jeden elektron, tak $\pi$-vazby posouvá k sobě $\to$ **Zaporný mezomerní efekt**
+### Indukční efekt (-/+I)
+
+- Atomy, nebo substinuenty s nejvyšší elektronegativitou přitahují vazebné elektrony silněji, než vodík, anžto snižují elektronovou hustotu (odebírají elektronovou hustotu z prostoru vodíku) $\to$ **Záporný indukční efekt**
+- Atomy, nebo substinuenty s nižší elektronegativou přitahují vazebné elektrony slaběji než vodík a zvyšují elektronovou hustotu (přenechávají elektronouvou hustotu vodíku) $\to$ **Kladný indukční efekt**
+
+### Mezomerní efekt (-/+M)
+
+- Když se atom s nejvyšší elektronegativitou zapojuje do konjugace orbitalem, kde je pouze jeden elektron, tak $\pi$-vazby posouvá k sobě $\to$ **Zaporný mezomerní efekt**
+
+- Když se atom s nejvýšší elektronegativitou zapojuje do konjugace orbitalem s *celým* elektronovým párem, tak ten dodá elektronu na tvorbu $\pi$-vazby $\to$ **Kladný mezomérní efekt**
 
