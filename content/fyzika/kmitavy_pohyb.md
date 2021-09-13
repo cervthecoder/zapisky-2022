@@ -68,6 +68,8 @@ $T=2\pi{\sqrt{\frac{m}{k}}}$
 
 
 
+## Úlohy
+
 
 
 # Dynamika kmitavého pohybu
