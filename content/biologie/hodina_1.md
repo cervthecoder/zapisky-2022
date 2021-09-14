@@ -120,9 +120,11 @@ date=2021-09-07
 
 - brahiace = ručkování (skákání z větve na větev)
 
-### 2. Hominidea
+### 2. Hominidea (4 základní rody)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hominoid_taxonomy_7-2.svg/2880px-Hominoid_taxonomy_7-2.svg.png)
+
+**Gibon**
 
 **Orangutan (pongo)**
 
