@@ -78,5 +78,24 @@ pračas - období před tím než byl stvořen svět
 
 
 
+### Zahradní slavnost (Václav Havel)
+
+- český dramatik a esejista
+
+- disident
+- Absurdní drama
+- r 1963
+- hl. postava Hugo Pludek
+
+
+
+
+
+
+
+
+
+
+
 
 
