@@ -57,7 +57,7 @@ date=2021-09-08
 
   ### Nasycené
 
-  - vazby hybridizace sp3
+  - vazby hybridizace $sp^3$ ($109^\circ 28'$)
 
   **Kyselina Laurová** (kyselina n-dodekanová) $\to CH3-(CH_2)_{10}-COOH$
 
@@ -66,18 +66,18 @@ date=2021-09-08
   - Ve struktuře je karboxylová skupina polární $\to$ zbytek je nepolární
   - $CH3-(CH_2)10-COOH$
 
-  **Kyselina myristová** (kyselina n-tetradekanová) $\to CH_3-(CH_2)_{12}-COOH$
+  **Kyselina myristová** (kyselina n-tetradekanová) $\to CH_3-(CH_2)_{12}-COOH$ 
 
-  **Kyselina palmitová** (kyselina n-hexadekanová) $\to CH_3-(CH_2)_{14}-COOH$
+  **Kyselina palmitová** (kyselina n-hexadekanová) $\to CH_3-(CH_2)_{14}-COOH$ / **palmitolyl** (acyl kyseliny palmitové)
 
-  **Kyselina stearová** (kyselina n-oktadekanová) $\to CH_3-(CH_2)_{16}-COOH$
+  **Kyselina stearová** (kyselina n-oktadekanová) $\to CH_3-(CH_2)_{16}-COOH$ / **stearolyl** (acyl kyseliny stearová)
 
   **Kyselina archaidová** (kyselina n-eikosanová) $\to CH_3-(CH_2)_{18}-COOH$
 
   ### Nenasycené
 
   - je pro nás důležité zjistit, z kterých uhlíků vystupují násobné vazby
-  - kde je dvojná vazba je hydridizace sp2
+  - kde je dvojná vazba je hydridizace $sp^2$
 
   **Kyselina palmitoolejová** (kyselina cis-$\Delta^9$ - hexadecenová/ kyselina cis hexadec-9-enová) $\to CH3-(CH_2)5-CH=CH-(CH_2)_7-COOH$
 
@@ -88,11 +88,11 @@ date=2021-09-08
   - Kyselina hexadec-9-enová!!!! **Špatně**(nesmí být konfigurace TRANS)
   - V místě dvojné vazby jsou substinuenty stejného vlivu na stejné straně $\to$ Konfigurace CIS (kvůli **štěpení**)
 
-  **Kyselina olejová** (kyselina cis-oktadec-9-enová) $\to CH_3-(CH_2)7-CH=CH-(CH)_2-COOH$
+  **Kyselina olejová** (kyselina cis-oktadec-9-enová) $\to CH_3-(CH_2)7-CH=CH-(CH)_2-COOH$ / **Oleoyl**
 
-  **Kyselina linolová** (kyselina cis-cis-oktadekadi-9-12-enová) $\to CH_3-(CH_2)_4-CH=CH-CH-CH=CH-(CH_2)_7-COOH$
+  **Kyselina linolová** (kyselina cis-cis-oktadekadi-9-12-enová) $\to CH_3-(CH_2)_4-CH=CH-CH-CH=CH-(CH_2)_7-COOH$ / **lynolyl**
 
-  **Kyselina linolenová** (all-cis-oktadekatri-9-12-15-enová) $\to CH_3-CH_2-CH=CH-CH_2-CH=CH-CH_2-CH=CH-(CH_2)_7-COOH$
+  **Kyselina linolenová** (all-cis-oktadekatri-9-12-15-enová) $\to CH_3-CH_2-CH=CH-CH_2-CH=CH-CH_2-CH=CH-(CH_2)_7-COOH$ / **linolenyl**
 
   ### Esenciální mastné kyseliny
 
@@ -164,6 +164,69 @@ date=2021-09-08
 
 
 
+# Lipidy
+
+- podle struktury je dělíme na dvě skupiny
+
+## Jednoduché lipidy
+
+- **pouze** estery vyšších karboxylových kyselin a alkohol
+- jsou energeticky hodnotné
+- dělíme dle alkoholové složky
+
+### Acylglyceroly
+
+- alkoholovou složkou je glycerol
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Glycerin_Fischer.svg/1200px-Glycerin_Fischer.svg.png" style="zoom:15%;" />
+
+- esterifikace na glycerolu mohou probíhat až třikrát (je trojsytný)
+  1. Monoacylgleroly $\to$ esterifikuje jedna OH-skupina
+  2. Diacylglyceroly $\to$ esterifikují dvě OH-skupiny
+  3. Triacylglyceroly $\to$ esterifikují tří OH-skupiny
+- esterifikace je ovlivněna prostorovými důvodu
+- nejdříve se esterifikuje OH-skupina na uhíku 1. $\to$ pak na uhlíku 3. $\to$ pak na uhlíku 2.
+- acyly se uvádějí v abecedním pořadí. v názvu
+
+**1-palmitolylglycerol** (monoglycerol kyseliny palmitové)
+
+- po esterifikaci a uhlíku číslo jedna se uhlík číslo dva stane chirálním $\to$ asymetický uhlík (označuje se hvězdičkou
+
+  $sp^3$ hybridozovaný uhlík, který má všechny 4 substinuenty rozdílné $\to$ **Nelze v něm proložit rovinu symetrie**
+
+  Celá látka bude v tomto místě poskytovat optickou izomerii
+
+  Izomery se liší pouze prostorovým uspořádáním substinuentů na uhlíku $\to$ OH skupina je například na druhé straně
+
+  1. Pokud je na chirálním uhlíka OH skupina na pravo $\to$ **D-1-palmitolyl glycerol**
+  2. Pokud je na chirálním uhlíku OH skupina na levo $\to$ **L-1-palmitolyl glycerol** (je prostorově výhodnější, protože se potom váže acyl na druhém uhlíku na levo)
+
+### Vosky
+
+- složkou jsou vyšší jednosytné alyfatické alkoholy
+
+  $CH_3-[CH_2]_x-CH_2-OH$
+
+- živočišné vosky spíše $\to$ 14-18 uhlíku (výjimka včelí vosk)
+
+- živočišné vosky spíše $\to$ 26-30 uhlíků
+
+**Hexadekanol** (cetylalkohol) $CH_3-[CH_2]_{14}-CH_2-OH$
+
+**Oktadekanol** (stearylalkohol) $CH_3-[CH_2]_{16}-CH_2-OH$
+
+**Triakontanol** (myricilalkohol) $CH_3-[CH_2]_{28}-CH_2-OH$ (včelí vosk)
+
+## Složité lipidy
+
+- estery vyšších karboxylových kyselin a alkoholů + **polární složka**
+- Zbytek kyseliny trihydrogeny kyseliny $\to$ fosfolipidy
+- cukr (galaktóza, oligosacharidy) $\to$ glykolipidy
+- nikdy nejsoy energeticky hodnotné
+- **Důležité mechanické a funkční prvky buněnčných struktur** $\to$ fosfolipidy jako základ struktury buněčných biomembrán, myelinová pochva
+
+
+
 ---
 
 český název tuky není odborně správně
@@ -173,6 +236,12 @@ substinuent = funkční skupina
 n- před názvem kyseliny znamená nerozvětvená
 
 $\sigma$-vazby vždy vznikají na spojnici jader atomů
+
+acyl = zbytek karboxylové kyseliny bez skupiny $OH^-$ (jednovazná)
+
+konformační izomerie = rotace kolem sigma vazby uhlíku
+
+konfigurační izomerie = Geometrická izomerie (cis-trans / Optická izomerie
 
 ### Indukční efekt (-/+I)
 
@@ -185,3 +254,8 @@ $\sigma$-vazby vždy vznikají na spojnici jader atomů
 
 - Když se atom s nejvýšší elektronegativitou zapojuje do konjugace orbitalem s *celým* elektronovým párem, tak ten dodá elektronu na tvorbu $\pi$-vazby $\to$ **Kladný mezomérní efekt**
 
+### Optická izomerie (stereoizomerie[konfigurační izomerie])
+
+- obsahuje ve své struktuře své struktuře chirální uhlík
+- izomery, která bude látka psokytovat se budou odlišovat
+- optické izomery, které jsou předmět a jeho zrcadlový obraz $\to$ optické antipody (eantiomery)

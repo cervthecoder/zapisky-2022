@@ -23,4 +23,7 @@ date=2021-09-10
 - František Lieasman
 - Papežská armáda $\to$ nikdy nebyl jezuita papežem
 - hlavou jeuzitů je Generál
+- v 16. století hodně rozvinuly astronomii $\to$ Spravují Vatikánskou observatoř
+- Johan Gregor Mendel špička v Genetice
+- nemáme oprávnění šířit víru, pokud nemáme vědu, o kterou se opřeme
 - 
