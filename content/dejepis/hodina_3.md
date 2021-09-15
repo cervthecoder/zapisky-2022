@@ -26,4 +26,10 @@ date=2021-09-10
 - v 16. století hodně rozvinuly astronomii $\to$ Spravují Vatikánskou observatoř
 - Johan Gregor Mendel špička v Genetice
 - nemáme oprávnění šířit víru, pokud nemáme vědu, o kterou se opřeme
-- 
+- Veškeré formy umění k šíření víry
+- divadelní hry s protiotrokářskými motivy
+- barok je jezuitský sloh
+- barokní hudba přichází z varhanami
+- snaží se oslovit člověka přes hudbu
+- krása lidského bytí
+- využívají meditací $\to$ postavit se před boží tvář
