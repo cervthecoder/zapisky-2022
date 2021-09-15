@@ -2,13 +2,11 @@
 
 title="Prezentace"
 
-date=2021-15-09
+date=2021-09-15
 
 +++
 
 ### Zahradní slavnost (Havel)
-
-
 
 ### Audience (Havel)
 
