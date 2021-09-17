@@ -14,3 +14,8 @@ date=2021-09-17
 - válku lze vztahovat ke konkrétnímu místu
 - účastnit se války
 - boj o území
+- válka je většinou technologický pokrok
+- existují různá hlediska a interpretace války $\to$ **narativní princip** (příběhy každé strany se liší)
+- elektronická/hybridní válka
+- válka má příčiny $\to$ hlavní důvod je vždy vyhlášen (záminka Ferdiandn D'este), ale mohou zde být i jiné a vážnější důvody
+- společnost chce změnu
