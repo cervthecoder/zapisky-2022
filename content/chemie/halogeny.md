@@ -85,6 +85,29 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
       - jejich roztoky jsou jejich kyseliny
       - polarita $HF>HCl>HBr>HI$ (nejreaktivnější je Iodovodík)
       - Jejich reaktivita závisí na jeich polarizovatelnost $\to$ Čím je vazba dále od jádra, tím jsou elektrony vazby méně přitahovány (atom iodu je mnohem větší, než chloru)
+      - mnohem hůře se kyselině fluorovodíkové odštěpuje vodík $\to$ je velice elektronegativní $\to$ vytváří se vodíkové můstky $\to$ nejslabší halogenovodíková kyselina
+      - halogenové kyseliny jsou plně disociované v roztocích $\to$ vždy jsou ve vodě jako ionty ($H_3O^+ + X^-$)
+      
+      ### HF
+      
+      - silná žíravina
+      
+      - leptá sklo (nesmí se uchovávat ve vodě)
+      
+        $4HF + SiO_2 \to SiF_4 + 2H_2O$
+      
+      - využívá se k vyleptávání ornamentů na chemické nádoby
+      
+      ### HCl (kyselina chlorovodíková/solná)
+      
+      $2NaCl + H_2SO_4 \to 2HCl + Na_2SO_4$
+      
+      - důležitá složka žaludeční šťáva (0.3 - 0.4%)
+      - aktivuje pepsinogen $\to$ pepsin (enzym na trávení bílkovin)
+      
+      1. $HCl_{(aq)} + M_y \to MCl_y + H_2$
+      2. $HCl_{(aq)} + M_xS_y \to MCl_y + H_2S$
+      
    2. halogenidy $MX_y$
 
 ---
