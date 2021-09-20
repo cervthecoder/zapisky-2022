@@ -19,3 +19,8 @@ date=2021-09-17
 - elektronická/hybridní válka
 - válka má příčiny $\to$ hlavní důvod je vždy vyhlášen (záminka Ferdiandn D'este), ale mohou zde být i jiné a vážnější důvody
 - společnost chce změnu
+- náboženské území
+- každá doba představuje válku jinak
+- aby  ve válce někdo bojoval, tak musí být propaganda
+- kulturní dopad války $\to$ Válečný román
+- etnický dopad války
