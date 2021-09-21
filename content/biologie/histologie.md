@@ -27,37 +27,64 @@ date=2021-09-16
 
 - některé typy žláz se odvozují od epitelů (exokrinn (ven) í/endokrinní (dovnitř))
 
-- 1. **podle tvaru**
-     1. Jednovrstevný (plochý) $\to$ buňky jsou mezi sebou pevně napojené (kapilára)
-     2. Vícevrstevný (plochý) (pokožka)
-     3. Třamčitý $\to$ buňky se řadějí za sebe a tvoří třamcový útvar (jaterní buňky)
-     4. Retikulární $\to$ síťované struktury (brzlík)
+  **podle tvaru**
 
-- 2. **Podle funkce**
+  1. Jednovrstevný (plochý) $\to$ buňky jsou mezi sebou pevně napojené (kapilára)
+  2. Vícevrstevný (plochý) (pokožka)
+  3. Třamčitý $\to$ buňky se řadějí za sebe a tvoří třamcový útvar (jaterní buňky)
+  4. Retikulární $\to$ síťované struktury (brzlík)
 
-     **Epitel krycí a výstelkový**
+  **Podle funkce**
 
-     1. řasynkový (dýchací cesty)
-     2. resorpční (střebává $\to$ epitel v tenkém střevě)
-     3. respirační (výstelka plicních sklípků)
+  **Epitel krycí a výstelkový**
 
-     **Žlázový epitel **(tvoří žlázy)
+  1. řasinkový (dýchací cesty)
+  2. resorpční (střebává $\to$ epitel v tenkém střevě)
+  3. respirační (výstelka plicních sklípků)
 
-     1. trubcovité etc.
+  **Žlázový epitel **(tvoří žlázy)
 
-     **Smyslový epitel** (reagují na vnější podněty)
+  1. trubcovité
+  2. váčkovité
 
-     1. Na chemické podněty
-     2. na světelné podněty
-     3. na zvukové podněty
+  **Smyslový epitel** (reagují na vnější podněty)
 
-     
+  1. Na chemické podněty
+  2. na světelné podněty
+  3. na zvukové podněty
+
 
 ### Pojivová
 
-**Vazivová tkáň**
+#### Vazivová tkáň
+
+- měkká tkáň s vysokým obsahem vody
+- obsahuje buňky
+  1. Fibrocyty $\to$ vyzrálé vazivo tvořící buňky
+  2. Fibroblasty $\to$ nevyzrálé
+- obsahuje kolagenní a elastická vlákna a mezibuňěčnou hmotu
+
+> **Tuhé** $\to$ převažují kolagenní vlákna (kloubní vazy) <br>
+>
+> **Řídké** $\to$ málo vláken, převažují buňky a hmota (vyplňuje mezery mezi orgány) <br>
+>
+> **Elastické** $\to$ převažují elastická vlákna (vazi na páteři) <br>
+>
+> **Tukové** $\to$ skládá se z tukovýcy buňek (podkoží) <br>
+>
+> **Lymfoidní** $\to$ rozvětvené vazivové buňky (mízní uzliny, slezina)
 
 **Chrupavčitá tkáň**
+
+- chondrocyt = typická buňka chrupavčitý tkáně
+- mezibuněčnábuněčná hmota rozhoduje o typu chrupavky
+- neobsahuje cévní zásobení ani není nervově propojená $\to$ velmi špatná schopnost regenerace 
+
+> **hyalinní** $\to$ bílá sklovitá (kryje kloubní povrchy kostí) <br>
+>
+> **Elastická** $\to$ žlutá, pružná (ušní boltec, příklopka hrtanová) <br>
+>
+> **Vazivová**
 
 **Kostní tkáň**
 
@@ -66,4 +93,20 @@ date=2021-09-16
 ### Nervová
 
 
+
+---
+
+**struna hřbetní** - chorda dorsalis $\to$ její buňky mají vakuoly $\to$ meziobratlové ploténky se od struny hřbetní odvozují
+
+**peroxizóm** - buněčná organela, která likviduje toxické látky pro buňku a zúčastňuje se některých metabolických drah
+
+**míza** = lymfa $\to$ voda + odpadní látky z tkáňového moku +  (extracelulární tekutina) 
+
+**mízní uzlina** = lymfatická uzlina $\to$ združují se v nich trvale některé bílé krvinky (mohou se tam množit)
+
+**mízní systém** je napojený na cévní systém
+
+**endotel** = vrstva epitelu na povrchu vlásečnic
+
+**jizva** = vazivová výplň, kterou se organismus snaží zacelit poškozenou tkáň
 
