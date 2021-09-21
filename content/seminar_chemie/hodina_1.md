@@ -52,7 +52,7 @@ date=2021-09-06
 
   $\to$ **Přítomnost disperzních částic prokázat pouze chemicky**
 
-## Koloidně disperzní soustavy <$1,\:100\:nm$ nebo $1 \:{\micro}$$m$)
+## Koloidně disperzní soustavy <$1,\:100\:nm$ nebo $1 \:um$)
 
 - Disperzní částice jsou pozorovatelné elektronovým mikroskopem
 
@@ -62,10 +62,10 @@ date=2021-09-06
 
   
 
-## Hrubě disperzní soustavy (velikost částic $>100\:nm$  nebo $1 \:{\micro} $$m$)
+## Hrubě disperzní soustavy (velikost částic $>100\:nm$  nebo $1 \:um$)
 
- - mikrodisperzní $\to$ $1 \micro m$ až $50 {\micro} $$m$
- - makrodisperzní $\to$ více než $50{\micro}$ $m$
+ - mikrodisperzní $\to$ $1 \micro m$ až $50 u$m$
+ - makrodisperzní $\to$ více než $50um$
 
  ## Podle počtu fází (kvantitativní kvalifikaces)
 
