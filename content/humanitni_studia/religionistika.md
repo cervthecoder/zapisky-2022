@@ -23,7 +23,6 @@ date=2021-09-14
 
 - Její vznik souvisí s urbanizací $\to$ města jsou často mnohem víc kosmopolitní, není tak konzervativní jako vesnice
 - lidé mají volný čas $\to$ řeší i jiné věci
-
 - Cicero : odvozuje od relegere (brát na něco ohled, **respektovat**)
 - Lactantiův překlad : religare, religo - spojenost, sváznost s bohem
 - religio : slaměný uzel
@@ -32,3 +31,8 @@ date=2021-09-14
 - kant: náboženství je uvědomění si mravního zákona
 - hegel : náboženství je vědomost ducha o své podstatě
 - marx : náboženství je výrazem skutečné bídy ...vzdech sevřeného stvoření, projec bezcitného světa,, duch bezduchých poměrů, opium lidu
+
+- náboženství prostředkem k ovládnutí světa
+- věrouka zabezpečuje náboženské naplnění smyslem života
+- náboženství je povzbuzující silou
+- nábožentví vysvětluje směr chování člověka a udržuje tento směr
