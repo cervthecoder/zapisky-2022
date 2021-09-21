@@ -80,15 +80,45 @@ date=2021-09-16
 - mezibuněčnábuněčná hmota rozhoduje o typu chrupavky
 - neobsahuje cévní zásobení ani není nervově propojená $\to$ velmi špatná schopnost regenerace 
 
-> **hyalinní** $\to$ bílá sklovitá (kryje kloubní povrchy kostí) <br>
+> **hyalinní** $\to$ bílá sklovitá, je nejtvrdší (kryje kloubní povrchy kostí) <br>
 >
 > **Elastická** $\to$ žlutá, pružná (ušní boltec, příklopka hrtanová) <br>
 >
-> **Vazivová**
+> **Vazivová** $\to$ matně bílá, pevná, odolná na tah (meziobratlové ploténky, menisky)
 
 **Kostní tkáň**
 
+- **osteocyt** $\to$ vyzrále základní kostní buňky
+- **osteoblast** $\to$ diferencují se z ních osteocyty
+- **osteoklast** $\to$ požírači, vyklízeči starých osteocytů (schopné pohybu)
+- stárnutím ubývá z kostí pružná elastická složka
+- **okostice** $\to$ vazivová blána
+
+> **Fibrálrní**
+>
+> **Lamelární**
+
 ### Svalová
+
+- **kontrakce** $\to$ možnost se zkracovat
+- **svalové vlákno** $\to$ Vícejaderná buňka (soubuní/syncytium)
+- **myocyt** = základní stavební jednotka svalové tkáně (je protkaná bílkovinnými vlákny $\to$ aktin a myosin)
+- aktino-myosinový komplex je schopen kontrakce
+
+**Srdeční svalová tkán** (příčně žíhaná)
+
+> **Příčně pruhovaná** (žíhaná) <br>
+>
+> - velde sebe těsně ležící vlákna
+> - mají na sobě vazivovou ochranou vrstvu $\to$ akční potenciál se nedostane na vedlejší buňku
+> - na každé svalové vlákno je jeden akční potenciál
+> - myofribrily $\to$ vlákna aktinu a myozinu
+
+> **Hladká** <br>
+>
+> - kontrakce je pomalá
+> - buňky vřetenovitého tvaru
+> - nemají elektrickou izolaci $\to$ akční potenciál se šíří pozvolna a pomalu
 
 ### Nervová
 
@@ -109,4 +139,18 @@ date=2021-09-16
 **endotel** = vrstva epitelu na povrchu vlásečnic
 
 **jizva** = vazivová výplň, kterou se organismus snaží zacelit poškozenou tkáň
+
+**osifikace** = kostnatění (začínají do chrupavčitých základů procházet cévy a ploché kosti mozkovny vznikají ze základů vazivové tkáně)
+
+**růstová chrupavka** = nediferenciovaná část kosti, z které rostou kosti
+
+**oss** = kost
+
+**myocyt** = základní stavební jednotka svalové tkáně
+
+**sarkoplazmatické retikulum** = Endoplazmatické retikulum v příčně pruhované svalovině $\to$ vysoká koncentrace $Ca^{2+}$ (na povrchu svalového vlákna)
+
+**troponin** = regulační bílkovina, která blokuje samostatný vznik vazby aktinu a myozinu (Troponin$+Ca^{2+}$ $\to$ ztratí kontrolu a aktin a myozin vytvoří vazbu $\to$ **kontrakce**)
+
+**kontrace x relaxace**
 
