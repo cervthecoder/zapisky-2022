@@ -86,8 +86,6 @@ $T=2\pi{\sqrt{\frac{m}{k}}}$
 
 
 
-
-
 ---
 
 kyv je polovina kmitu
