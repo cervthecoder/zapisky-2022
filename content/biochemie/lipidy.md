@@ -181,14 +181,21 @@ date=2021-09-08
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Glycerin_Fischer.svg/1200px-Glycerin_Fischer.svg.png" style="zoom:15%;" />
 
 - esterifikace na glycerolu mohou probíhat až třikrát (je trojsytný)
-  1. Monoacylgleroly $\to$ esterifikuje jedna OH-skupina
+  1. Monoacylgleroly $\to$ esterifikuje jedna OH-skupina (jednoduché acylglyceroly)
   2. Diacylglyceroly $\to$ esterifikují dvě OH-skupiny
   3. Triacylglyceroly $\to$ esterifikují tří OH-skupiny
 - esterifikace je ovlivněna prostorovými důvodu
 - nejdříve se esterifikuje OH-skupina na uhíku 1. $\to$ pak na uhlíku 3. $\to$ pak na uhlíku 2.
 - acyly se uvádějí v abecedním pořadí. v názvu
+- převládají nasycené mastné kyseliny, tak jsou pevného skupenství $\to$ **Tuk**
+- **tuhé tuky** $\to$ živočišné acylglyceroly
+- **čisté tuky**$\to$ bezbarvé látky, bez zápachu
+- převládají nenasycené mastné kyseliny, tak jsou pevného skupenství $\to$ **Olej**
+- **Oleje**$\to$ acylglyceroly rostlin a ryb (vysoký obsah nenasycených mastných kyselin)
+- **čisté oleje** $\to$ nažloutlé a charakteristický zápach
+- acylglyceroly, které v sobě obsahují v sobě esenciální mastné mastné kyseliny mají pro člověka nejvyšší hodnoty
 
-**1-palmitolylglycerol** (monoglycerol kyseliny palmitové)
+**1-palmitolylglycerol** (monoglycerol kyseliny palmitové) $\to$ tuk
 
 - po esterifikaci a uhlíku číslo jedna se uhlík číslo dva stane chirálním $\to$ asymetický uhlík (označuje se hvězdičkou
 
@@ -201,14 +208,48 @@ date=2021-09-08
   1. Pokud je na chirálním uhlíka OH skupina na pravo $\to$ **D-1-palmitolyl glycerol**
   2. Pokud je na chirálním uhlíku OH skupina na levo $\to$ **L-1-palmitolyl glycerol** (je prostorově výhodnější, protože se potom váže acyl na druhém uhlíku na levo)
 
-**1-3-dipalmitolylglycerol**
+<img src="https://cdn.discordapp.com/attachments/753892832590430259/888382511690969089/IMG_0367.jpg" style="zoom:33%;" />
+
+**1-3-dipalmitolylglycerol** $\to$ tuk
 
 - pamitolyl je na 1. a 3. uhlíku
 
-**1-2-3-tripalmitolylglycerol **(tripalmitid)
+<img src="https://media.discordapp.net/attachments/753892832590430259/888382512013934602/IMG_0369.jpg" style="zoom:33%;" />
+
+**1-2-3-tripalmitolylglycerol **(tripalmitid) $\to$ tuk
 
 - palmitolyl je na 1.  a 3. uhlíku a na 2. uhlíku je na pravo
 - jednoduchý acylglycerol $\to$ glycerol je esterifikován pouze jedním typem KK
+
+<img src="https://media.discordapp.net/attachments/753892832590430259/888382512534028308/IMG_0370.jpg" style="zoom:33%;" />
+
+**1, 3 - dioleolyl - 2 - stearolylglycerol** (acyly v názvu řadíme abcedně) $\to$ smíšené acylglyceroly
+
+<img src="https://cdn.discordapp.com/attachments/753892832590430259/890114764766859334/IMG_0371.jpg" style="zoom: 50%;" />
+
+#### Chemické vlastnosti acylglycerolů
+
+- vyplývají z vlastností řetězců mastných kyselin
+
+**žluknutí tuků**
+
+- činost bakterií
+
+- chemická reakce způsobená účinkem bakterií ve vlhkém a teplém prostředí, která probíhá v řetězcích acylů  v acylglycerolech a přednostně na řetězcích s dvoujnou vazbou (štěpí se dvojná vazba)
+
+- oxidace vzdušným kyslíkem za vzniku kratších aldehydů, nebo karboxylových kyselin (jsou možné i ketony)
+
+  $\to$ charakteristické žluté zbarvení, nepříjemný zápach a jsou zdraví škodlivé
+
+- znehodnocují se i vitamíny rospustné v tucích
+
+**Ztužování tuků**
+
+- katalytická hydrogenace acylglycerolů v místech násobných vazeb řetězců acylglycerolů
+- přeměna násobných vazeb na vazby jednoduhé
+- kapalný olej $\to$ tuhý tuk
+- je to výhodné $\to$ tuhé tuky jsou odlnější vůči žluknutí tuků
+- částečná hydrogenace $\to$ výroba margarýnu (uměle se dodá vitamín A, D $\to$ fungují jako konzervanty)
 
 ### Vosky
 
@@ -258,6 +299,10 @@ Fischerův vzorce = používáme, abychom znázornily izomerie
 
 opticky aktivní látka = obsahuje chirální (asymetrický uhlík)
 
+katalytická hydrogenace = zbavení vícenásobné vazby v uhlivodíkovém řetězci
+
+![](data:image/png;base64,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)
+
 
 
 ### Indukční efekt (-/+I)
@@ -274,8 +319,11 @@ opticky aktivní látka = obsahuje chirální (asymetrický uhlík)
 ### Optická izomerie (stereoizomerie[konfigurační izomerie])
 
 - obsahuje ve své struktuře své struktuře chirální uhlík
+
 - pro zařazení do D/L nás zajímá pouze chirální uhlík
+
 - optické izomery, které jsou předmět a jeho zrcadlový obraz $\to$ optické antipody (enantiomery) (pouze pokud je chirální uhlík jeden ve struktuře)
+
 - Záleží na jakou stranu se napojí na látku enzym (na sacharidy v lidském těle se navážou jenom na D optickou izomerii a na aminokyseliny se navážou pouze na L optickou izomerii)
 
 - Významější substinuent na uhlíku je buď **D** (v pravo), nebo **L** (v levo)
@@ -307,3 +355,4 @@ opticky aktivní látka = obsahuje chirální (asymetrický uhlík)
   D-(+)-glyceraldehyd
 
 - není souvislost otáčení roviny polarizovaného světla a tím, jestli je substinuent na chirálním uhlíku L, nebo D
+
