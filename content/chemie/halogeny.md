@@ -78,6 +78,17 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
 ### Sloučeniny
 
 1. Kyslíkaté
+
+   1. Oxidy
+      - velice nestálé látky
+   2. Kyslíkaté kyseliny
+      - $HClO, HClO_2 \to$ jsou velmi nestálé
+      - $HClO_3, HClO_4 \to$ stálé (chloristá je jedna z nejsilnějších anorganických kyselin)
+   3. Soli kyslíkatých kyselin
+      1. Chlornany
+         - nejvýznamnější je chlornan sodný $\to NaClO$ (složka sava 5% $\to$ dezinfekční a bělící účinky)
+      2. 
+
 2. Bezkyslíkaté
    1. halogenovodíky $HX$ (polární vazba)
       - ostře páchnoucí plyny
@@ -107,8 +118,24 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
       
       1. $HCl_{(aq)} + M_y \to MCl_y + H_2$
       2. $HCl_{(aq)} + M_xS_y \to MCl_y + H_2S$
+      3. $HCl_{(aq)} + M_x(CO_3)_y \to MCl_y + CO_2 + H_2O$
+      4. $HCl_{(aq)} + M_x(SO_3)_y \to MCl_y + SO_2 + H_2O$
       
-   2. halogenidy $MX_y$
+   2. halogenidy $MX_y$ (sloučeniny halogenů s prvky s menší el. negativitou)
+
+      - dělíme dle typu vazby
+
+      1. Iontové $\to$ I.A a II.A (bez $Be$)
+      2. atomové $\to$ 
+      3. molekulové $\to$
+
+      - velmi dobře rozpustné soli
+
+      1. $F + Cl_2 \to FeCl_3$
+      2. $Zn + HCl \to ZnCl_2$
+      3. $KOH + HCl \to KCl + H_2O$ (neutralizace)
+
+      
 
 ---
 
