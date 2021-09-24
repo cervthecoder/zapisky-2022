@@ -29,6 +29,7 @@ $Po$
 
 - přijetí elektronů
 - **pouze s prvky I.A** (prvky II.a už mají moc vysokou el. negativitu)
+- $S + 2e^- \to S^{2-} [Ar]$
 
 
 
