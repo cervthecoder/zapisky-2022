@@ -114,55 +114,91 @@ date=2021-09-08
 
   - lipidy vznikají **Esterifikací** $\to$ reakce karboxylové kyseliny s alkoholem
   - probíhá v kyselém prostředí
+  - výrazně vratná reakce
   - posuny chemických vazeb nebo volných elektronových párů
   - **Indukční efekt** $\to$ posun $\sigma$ - vazeb k elektronegativnějšímu atomu (kladn)
   - **Mezomérní efekt **$\to$ posun $\pi$-vazeb, nebo volných eletkronových párů po konjugovaném systému
     1. Když se atom s nejvyšší elektronegativitou zapojuje do konjugace orbitalem, kde je pouze jeden elektron, tak $\pi$-vazby posouvá k sobě $\to$ **Zaporný mezomérní efekt**
     2. Když se atom s nejvyšší elektronegativitou  zapojuje do konjugace s volným elektronovým párem, tak $\pi$-vazby odsouvá $\to$ **Kladný mezomérní efekt**
-
+  
   $R-COOH$ $\to$ substrát (karboxylová skupina)
-
+  
   - Karboxylová skupina je polární (nacházejí se zde atomy)
-
+  
     $R-OH$$\to$ činidlo (alkohol)
-
+  
   ### 1. část
-
+  
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fischer-Veresterung_3.svg/1280px-Fischer-Veresterung_3.svg.png)
-
+  
   - všechny $\sigma$-vazby se budou posouvat ke kyslíkům v karboxylové skupině (záporný indukční efekt $-I-efekt$)
   - Kyslík nahoře $\to$ **Záporný mezomérní efekt** $\to$ **Obrovský parciální záporný náboj** (vysoká elektronová hustota)
   - Kyslík dole $\to$ **Kladný mezomérní efekt**
   - Na karboxylovém uhlíku je celý kladný náboj (elektronové zředění) $\to$ potřebuje **nukleofil** $\to$ alkohol (má dostatečné elektronové zhuštění)
-
+  
   ### 2. Část
-
+  
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fischer-Veresterung_4.svg/1100px-Fischer-Veresterung_4.svg.png)
-
+  
   - od kyslíku se naváže alkohol na uhlík
-
+  
   - Kyslík z alkoholu ukradne elektron vodíku z alkoholu $\to$ vznikne proton
   - Proton se naváže na kyslík dole v karboxylové skupině $\to$ To se odtrhne jako voda
-
+  
   ### 3. Část
-
+  
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischer-Veresterung_5.svg/1100px-Fischer-Veresterung_5.svg.png)
-
+  
   - Na uhlíku v kraboxylové skupině se zase udělá kladný náboj $\to$ odštěpí se proton nahoře
   - **Esterová vazba** $\to$ vazba mezi karboxylovým uhlíkem a alkoholovým kyslíkem
-
+  
   ### Souhrná reakce
-
+  
   - reakce je velmi vratná, pokud by se neodčerpávala voda (v laboratoři se používá kyselina sírová, protože dehydruje)
   - estery nižších karboxylových kyselin se používají v potravinářském průmyslu jako aroma (mají velmi nízkou teplotu varu)
   - estery vyšších karboxylových kyselin jsou lipidy
   - je to substituce nukleofilu jako celek, ale přesný podrobný mechanismus je adično-eliminační (přidávání vodíku a odebírání vody)
-
+  
   ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Fischer-Veresterung_1a.svg/1280px-Fischer-Veresterung_1a.svg.png)
-
+  
   
 
+## Hydrolýza
 
+- opačný proces esterifikace
+- může probíhat různými způsoby
+
+### Kyselá hydrolýza
+
+- $H^+/H_2O$
+- např tripalmitolid
+- alkohol a vyšší karboxylovou kyselinu
+- potřebuje energii a štěpí vazby postupně
+
+![](https://ars.els-cdn.com/content/image/3-s2.0-B9780128035504000057-u05-13-9780128035504.jpg)
+
+### Zásaditá hydrolýza (zmýdelnění, saponifikace)
+
+- $NaOH^-, KOH/H_2O$
+- alkohol a sůl kyseliny s Na, nebo Ca
+- má obrovský praktický význam
+- používají se pouze tuhé acylglyceroly
+- soli vyšších karboxylových kyselin $\to$ mýdla
+- palmitan sodný (natrium-hexadekanoát) $\to$ nejvyužívanější mýdlo
+- sodná mýdla = mýdla, čistící prostředky
+- draselná mýdla = mazlavá mýdla, výroba desinfekčních prostředků (kdysi používaly pro chirurgy)
+
+<img src="https://www.webassign.net/sample/ncsumeorgchem2/lab_10/images/figure10-1.png" style="zoom: 67%;" />
+
+- konec s iontem kovu je hydrofilní konec **X** uhlovodíkový řetězec je hydrofobní
+- hydrofobní konce molekul se zabudují do mastné skvrny a polární konce zůstanou venku $\to$ vytvoří micelu kolem mastné skvrny $\to$ **emulgace**
+
+### Enzymatická
+
+- lipázy $\to$ enzymy, které kataliticky štěpí acylglyceroly v našem těle
+- štěpí na glycerol + volné mastné kyseliny
+- nevyžaduje dodání energie $\to$ snížení aktivační energie
+- rozštěpí všechny 3 vazby najednou
 
 # Lipidy
 
@@ -251,6 +287,13 @@ date=2021-09-08
 - je to výhodné $\to$ tuhé tuky jsou odlnější vůči žluknutí tuků
 - částečná hydrogenace $\to$ výroba margarýnu (uměle se dodá vitamín A, D $\to$ fungují jako konzervanty)
 
+**Vysýchaní olejů**
+
+- některé oleje, které v řetězcích mastných kyselin se na vzduchu mění na pevnou pružnou látku
+- oxidace a polymerace olejů
+- využívají se k výrobě přírodních nátěrových materiálu dřeva $\to$ Fermeže
+- Fermeže obsahují ještě sikativa $\to$ vysoušedla, která urychlují tento proces
+
 ### Vosky
 
 - složkou jsou vyšší jednosytné alyfatické alkoholy
@@ -259,13 +302,25 @@ date=2021-09-08
 
 - živočišné vosky spíše $\to$ 14-18 uhlíku (výjimka včelí vosk)
 
-- živočišné vosky spíše $\to$ 26-30 uhlíků
+- rostlinné vosky spíše $\to$ 26-30 uhlíků
+
+- kutikula na listech rostlin (ochrana před vysicháním)
+
+- vlasy, vlna, kožešina $\to$ zde se u živočichů nachází nejvíce vosku
 
 **Hexadekanol** (cetylalkohol) $CH_3-[CH_2]_{14}-CH_2-OH$
 
 **Oktadekanol** (stearylalkohol) $CH_3-[CH_2]_{16}-CH_2-OH$
 
-**Triakontanol** (myricilalkohol) $CH_3-[CH_2]_{28}-CH_2-OH$ (včelí vosk)
+**Triakontanol** (myricilalkohol) $CH_3-[CH_2]_{28}-CH_2-OH$
+
+- **včelí vosk** $\to$ myricilalkohol + kyselina palmitová $\to$ $CH_3-[CH_2]_{14}-C=O-O-CH_2-[CH_2]_{28}-CH_3$ 
+
+  $\to$ triakontyl ester kyseliny palmitové
+
+- **lanolin** $\to$ vosk z ovčí vlny
+
+- vysoký obsah vosku je v planktonu $\to$ živočichové, které je jedí získávají energii z těchto vosků
 
 ## Složité lipidy
 
@@ -273,7 +328,8 @@ date=2021-09-08
 - Zbytek kyseliny trihydrogeny kyseliny $\to$ fosfolipidy
 - cukr (galaktóza, oligosacharidy) $\to$ glykolipidy
 - nikdy nejsoy energeticky hodnotné
-- **Důležité mechanické a funkční prvky buněnčných struktur** $\to$ fosfolipidy jako základ struktury buněčných biomembrán, myelinová pochva
+- **Důležité mechanické a funkční prvky buněčných struktur** $\to$ fosfolipidy jako základ struktury buněčných biomembrán, myelinová pochva
+- 
 
 
 
