@@ -77,7 +77,7 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
 
 ### Sloučeniny
 
-1. Kyslíkaté
+1. **Kyslíkaté**
 
    1. Oxidy
       - velice nestálé látky
@@ -85,11 +85,31 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
       - $HClO, HClO_2 \to$ jsou velmi nestálé
       - $HClO_3, HClO_4 \to$ stálé (chloristá je jedna z nejsilnějších anorganických kyselin)
    3. Soli kyslíkatých kyselin
-      1. Chlornany
-         - nejvýznamnější je chlornan sodný $\to NaClO$ (složka sava 5% $\to$ dezinfekční a bělící účinky)
-      2. 
+      1. Chlornany (také nestálé)
+         - nejvýznamnější je chlornan sodný $\to NaClO$ (složka sava 5% $\to$ dezinfekční a bělící účinky) v savu není chlor ani se z něj neuvolňuje pouze chlornan sodný
+         
+         $NaClO(aq) \to NaCl(aq) + \cdot O\cdot$ (kyslík vznikne jako volný radikál) = rozkladem chlornanu sodného  vznikne kyslík, který má bělící a čistící účinky
+         
+         - kyselina + chlornan sodný $\to$ uvolní se chlór
+         
+      2. Chlorečnany
+      
+         - stabilní látky $\to$ pevného skupenství
+         - používají se ve výbušninách, v hlavičce sirek
+         - okysličovadla
+         - $KClO_3(s) \to^T KCl(l) + O_2(g)$ 
+         - $NaClO_3$
+      
+      3. Chloristany
+      
+         - ještě stabilnější než chlorečnany
+         - také se nacházejí v pyrotechnice
+         - zneškodnování výbušnin
+      
+         
 
-2. Bezkyslíkaté
+2. **Bezkyslíkaté**
+
    1. halogenovodíky $HX$ (polární vazba)
       - ostře páchnoucí plyny
       - všechny mají polární vazbu
@@ -135,7 +155,31 @@ $I$ = lehce sublimující, šedočerná krystalická látka, málo rozpustný v 
       2. $Zn + HCl \to ZnCl_2$
       3. $KOH + HCl \to KCl + H_2O$ (neutralizace)
 
-      
+
+### Fluor
+
+- biogenní prvek (kosti, zubní sklovina)
+- nedosttek = kazivost zubů
+- nadbytek = černání zubů (fluróza)
+- používá se na výrobu polymerů (teflon)
+
+### Chlor
+
+- chloros = žlutozelený
+- biogenní látka $\to$ žaludeční šťáva
+- používá se na PVC
+- vdechování je příčinou edému plic
+
+### Brom
+
+- jediný není biogenní
+- červenohnědé dusivé páry
+
+### Jod
+
+- jodová tinktura (5% roztok v lihu)
+- biogenní prvek $\to$ v štítné žláze
+- v zelenině
 
 ---
 
