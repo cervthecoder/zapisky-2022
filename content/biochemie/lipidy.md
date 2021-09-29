@@ -324,14 +324,63 @@ date=2021-09-08
 
 ## Složité lipidy
 
+- důležité mechanické a strukturní prvky buněčných struktur
 - estery vyšších karboxylových kyselin a alkoholů + **polární složka**
+- "3. polární složka"
 - Zbytek kyseliny trihydrogeny kyseliny $\to$ fosfolipidy
 - cukr (galaktóza, oligosacharidy) $\to$ glykolipidy
 - nikdy nejsoy energeticky hodnotné
 - **Důležité mechanické a funkční prvky buněčných struktur** $\to$ fosfolipidy jako základ struktury buněčných biomembrán, myelinová pochva
-- 
 
+### Fosfolipidy
 
+- obsahují aminoalkohol
+
+1. $HO-CH_2-CH_2-NH_2$ = **Ethanolamin**
+2. $HO-CH_2-CH_2-N(CH_3)_3$ = **Cholin**
+3. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Serin_-_Serine.svg/640px-Serin_-_Serine.svg.png" style="zoom:33%;" /> = **serin**
+
+#### Glycerofosfo<u>amino</u>lipidy
+
+- alkoholová složka je glycerol
+
+- vždy 1. a 2. hydroxilová skupina esterifikována (na druhém uhlíku to je většinou esenciální nenasycená mastná kyselina)
+
+- 3. hydroxilová skupina je esterifikována kyselinou trihydrogen fosforečnou
+
+- hydroxilová skupina aminoalkoholu se esterifikuje a naváže se na fosfát
+
+  ![](https://www.fit-pro.cz/admin/files/ck/images/lecithin.jpg)
+
+1. Fosfatidylethanolaminy = kefaliny
+2. Fosfatidylcholiny = lecityny (používají se jako emulgátory)
+3. fosfatidilseriny (výrazně zastoupeny v mozkové tkáni)
+
+#### sfingofosfo<u>amino</u>lipidy
+
+- alkoholová složka je sfingosin
+
+- sfingosin je vyšší/nenasycený/alyfaticky/dvojsytný alkohol (ve své struktuře má 18 uhlíků)
+
+  (na obrázku není správně $NH_3^+$ $\to$ pokud to není ve vodě, tak je to normálně $NH_2$)
+
+  <img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-09-29%20at%2008.07.15.png?raw=true" style="zoom:50%;" />
+
+- vyšší karboxylová skupina není esterová $\to$ karboxylová skupina se naváže na aminoskupinu a vznikne **peptidová vazba**
+
+- na primárním uhlíku se estrifikuje OH-skupina kyselinou trihydrogen fosforečnou
+
+- na fosfát se naváže aminoalkohol $\to$ **pokud by se navázal cholin, tak by se jednalo o sfingomyelin** (složka myelinových nervových pochev)
+
+  <img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-09-29%20at%2008.14.19.png?raw=true" style="zoom: 33%;" />
+
+  
+
+### Glykolipidy
+
+- cerebrosidy (alkohol je glycerol $\to$ 3. uhlík je využit na navázání cukru, většinou galaktóza) $\to$ v mozkové tkáni, v membráně tylakoidu chloroplastů
+- sulfolipidy (strukturně velmi podobné celebrosidům $\to$ k sacharidové složce je připojený zbytek kyseliny sírové)
+- gangliosidy (alkohol je sfingosin a na primární hydroxilové skupiny je vázán oligosacharid) $\to$ v ganglích nervových buněk
 
 ---
 
