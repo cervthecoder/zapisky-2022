@@ -78,18 +78,38 @@ pračas - období před tím než byl stvořen svět
 
 
 
+## Heroické mýty
 
+- Heracles, Perseus, Achiles, Gilgameš
 
----
+- Gilgameš se tisknul v Sumeru 3000 let př. n. l. do hliněných tabulek
 
-### Zahradní slavnost (Václav Havel)
+  $\to$ jeden z prvních dochovaných eposů
 
-- český dramatik a esejista
+  $\to$ není ucelený
 
-- disident
-- Absurdní drama
-- r 1963
-- hl. postava Hugo Pludek
+  $\to$ epická báseň
+
+  $\to$ nevíme, kdo to sepisoval
+
+  $\to$ nevíme, kdy přesně se to sepisovalo
+
+  $\to$ jeden z nejstarších literárních děl na světě
+
+  $\to$ město Urug
+
+  - GIlgameš jako trkavý býk, pevný břeh
+  - kojenec vznešené matky
+  - Gilgameš skvělý
+  - Hloubý studny a otvírá průsmyky
+  - překročil moře
+  - Obnovil svatyně zničené potopou
+  - byl urostlý a krásný
+  - nemá sobě rovného
+
+- narozdíl od pohádek jsou zasazené do určité lokace
+
+- 
 
 
 
