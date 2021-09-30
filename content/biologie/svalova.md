@@ -55,3 +55,7 @@ date=2021-09-30
 - buňky vřetenovitého tvaru
 
 - nemají elektrickou izolaci $\to$ akční potenciál se šíří pozvolna a pomalu
+
+---
+
+kardiovaskulární centrum = leží v prodloužené míše (ovládá samovzrušivý bod)
