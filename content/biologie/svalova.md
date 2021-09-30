@@ -15,6 +15,22 @@ date=2021-09-30
 
 ## Srdeční svalová (příčně žíhaná)
 
+- myokard = srdeční svalová tkáň
+
+- mezi jednotlivými vlákny jsou vodivé spoje (přenášejí akční poteciál mezi jednotlivými vlákny)
+
+- komory a síně
+
+- mezi síněmi a komorami jsou schlopně (síň $\to$ komora)
+
+- **sinoatriální bod** $\to$ místo v pravém horním rohu pravé síně = místo, kde spontáně vznikají akční potenciály
+
+  tyto akční potenciály se šíří do všech oblastí síní
+
+- **atrioventrikulární bod** $\to$  vychází z něj nervová vlákna, která vedou do komor (přes rozdělení/přepážku by se totiž nedostali akční potenciály)
+
+![](https://www.rehabilitace.info/wp-content/uploads/2015/07/anatomie.jpg)
+
 ## Příčně pruhovaná (žíhaná) <br>
 
 - velde sebe těsně ležící vlákna
@@ -27,6 +43,8 @@ date=2021-09-30
 - **motorická jednodtka** = soubor svalových vláken inervovaných jedním neuronem
 
 - myofribrily $\to$ vlákna aktinu a myozinu
+
+- jednotlivé svaly jsou upnuty vazivovými úpony
 
   ![](http://www.equichannel.cz/data/imgs/00188045l.jpg)
 
