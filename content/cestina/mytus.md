@@ -160,11 +160,23 @@ pračas - období před tím než byl stvořen svět
 - poté zeslábl a nabyl rozum
 - Gilgameš a Enkidu se stají velmi blízkými přáteli
 
+
+
+- po smrti Enkidua podstoupí Gilgameš Cestu poznání $\to$ Iniciace (zasvěcení)
+- iniciace = výzvy, utrpení, výzvy
+- Gilgameš hodně přehnání = je hyperbolický
+- symbolika 6 dnů a 7 nocí
+- Uta-napištim = bytost bydlící na řehu řeky, který jako jediný přežil potopu $\to$ byl povýšen na boha (archetyp Noe)
+
+### Řecké mýty
+
+- 
+
 ---
 
 lamentace = žalozpěv, nářek (nad mrtvými blízkými)
 
-
+pantheon = shromáždění bohů
 
 
 
