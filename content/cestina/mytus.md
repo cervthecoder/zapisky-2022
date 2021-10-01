@@ -160,6 +160,10 @@ pračas - období před tím než byl stvořen svět
 - poté zeslábl a nabyl rozum
 - Gilgameš a Enkidu se stají velmi blízkými přáteli
 
+---
+
+lamentace = žalozpěv, nářek (nad mrtvými blízkými)
+
 
 
 
