@@ -98,6 +98,10 @@ pračas - období před tím než byl stvořen svět
 
   $\to$ město Urug
 
+  $\to$ episoda (dílčí příběhy eposu)
+
+  $\to$ 2/3 bůh a 1/3 člověk
+
   - GIlgameš jako trkavý býk, pevný břeh
   - kojenec vznešené matky
   - Gilgameš skvělý
@@ -106,10 +110,55 @@ pračas - období před tím než byl stvořen svět
   - Obnovil svatyně zničené potopou
   - byl urostlý a krásný
   - nemá sobě rovného
+  - nosí u sebe puky a maky (nevyřešené záhada z hliněných destiček)
+  - má i špatné vlastnosti
 
 - narozdíl od pohádek jsou zasazené do určité lokace
 
-- 
+- **epos** = epická báseň čast pojednávající o heroických příbězích, dělí se do episod (ty jsou rámcované tou hlavní postavou)
+
+### Epos o Gilgamešovi
+
+- Gilgameš se tisknul v Sumeru 3000 let př. n. l. do hliněných tabulek
+
+  $\to$ jeden z prvních dochovaných eposů
+
+  $\to$ není ucelený
+
+  $\to$ epická báseň
+
+  $\to$ nevíme, kdo to sepisoval
+
+  $\to$ nevíme, kdy přesně se to sepisovalo
+
+  $\to$ jeden z nejstarších literárních děl na světě
+
+  $\to$ město Urug
+
+  $\to$ episoda (dílčí příběhy eposu)
+
+  $\to$ 2/3 bůh a 1/3 člověk
+
+  - GIlgameš jako trkavý býk, pevný břeh
+  - kojenec vznešené matky
+  - Gilgameš skvělý
+  - Hloubý studny a otvírá průsmyky
+  - překročil moře
+  - Obnovil svatyně zničené potopou
+  - byl urostlý a krásný
+  - nemá sobě rovného
+  - nosí u sebe puky a maky (nevyřešené záhada z hliněných destiček)
+  - má i špatné vlastnosti
+  - nakonec zjistil, že i když je ze 2/3 bůh, tak se musí více chovat jako člověk (nemůže být božský)
+
+**1. Episoda**
+
+- Enkidu = přírodní bytost, která se živý zvěří
+- Zavolali se na něj Gilgameše
+- Gilgameš mu chce za to, že nechá dobytek napokoji ženu (nevěstka)
+- 6 dní a 7 nocí s ní souložil
+- poté zeslábl a nabyl rozum
+- Gilgameš a Enkidu se stají velmi blízkými přáteli
 
 
 
