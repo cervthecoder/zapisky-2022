@@ -85,8 +85,42 @@ date=2021-09-30
 - vyjádření zastoupení rozpuštěné látky v roztoku
 - poměrné zastoupení rozpuštěné látky v roztoku
 
-### Hmotnostní zlomek
+### Hmotnostní zlomek (procentová koncentrace/hmotnostní koncentrace)
 
-$w(A)=\frac{m(A)}{m_{roztoku}}$
+$w(A)=\frac{m(A)}{m_{roztoku}}$  ,kde $m_{roztoku} = m(A) + m_{rozpouštědla}$
 
-### Látková koncentrace
+- bezrozměrná veličina
+- vždy menší než 1
+- výnásobíme-li 100, tak získáme hmotnostní procento
+
+### Objemový zlomek (objemové procento)
+
+$\phi(A)=\frac{V(A)}{V_{roztoku}}$, kde není!!!! $V_{roztoku}=V(A) + V_{rozpouštědla}$ $\to$ dochází k objemové kontrakci, nebo dilataci
+
+(může se zanedbat, pokud jsou velmi málo koncetrované)
+
+- ... obj. %
+- rozdělení složek vzduchu je objemové procento
+- vždy menší než 1
+
+### Látková koncentrace (molarita)
+
+$c(A)=\frac{n(A)}{V_{roztoku}}$
+
+- jednotka $mol/dm^3$, která se někdy značí velké $M$
+
+**Budeme nahrazovat za látkové množství** $\to$ 
+
+$M(A)= \frac{m(A)}{n(A)}$ / $n(A)=\frac{N}{N_A}$ / $n(A)=\frac{V(A)}{V_m}$ / $n = \frac{PV}{RT}$
+
+$\to$ $c(A) = \rho_{roztoku}\frac{w(A)}{M(A)}$
+
+
+
+---
+
+### Molární zlomek
+
+$\frac{n(A)}{n_{rotoku}}$
+
+$M_r(H_2O)=18g/mol$
