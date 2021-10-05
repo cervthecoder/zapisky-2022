@@ -196,6 +196,7 @@ pračas - období před tím než byl stvořen svět
 - je o Trojské válce
 - Ílion $\to$ Trója
 - Danaové $\to$ Řekové (Danajský dar $\to$ Trojský kůň)
+- Odysseus nemá bratra (blízkého přítele jako třeba Gilgameš)
 
 ---
 

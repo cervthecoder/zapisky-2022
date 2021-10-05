@@ -31,8 +31,29 @@ date=2021-09-14
 - kant: náboženství je uvědomění si mravního zákona
 - hegel : náboženství je vědomost ducha o své podstatě
 - marx : náboženství je výrazem skutečné bídy ...vzdech sevřeného stvoření, projec bezcitného světa,, duch bezduchých poměrů, opium lidu
-
 - náboženství prostředkem k ovládnutí světa
 - věrouka zabezpečuje náboženské naplnění smyslem života
 - náboženství je povzbuzující silou
 - nábožentví vysvětluje směr chování člověka a udržuje tento směr
+
+## Teorie vývoje náboženství
+
+- evoluční teorie
+
+- primitivní náboženství $\to$ manismus = např. uctívání mrtvých překl
+
+  $\to$ animismus = víra v existenci nesmrtelné duše
+
+- totem a tabu $\to$ točí se kolem nich všechny rituály
+
+- archaická náboženství $\to$ polyteismus (mnohobožství), antropomorfní božstva (podobná člověku)
+
+- historická náboženství = zjevená (judaismus, křesťanství, islám)
+
+- polyteismus x monoteismus
+
+- polyteismus $\to$ bohové mají určité podoby (často lidské)
+
+- monoteismus $\to$ bůh se neznázorňuje
+
+- atomizovaná společnost odmítá náboženské totemy
