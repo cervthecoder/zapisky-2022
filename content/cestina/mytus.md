@@ -170,13 +170,52 @@ pračas - období před tím než byl stvořen svět
 
 ### Řecké mýty
 
-- 
+- spis básníka Hésioda $\to$ Theogónia
+
+- Hésiodos zpracoval theogonii, theomachii a antropogonii
+
+- Ve stárém Římě z něj čerpal Ovidius $\to$ Proměny
+
+- Dvě nejdůležitější prameny antického pantheonu
+
+- nejdůležitější informace o řeckých bozích se nacházejí v eposech
+
+  $\to$ Iliás a Odysea (řecké) - Homér
+
+  - Homér byl nejspíše potulný pěvec
+  - Zpíval hrdinské písně po dvorech v Řecku
+  - říká se, že byl slepý
+  - 8. st. př. n. l.
+  - 
+
+  $\to$ Aeneis (římské)
+
+### Iliás
+
+- Alkinos je král, který hostí Odyssea
+- je o Trojské válce
+- Ílion $\to$ Trója
+- Danaové $\to$ Řekové (Danajský dar $\to$ Trojský kůň)
 
 ---
 
 lamentace = žalozpěv, nářek (nad mrtvými blízkými)
 
 pantheon = shromáždění bohů
+
+Zeus $\to$ Dia
+
+Árés $\to$ Áréa
+
+Eros $\to$ Erota
+
+Apollon Foibos $\to$ Apolla Foiba
+
+Hefistos $\to$ Hefaista
+
+Hermes $\to$ Herma
+
+Hádés $\to$ Háda
 
 
 
