@@ -46,6 +46,8 @@ date=2021-10-06
 - **monoterpeny** $\to$ 2 isoprenové jednotky | počet uhlíkových atomů 10
 - **seskviterpeny** $\to$ 3 isoprenové jednotky |15 C
 - **ditepreny** $\to$ 4 isoterpenové jednotky |20 C
-- **tritepreny** $\to$ 6 isoterpenových jednotek |25 C
-- **tetraterpeny** $\to$ 8 isoterpenových jednotek | 30 C
+- **tritepreny** $\to$ 6 isoterpenových jednotek |30 C
+- **tetraterpeny** $\to$ 8 isoterpenových jednotek | 40 C
+- **pentaterpeny** $\to$ 10 isoterpeny |50 C
+- **polyterpeny** $\to$ n isoterpenů | $n\cdot$ 5 C
 
