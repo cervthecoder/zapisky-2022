@@ -186,23 +186,49 @@ pračas - období před tím než byl stvořen svět
   - Zpíval hrdinské písně po dvorech v Řecku
   - říká se, že byl slepý
   - 8. st. př. n. l.
-  - 
+  - inspirován músou
 
   $\to$ Aeneis (římské)
 
-### Iliás
+### Iliás (Epos o tróje)
 
-- Alkinos je král, který hostí Odyssea
+- achileus je hlavní hrdina (prchlivý)
+
+### Odyssea (odysea = cesta)
+
+- Alkinoos je král, který hostí Odyssea (Fajákové $\to$ pohostinní)
+
+- Odyssea = název eposu o Odysseovi
+
+  apelitizace proprií $\to$ Odyssea $\to$ odysea  (vlastní jméno na obecné jméno Eidam na eidam, Pilsner na pilsner)
+
+- Laertvův syn $\to$ Odysseus (chytrý)
+
 - je o Trojské válce
+
 - Ílion $\to$ Trója
+
 - Danaové $\to$ Řekové (Danajský dar $\to$ Trojský kůň)
+
 - Odysseus nemá bratra (blízkého přítele jako třeba Gilgameš)
+
+- teprve až v 9. zpěvu se z retrospektivy dozvídáme všechny přecházející Odysseovy příběhy
+
+- epos trvá 41 dnů (protože byl Homér zhruba měsíc na dvoře) a Odysseova cesta trvá 10 let
+
+- **čas vyprávění** je 41 dní
+
+- **čas vyprávěný** je 10 let
+
+- Kalipso je nymfa, která vězní 8 let Odyssea
 
 ---
 
 lamentace = žalozpěv, nářek (nad mrtvými blízkými)
 
-pantheon = shromáždění bohů
+Homér $\to$
+
+antheon = shromáždění bohů
 
 Zeus $\to$ Dia
 
