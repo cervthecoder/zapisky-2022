@@ -115,7 +115,7 @@ pračas - období před tím než byl stvořen svět
 
 - narozdíl od pohádek jsou zasazené do určité lokace
 
-- **epos** = epická báseň čast pojednávající o heroických příbězích, dělí se do episod (ty jsou rámcované tou hlavní postavou)
+- **epos** = epická báseň pojednávající o heroických příbězích, dělí se do episod (ty jsou rámcované tou hlavní postavou) [veršovaná skladba]
 
 ### Epos o Gilgamešovi
 
@@ -196,13 +196,21 @@ pračas - období před tím než byl stvořen svět
 
 ### Odyssea (odysea = cesta)
 
-- Alkinoos je král, který hostí Odyssea (Fajákové $\to$ pohostinní)
+1. Příběhy Telemachovy
+2. Odysseovy dobrodružství
+3. Boj o Ithaku
+
+- Alkinoos je král, který hostí Odyssea (Fajákové $\to$ pohostinní) $\to$ retrospektiva
 
 - Odyssea = název eposu o Odysseovi
 
   apelitizace proprií $\to$ Odyssea $\to$ odysea  (vlastní jméno na obecné jméno Eidam na eidam, Pilsner na pilsner)
 
 - Laertvův syn $\to$ Odysseus (chytrý)
+
+- Pochází z Ithaky, kde byl oženěný a měl syna
+
+- je slvaný a lstivý
 
 - je o Trojské válce
 
@@ -222,9 +230,23 @@ pračas - období před tím než byl stvořen svět
 
 - Kalipso je nymfa, která vězní 8 let Odyssea
 
+- Chce se vrátit do rodné Ithaky $\to$ trvá mu to 10 let
+
+- Vracel se zpátky na lodi a jeho posádka ho brzdila (morálně slabí $\to$ provinili se proti totemu/pravidlu)
+
+- musel se své posádky cestou zbavit, aby mohl zdárně pokračovat
+
+- bohové ho taky zdržovali, ale i pomáhali (Athéna mu pomáhá, Poseidon mu škodí)
+
+- Odysseus dorazí do zpustošené Ithaky (bankrot na Ithace $\to$ 108 ženichů)
+
+- 
+
 ---
 
 lamentace = žalozpěv, nářek (nad mrtvými blízkými)
+
+Poseidon = patron Tróji
 
 Homér $\to$
 
