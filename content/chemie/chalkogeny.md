@@ -52,7 +52,7 @@ $Po$
 ## Výskyt
 
 - čistá $S_8$ $\to$ získává se z ložisek Frashovou metodou
-- sulfidy $\to$ $FeS_2$ = sfalerit; $ZnS$ = sfalerit; $PbS$ = galenit
+- sulfidy $\to$ $FeS_2$ = pyrit; $ZnS$ = sfalerit; $PbS$ = galenit
 - sírany $\to$ $Na_2SO_4 \cdot 10H_2O$ = Glauberova sůl; $BaSO_4$ = baryt; sádra a sádrovec
 - oxidy $\to$ $SO_2$ a $SO_3$
 - Sulfan $\to$ v atmosféře jako produkt hnití bílkovin (biogenní prvek)
@@ -107,10 +107,39 @@ $S + F_2 \to SF_6$ (fluorid sírový)
 ### $H_2S$
 
 - složka sopečných plynů
+
 - málo polární sloučenina (trochu rozpustný ve vodě)
+
 - kyselina sulfanová = vodný roztok
+
 - vzniká při rozkladu bílkovin
+
 - využívá se v lázeňství $\to$ lečí se tím atopický exem
+
+- rozpouštění ve vodě je dopravdy disociovat
+
+  $\to$ 1. $H_2S + H_2O \to HS^- + H_3O^+$    (První stupeň)
+
+  $\to$ 2. $HS^- + H_2O \to S^{2-} + H_3O^+$   (Druhý stupeň)
+
+![](data:image/png;base64,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)
+
+- sulfan je plyn, protože se tam netvoří vodíkové můstky jako u vody
+- sulfan je silné redukční činidlo, protože síra může jít nahoru (oxiduje se)
+
+$H_2S(g) + O_2(g) \to SO_2(g) + H_2O(l)$
+
+$H_2S + H_2O_2 \to H_2O + S$
+
+- od kyseliny odvodíme 2 druhy solí $\to$ hydroogensulfidy a sulfidy
+- příprava sulfanu $FeS + 2HCl \to FeCl_2 + H_2S$
+
+### $SO_2$
+
+- bezbarvý dráždivý plyn
+- vzniká spalováním fosilních paliv
+- $S + O_2 \to SO_2$
+- $FeS_2 +O_2 \to Fe_2O_3 + SO_2$
 
 
 
