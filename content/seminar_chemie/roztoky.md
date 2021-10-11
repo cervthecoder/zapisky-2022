@@ -80,7 +80,7 @@ date=2021-09-30
 
 - **křivka rozpustnosti** $\to$ křivka znázroňující závislost rozpuštěné látky na teplotě
 
-## Způsoby vyjadřování složení roztoků
+## Způsoby vyjadřování složení roztoků (Výpočty z roztoků)
 
 - vyjádření zastoupení rozpuštěné látky v roztoku
 - poměrné zastoupení rozpuštěné látky v roztoku
@@ -114,6 +114,75 @@ $c(A)=\frac{n(A)}{V_{roztoku}}$
 $M(A)= \frac{m(A)}{n(A)}$ / $n(A)=\frac{N}{N_A}$ / $n(A)=\frac{V(A)}{V_m}$ / $n = \frac{PV}{RT}$
 
 $\to$ $c(A) = \rho_{roztoku}\frac{w(A)}{M(A)}$
+
+### Směšovací rovnice
+
+- úprava složení roztoků
+
+- **zahuštění** = zvýšíme podíl rozpuštěné látky
+
+  $\to$ Přidáme rozpuštěnou látku
+
+  $\to$ Přidání k původnímu roztoku roztok s vyšší koncentrací
+
+  $\to$ Odpařením rozpuštěné látky
+
+- **ředění** = snížíme podíl rozpuštěné látky
+
+  $\to$ přidat rozpouštědlo
+
+  $\to$ přidat k původnímu roztoku roztok s nižší koncetrací
+
+$m_1(A) + m_2(A) = m_3(A)$ (Hmotnostní bilance soustavy) $\to$ součet hmotností rozpuštěné látky v roztocích
+
+1. $m_1\cdot w_1 + m_2\cdot w_2 = m_3\cdot w_3 $ $\to$ $m_1\cdot w_1 + m_2\cdot w_2 = (m_1+m_2)\cdot w_3 $ (s využitím hmotnostního zlomku)
+
+$n_1(A) + n_2(A) = n_3(A)$
+
+2. $c_1\cdot V_1 + c_2\cdot V_2 = c_3\cdot V_3$ (s využitím látkové koncentrace)
+
+**Zahuštění - přidání roztoku s vyšší koncentrací**
+
+$c_1<c_2$; $w_1<w_2$
+
+- použitím základní rovnice (nelze zjednodušit)
+
+**Zahuštění - přidání rozpuštěné látky**
+
+$w_2=100%$ % (chemicky čistá látka; !!ne hydrát)
+
+$\to$ pro hydrát $w_{x} = \frac{m_x}{m_{x\cdot nH_2O}}$
+
+**Zahuštění - odpaření rozpuštědla**
+
+$w_{2(H_2O)}=0$
+
+$c_{2(H_2O)}$ = 0
+
+1. $m_1\cdot w_1 = (m_1-m_2)w_3$
+2. $c_1\cdot V_1 = c_3\cdot V_3$
+
+**Redění - přidání roztoku s nižší koncentrací**
+
+$c_1>c_2$; $w_1>w_2$
+
+- použitím základní rovnice (nelze zjednodušit)
+
+**Ředění - Přidáním rozpouštědla**
+
+1. $m_1\cdot w_1 = m_3\cdot w_3$ ($m_3 = m_1+m_2$)
+
+2. $c_1\cdot V_1=c_3\cdot V_3$
+
+**Křížové pravidlo**
+
+- pro vyjádření pouze hmot ostních, či objemových dílů roztoků
+
+$\frac{m_1}{m_2}=\frac{w_3-w_2}{w_1-w_3}$
+
+$\frac{V_1}{V_2}=\frac{c_3-c_2}{c_1-c_3}$ (pro malé koncentrace)
+
+
 
 
 
