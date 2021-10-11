@@ -137,7 +137,7 @@ $H_2S + H_2O_2 \to H_2O + S$
 ### $SO_2$
 
 - bezbarvý dráždivý plyn
-- vzniká spalováním fosilních paliv
+- vzniká spalováním fosilních paliv+
 - $S + O_2 \to SO_2$
 - $FeS_2 +O_2 \to Fe_2O_3 + SO_2$
 
