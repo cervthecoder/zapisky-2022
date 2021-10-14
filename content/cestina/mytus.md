@@ -240,7 +240,25 @@ pračas - období před tím než byl stvořen svět
 
 - Odysseus dorazí do zpustošené Ithaky (bankrot na Ithace $\to$ 108 ženichů)
 
-- 
+
+### Římské mýty
+
+- **Vergilius** čerpal od Homérea $\to$ Aeneida (římský epos)
+
+  $\to$ Proslavil se za doby Oktaviána
+
+- **Ovidius** od něj také čerpal $\to$ Proměny
+
+### Germánské mýty
+
+- bohužel to neuměli zapisovat
+- používali runy, ale ty nebyly optimální
+- našli se však osvícení mniši, kteří to zapsali (křesťansští zapisovatelé) $\to$ nepotlačili, ale severskou víru
+- mimoantická mytologie
+
+**Edda** = sbírka více typů mýtů (obsahuje i eposy) $\to$ více autorů (sepsán na islandu)
+
+**Béowulf** = píseň o beowulfovi (sepsán v británii)
 
 ---
 
