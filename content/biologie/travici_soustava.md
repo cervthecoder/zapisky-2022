@@ -78,24 +78,70 @@ $\to$ Podélná svalovina
 
 **zuby** = mechanické zpracování potravy
 
-$\to$ korunka, krček, kořen
+> $\to$ korunka, krček, kořen <br>
+>
+> $\to$ řezáky, špičáky, třenové, stoličky <br>
+>
+> $\to$ zubní alveola (sklípek) <br>
+>
+> $\to$ dentin (zubovina) = základní hmota zyby <br>
+>
+> $\to$ sklovina = kryje zubovina <br>
+>
+> $\to$ zubní cement = kryje povrch krčku a kořene <br>
+>
+> $\to$ ozubice = vazivový spj mezi kořenem a okosticí kostí čelisti <br>
+>
+> $\to$ zubní dřeň = nerv a cévy <br>
 
-$\to$ řezáky, špičáky, třenové, stoličky
+**slinné žlázy** = podčelistní,podjazykové, příušní (hlavní páry slinných žláz)
 
-$\to$ zubní alveola (sklípek)
+> $\to$ ptyalin = enzym, který štěpí škrob <br>
+>
+> $\to$ lysozym = ničí bakterie <br>
+>
+> $\to$ mucin = vazkost slin - mechanická ochrana <br>
 
-$\to$ dentin (zubovina) = základní hmota zyby
+## Hltan
 
-$\to$ sklovina = kryje zubovina
+- začátek společný s dýchací soustavou (nosohltan)
+- trubcovitý orgán
+- Dělí se na tři části
+- polknutí je sevření příčně pruhované svaloviny v hltanu
 
-$\to$ zubní cement = kryje povrch krčku a kořene
+> 1. Nosohltan $\to$ vyrovnává tlak mezi dutinou nosohltanu a dutinou středoušní (Eustachova trubice)<br>
+> 2. Ústní část hltanu $\to$ leží za dutinou ústní (obsahuje mandle) <br>
+> 3. Hrtanová část $\to$ v přední stěně laryngofaryngu (křížení TS s DS, je zde hrtanový příklopka) <br>
 
-$\to$ ozubice = vazivový spj mezi kořenem a okosticí kostí čelisti
+## Jícen
 
-$\to$ zubní dřeň = nerv a cévy
+- trubcovitý orgán, zhruba 25cm dlouhý
+- prochází bránicí a vstupuje do žalůdku
+- peristaltické pohyby pomocí hladkého svalstva $\to$ posun potravy do žalůdku (obsahuje četné receptory)
+
+## Žalůdek
+
+- vakovitě rozšířená část TS
+- objem až  1.5l
+- vstup v levé části břišní dutiny
+- pepsinogen = proteáza
+
+> Když doje pepsinogen do styku s $HCl$, tak se aktivuje na pepsin a ten následně štěpí bílkoviny
+
+- gastrin = hormon řídící činnost žalůdku
+
+> **Česlo** = horní část přechod mezi jícnem a žalůdkem
+>
+> **Tělo** = hlavní část žalůdku
+>
+> **Vrátník** = dolní část přechod žlůdku do tenkého střeva
+
+- žalůdek je schopen i obrácené peristaltiky $\to$ Vomitus
 
 ---
 
 glykémie = koncentrace glukózy v krvi (hypoglykémie x hyperglykémie)
 
 autonomní nervový systém = sympatikus a parasympatikus
+
+prodloužená mícha reguluje potravinové reflexy
