@@ -255,10 +255,23 @@ pračas - období před tím než byl stvořen svět
 - používali runy, ale ty nebyly optimální
 - našli se však osvícení mniši, kteří to zapsali (křesťansští zapisovatelé) $\to$ nepotlačili, ale severskou víru
 - mimoantická mytologie
+- nejvíce z těchto mýtů se dá lokalizovat na Island, Skandinávie
 
-**Edda** = sbírka více typů mýtů (obsahuje i eposy) $\to$ více autorů (sepsán na islandu)
+**Edda** = sbírka více typů mýtů (obsahuje i eposy) $\to$ více autorů (sepsán na islandu) Turdukson
+
+> Edda je nejoriginálnější zápis germánských mýtů
 
 **Béowulf** = píseň o beowulfovi (sepsán v británii)
+
+#### Edda
+
+- obsahuje kosmologii $\to$ kosmogonie, theogonie, antropogonie, theomachie, eschatologie (zánik a zrození)
+- Ásové $\to$ vládci oheň (šéf je Odin)
+- Pracují s kovy $\to$ pomocnící Ásů jsou trpaslíci (pracovali s kovy)
+- Antropogonie $\to$ první lidé Aska a Embla
+- Tři sudičky (rozhodují o osudu života) $\to$ Urd, Verdandi, Skuld
+- Nepřátelé Ásů jsou obři
+- ragnarok
 
 ---
 
