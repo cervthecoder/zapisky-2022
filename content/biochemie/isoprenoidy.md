@@ -51,3 +51,38 @@ date=2021-10-06
 - **pentaterpeny** $\to$ 10 isoterpeny |50 C
 - **polyterpeny** $\to$ n isoterpenů | $n\cdot$ 5 C
 
+## Monoterpeny
+
+### Limonen
+
+- silice citrusových plodů
+- cyklický terpen
+- nasednutí dvou isprenových jednotek na sebe
+- vzniká **cykloadicí**
+
+<img src="https://www.mojechemie.cz/images/Vznik_limonenu.png" style="zoom:150%;" />
+
+### Mentol
+
+- chladící efekt na sliznici
+- Nasednutí dvou izoprenových jednotek na sebe + navázání OH na dolní cyklický uhlík (konfigurace L/R) + rozštěpení vazby na dolním uhlíku
+
+<img src="https://www.mojechemie.cz/images/Mentol.png" style="zoom:150%;" />
+
+### Kafr
+
+- Obsahuje ho dřevo kávovníků
+- dnes se vyrábí synteticky
+- bílá krystalická látka
+- používán v lékařství na výrobu v **celuloidu**
+
+![](https://www.mojechemie.cz/images/Kafr.png)
+
+### Pinen
+
+- silice borovic
+- oxiduje na pryskyřici
+- $\alpha$ a $\beta$ verze
+- používá se v nabytkářském průmyslu
+
+![](https://www.mojechemie.cz/images/Kafr.png)

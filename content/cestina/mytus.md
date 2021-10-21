@@ -196,9 +196,10 @@ pračas - období před tím než byl stvořen svět
 
 ### Odyssea (odysea = cesta)
 
-1. Příběhy Telemachovy
-2. Odysseovy dobrodružství
-3. Boj o Ithaku
+> 1. Příběhy Telemachovy <br>
+> 2. Odysseovy dobrodružství <br>
+> 3. Boj o Ithaku
+>
 
 - Alkinoos je král, který hostí Odyssea (Fajákové $\to$ pohostinní) $\to$ retrospektiva
 
@@ -224,11 +225,11 @@ pračas - období před tím než byl stvořen svět
 
 - epos trvá 41 dnů (protože byl Homér zhruba měsíc na dvoře) a Odysseova cesta trvá 10 let
 
-- **čas vyprávění** je 41 dní
+  > **čas vyprávění** je 41 dní <br>
+  >
+  > **čas vyprávěný** je 10 let
 
-- **čas vyprávěný** je 10 let
-
-- Kalipso je nymfa, která vězní 8 let Odyssea
+  - Kalipso je nymfa, která vězní 8 let Odyssea
 
 - Chce se vrátit do rodné Ithaky $\to$ trvá mu to 10 let
 
@@ -266,12 +267,51 @@ pračas - období před tím než byl stvořen svět
 #### Edda
 
 - obsahuje kosmologii $\to$ kosmogonie, theogonie, antropogonie, theomachie, eschatologie (zánik a zrození)
+
 - Ásové $\to$ vládci oheň (šéf je Odin)
+
 - Pracují s kovy $\to$ pomocnící Ásů jsou trpaslíci (pracovali s kovy)
+
 - Antropogonie $\to$ první lidé Aska a Embla
+
 - Tři sudičky (rozhodují o osudu života) $\to$ Urd, Verdandi, Skuld
+
 - Nepřátelé Ásů jsou obři
-- ragnarok
+
+- ragnarok $\to$ severská eschatalogie (směřuje do valhaly = nadpřirozený svět)
+
+  $\to$ V bibli je to Nebeský Jeruzalém 
+
+### Beowulf
+
+- Začal se vyprávět od 5. století
+- Zapsán byl zhruba v roce 1000
+- Sepsán v Anglii
+- Geatové $\to$ severský kmen
+
+> **Říše dobra**<br>
+>
+> Dánové
+>
+> Hospodin
+>
+> Bůh
+>
+> Host (zákon pohostinství)
+>
+> Družina
+
+> **Říše zla** <br>
+>
+> Grendel
+>
+> Obři
+>
+> Kain
+
+- Grendel je vyvrženec, co páchá zlo (přirovnáván k biblickému Kainovi
+
+  $\to$ pohybuje se v pustinách, bažinách a blatech
 
 ---
 
@@ -296,6 +336,8 @@ Hefistos $\to$ Hefaista
 Hermes $\to$ Herma
 
 Hádés $\to$ Háda
+
+eschatologie $\to$ zánik a znovuzrození (mýty o zániku)
 
 
 
