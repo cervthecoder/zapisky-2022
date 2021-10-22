@@ -39,7 +39,7 @@ date=2021-10-15
 - výroba čpavku, kyseliny dusičné
 - výroba dusíkatách hnojiv
 
-### Amoniak ($NH_3$)
+## Amoniak ($NH_3$)
 
 - bezbarvý plyn štiplavého zápachu
 
@@ -52,6 +52,8 @@ date=2021-10-15
 - žíravina
 
 - používá se jako chladící kapalina (velké skupenské teplo)
+
+- Používá se na výrobu hnojiv
 
 - soli, které obsahují amonný kationt jsou rozpustné ve vodě
 
@@ -68,6 +70,28 @@ date=2021-10-15
 - Haber-Boschův proces $\to$ výroba amoniaku
 
   $N_2 + 3H_2 \to^{Fe} 2NH_3$ při teplotě 400-500$^\circ C$ aby se aktivoval katalyzátor
+
+### Chemické vlastnosti
+
+- zásadité (je schopen přijmout proton)
+
+  $NH_3 + H^+ \to NH_4^+$ (**volný elektronový pár na Dusíku, který se poskytne na tvorbu kovalentně koordianční vazby!!!**)
+
+- $N^{-III}H^I_3$ dusík může přecházet na $0, I, II, III, IV, V$ $\to$ **Velmi silné redukční činidlo**
+
+## Oxid dusný $N_2O$ (rajský plyn)
+
+- anestetické účinky (poprvé použit v stomatologii)
+- donedávna se používal se jako složka anesteziologie $\to$ negativní účinky na mozek (dnes se používájí  uhlovodíkové halogen deriváty s vysokým obsahem fluoru)
+- Velmi dobře rozpustný v tucích (není rozpustný ve vodě)
+- hnací plyn do šlehačky $\to$ poté, co se dostane ke šlehačce, tak se rozpustí v tucích a šlehačka nabyde (zesládne tu šlehačku)
+
+## Oxid dusičitý $NO_2$
+
+- červenohnědá barva
+- dusivý a dráždivý $\to$ při vyšších koncentracích toxický
+
+- lze připravit $HNO_3 + Cu \to CuNO_3 + NO_2 + H_2O$
 
 # Fosfor
 

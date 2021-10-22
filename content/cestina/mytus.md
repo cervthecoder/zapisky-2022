@@ -313,6 +313,8 @@ pračas - období před tím než byl stvořen svět
 
   $\to$ pohybuje se v pustinách, bažinách a blatech
 
+- Propojuje křesťanský svět s pohanským
+
 ---
 
 lamentace = žalozpěv, nářek (nad mrtvými blízkými)
