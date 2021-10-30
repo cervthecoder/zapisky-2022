@@ -91,7 +91,7 @@ date=2021-10-15
 - červenohnědá barva
 - dusivý a dráždivý $\to$ při vyšších koncentracích toxický
 
-- lze připravit $HNO_3 + Cu \to CuNO_3 + NO_2 + H_2O$
+- lze připravit $HNO_3 + 2Cu \to CuNO_3 + NO_2 + H_2O$
 
 # Fosfor
 
