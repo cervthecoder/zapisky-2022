@@ -124,19 +124,103 @@ $\to$ Podélná svalovina
 - vakovitě rozšířená část TS
 - objem až  1.5l
 - vstup v levé části břišní dutiny
-- pepsinogen = proteáza
+- pepsinogen = proteáza (produkují ho žlázy v mukóze)
+- PH žaludeční šťávy 2-3
 
-> Když doje pepsinogen do styku s $HCl$, tak se aktivuje na pepsin a ten následně štěpí bílkoviny
+> Když se dostane pepsinogen do styku s $HCl$ (kofaktor), tak se aktivuje na pepsin a ten následně štěpí bílkoviny
 
 - gastrin = hormon řídící činnost žalůdku
+- silná vrstva svalové tkáně
+- Peristaltikou posouvá potravu dál
 
-> **Česlo** = horní část přechod mezi jícnem a žalůdkem
+> **Česlo** = horní část přechod mezi jícnem a žalůdkem <br>
 >
-> **Tělo** = hlavní část žalůdku
+> **Tělo** = hlavní část žalůdku <br>
 >
-> **Vrátník** = dolní část přechod žlůdku do tenkého střeva
+> **Vrátník** = dolní část přechod žlůdku do tenkého střeva <br>
 
 - žalůdek je schopen i obrácené peristaltiky $\to$ Vomitus
+
+## Tenké střevo
+
+- orgán pro resorpci živin
+
+- trubice dlouhá 3-5 m
+- stěna s **klky** $\to$ zvětšuje povrch mukózy (sliznice)
+
+> Sliznice obsahuje kapiláry pro vstřebávání živin
+
+- střevní šťáva $\to$ směs enzymů a vody, kterou produkují žlázy ve sliznici
+
+> lipázy a maylázy (produkci aktivuje pankreozymin)
+
+- pankreatická šťáva $\to$ slouží k neutralizaci žaludečních šťav a aktivaci produkci enzymů ze střevní šťávy
+
+> trypsinogen $\to$ trypsin | chymotripsinogen $\to$ chymotripsin (produkci aktivuje pankreozymin) <br>
+>
+> sekretin je enzym, který aktivuje produkci alkalických šťav
+
+> **Dvanácterník** = obsahuje společný vývod jater a slivnivky břišní (dlouhá 12 palců)<br>
+>
+> **Lačník** = vždy prázdná <br>
+>
+> **Kyčelník**
+
+## Tlusté střevo
+
+- zpětná resorpce solí a vody, tvorba některých vitamínů, shromažďování nestrávených zbytků
+- dlouhé 1.5 m
+
+- kyčelník přechází v tlusté střevo
+- obsahuje symbiotické bakterie
+
+> **Vzestupný Trakčník** <br>
+>
+> **Apendix** = přívěšek slepého střeva <br>
+>
+> **Příčný Trakčník **<br>
+>
+> **Sestupný Trakčník** <br>
+>
+> **Esovitá smyčka** <br>
+>
+> **Konečník**
+
+## Játra
+
+- největší žláza těla
+- hepatocyt $\to$ jaterní buňka
+- má 2 laloky
+- **Funkce**
+  1. Přeměna vstřbaných látek v TS
+  2. Uložení vitamínů rozpustných v tucích
+  3. Detoxikace
+  4. Tvorba krevních bílkovin
+  5. Tvorba žluči
+  6. Tvorba tepla
+
+> **Pravý lalok** = větší <br>
+>
+> **Levý lalok** = menší <br>
+>
+> $\to$ **Jaterní branka** (žspolečný vstup cév do jater) <br>
+>
+> **Vrátnicová žíla** = vstřebané aminokyseliny a sacharidy z trávící soustavy (z žalůdku, sleziny, tekného střeva) <br>
+>
+> **Jaterní tepna** = větev břišní aorty $\to$ krev bohatá na kyslík <br>
+>
+> **Jaterní žíla** = krev do dolní duté žíly
+
+- velmi prokrvené
+- **Jaterní lalúček** = základní funkční jednotka jater
+
+> tvořen z jaterní buněk uspořádaných do trámců
+>
+> silně prokrvený vlásečnicemi
+>
+> začátky žlučových cest (produkce žluči) $\to$ slévá se do jater $\to$ do žlučníku $\to$ žlučovodem do dvanáctníku
+
+## Slinivka břišní
 
 ---
 
