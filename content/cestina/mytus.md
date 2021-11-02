@@ -1,6 +1,6 @@
 +++
 
-title="Mýtus úvod"
+title="Mýtus"
 
 date=2021-09-06
 
@@ -314,6 +314,28 @@ pračas - období před tím než byl stvořen svět
   $\to$ pohybuje se v pustinách, bažinách a blatech
 
 - Propojuje křesťanský svět s pohanským
+
+- V druhé části je Beowulf jmenován králem
+
+- Bojuje s drakem o poklad
+
+- Čerpá z něj tolkien při tvorbě Hobita
+
+- césura $\to$ přerývka = verš v má v polovině veršový a významový zlom (jeden verš má dva půl verše)
+
+- Kenning $\to$ druh metafory typický pro starou germánskou literaturu
+
+  > kosti země = kameny <br>
+  >
+  > slunce příbytků = oheň <br>
+  >
+  > kostěný dům = tělo <br>
+  >
+  > cesta velryb = moře <br>
+  >
+  > vlk stromů = vítr <br>
+  >
+  > světlo bitev = meč
 
 ---
 

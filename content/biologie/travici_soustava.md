@@ -214,9 +214,9 @@ $\to$ Podélná svalovina
 - velmi prokrvené
 - **Jaterní lalúček** = základní funkční jednotka jater
 
-> tvořen z jaterní buněk uspořádaných do trámců
+> tvořen z jaterní buněk uspořádaných do trámců <br>
 >
-> silně prokrvený vlásečnicemi
+> silně prokrvený vlásečnicemi <br>
 >
 > začátky žlučových cest (produkce žluči) $\to$ slévá se do jater $\to$ do žlučníku $\to$ žlučovodem do dvanáctníku
 
