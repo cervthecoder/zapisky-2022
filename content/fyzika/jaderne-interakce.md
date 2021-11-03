@@ -33,8 +33,16 @@ $\to$ Jádro zaujímá velmi malou část : zhruba jedna $\alpha-$částice ze 4
 ## Silná interakce (drží)
 
 - drží jádro pohromadě
-- zprosředkovatel je **gluon**
-- Působí mezi hadrony (kvarky)
+
+- zprosředkovatel je **gluon** $\to$ nulová klidová hmotnost
+
+  $\to$ Je nositelem barvy z kvarku na kvark
+
+  $\to$ nemá náboj
+
+- barva hraje podobnou roli, jako elektromagnetický náboj u silné interakce
+
+- Působí mezi hadrony (kvarky a částice z nich složené $\to$ mezony, baryony, proton, neutron)
 
 ## Slabá interakce (rozpad)
 

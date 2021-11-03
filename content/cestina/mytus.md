@@ -241,6 +241,20 @@ pračas - období před tím než byl stvořen svět
 
 - Odysseus dorazí do zpustošené Ithaky (bankrot na Ithace $\to$ 108 ženichů)
 
+### Agamemnón
+
+- Svrchovaný král v Mykénách (Despota)
+- zabit vlastní manželkou $\to$ *Klytaiméastra*
+
+> Aighistos byl bratr Agamemnóna a vládl po boku Klytaiméstra
+
+- Vedl války proti Tróje
+- Jeho maska ze zlata se našla v Mykénách
+- Neměl moc dobré vztahy s Achilem $\to$ ukradl Achilovi milenku
+- Měl mnoho milenek
+- Dcery $\to$ Ifigénie, Elektra
+- Syn $\to$ Orestés
+
 
 ### Římské mýty
 
