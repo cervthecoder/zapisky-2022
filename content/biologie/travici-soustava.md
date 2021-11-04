@@ -222,6 +222,22 @@ $\to$ Podélná svalovina
 
 ## Slinivka břišní
 
+- latinsky pankreas
+- s žlučovodem vývod slinivky do dvanáctníku
+- Většina slinivky $\to$ **Exokrinní funkce**
+- Pankreatická šťáva obsahuje hlavně zásadité kationty hydrogen uhličitánu, obsahuje důležité enzymy pro trávení
+
+- Malá část slinivky $\to$ **Endokrinní funkce** $\to$ Langerhansovy ostrůvky (obsahují $\alpha-buňky$ a $\beta-buňky$)
+
+> $\alpha-buňky$ produkují glukagon <br>
+>
+> $\beta-buňky$ produkují inzulín
+
+- Větší koncentrace inzulínu $\to$ měnší koncentrace cukrů (**Snižuje glykémii**)
+- Působí proti účinku inzulínu $\to$ odbourává glykogen na glukózu (antagonista inzulínu) (**Zvyšuje glykémii**)
+- diabetes I. jako autoimunitní onemocnění $\to$ imunitní systém zničí $\beta-buňky$
+- diabetes II. je způsobena stářím a špatným stravováním $\to$ buňky již nereagují na vlastní inzulín
+
 ---
 
 glykémie = koncentrace glukózy v krvi (hypoglykémie x hyperglykémie)
@@ -229,3 +245,5 @@ glykémie = koncentrace glukózy v krvi (hypoglykémie x hyperglykémie)
 autonomní nervový systém = sympatikus a parasympatikus
 
 prodloužená mícha reguluje potravinové reflexy
+
+glykogen = dlouhé řetězce glukózy
