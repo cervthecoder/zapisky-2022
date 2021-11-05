@@ -90,8 +90,37 @@ date=2021-10-15
 
 - červenohnědá barva
 - dusivý a dráždivý $\to$ při vyšších koncentracích toxický
-
 - lze připravit $HNO_3 + 2Cu \to CuNO_3 + NO_2 + H_2O$
+- Zaváděním do vody vzniká kyselina dusičná $3H_2O + NO_2 \to 2HNO_3 + HNO_2$ (musí se oxidovat i redukovat)
+- vzniká spalování fosilních paliv
+
+## Kyselina dusičná $HNO_3$
+
+- koncentrovaná již 67%
+
+- velmi silná žíravina
+
+- uchovává se v nádobách z tmavého skla $\to$ na světle se rozkládá na $NO_2$ a hnědne
+
+- silné oxidační činidlo $\to$ dusík je zde v nejvyšším oxidačním stupni
+
+  $\to$ oxidační účinky neztrácí ani při ředění
+
+**Zředěná dusičná**
+
+- reaguje pouze s neušlechtilými kovy
+
+$Zn + HNO_3(aq) \to NH_4NO_3 + ZnNO_3 + H_2O$ $\Rightarrow$ redukuje se dusík
+
+$Fe + HNO_3(aq) \to NH_3NO_3 + Fe(NO_3)_2 + H_2O$
+
+**Zředěná sírová**
+
+$H_2SO_4 + Zn \to H_2 + ZnSO_4$  $\Rightarrow$ redukuje se vodík
+
+> **Disociace** <br>
+>
+> $HNO_3 + H_2O \leftrightarrow H_3O^+ NO_3^-$
 
 # Fosfor
 
