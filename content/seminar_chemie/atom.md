@@ -116,7 +116,39 @@ date=2021-10-18
 
 <img src="https://www.aldebaran.cz/galerie/figs/mikrosvet/radioaktivita_mq.png" style="zoom: 50%;" />
 
-- 
+## Jaderné reakce
+
+- $L+x\to D + y$
+- bombardované jádro + bombardující částice $\to$ vzniklé jádro  + emitovaná částice
+- $L(x, y)D$
+- děj při němž dochází k rekaci s jiným jádrem, či elementární částicí za vzniku jednoho nebo více nových jader a elementárních částic
+- První jadernou reakci provedl v roce 1919 Ernst Rutherford
+
+> $^{14}_7N + ^4_2\alpha \to ^{17}_8O + ^1_1p$<br>
+>
+> $^{14}_7N(\alpha, p)^{17}_8O$
+
+- dělíme na sytézní a štěpné (slučování a štěpení)
+
+> **Syntézní** $\to$ z lechčích atomových jader vznikají jádra těžší <br>
+>
+> $_1^1H + ^2_1D \to ^3_2 He$ <br>
+>
+> Aby proběhly je potřeba dodat obrovské množství energie $\to$ vzniklá atomová jádra jsou velmi nestabilní 
+
+> **Štěpné** $\to$ z těžkého jádra vznikají jádra středně těžká <br>
+>
+> Velmi energeticky výnosné
+>
+> $^{235}_{92}U + ^1_0n \to ^{140}_{56}Ba + ^{93}_{36}Kr + 3^1_0n$ (díky emitaci 3 neutronů dochází k řetězové reakci) <br>
+>
+> K zpomalení neutronů se používají uhlíkové tyče a těžká voda <br>
+>
+> <img src="https://www.svetenergie.cz/data/web/powerplant/jaderna-elektrarna/reaktor/photos/retezova_stepna_reakce.svg" style="zoom:25%;" /> <br>
+>
+> řízené jaderné reakce (v jaderných reaktorech) <br>
+>
+> neřízené jaderné reakce (atomová bomba) <br>
 
 ## Klasifikace atomu
 
@@ -134,15 +166,45 @@ date=2021-10-18
 
   $\to$ stabilitou jáder $\to$ atomová jádra nestálých isotopů podléhají samovolné přeměně doprovázení neviditelného pronikavého záření (radiokativita)
 
-- **Isobar**
+- **Isobar** = soubory atomů se stejným nuklenovým číslem
 
-- **Isoton**
+- **Isoton** = soubory atomů různých prvků se stejným neutronovým číslem
 
+# Elektronový obal
 
+- Nejnovější kvantově-mechanický model atomu (vlnově-mechanický)
 
+- Vychází z poznatků kvantové mechaniky (Louid de Broglie 1924)
 
+- Comptonův jev (fotony) $\to$ vlnově korpuskulární charakter částic
 
+- **Dualismus**
 
+  $\to$ všechny objekty mikrosvěta se můžou chovat jako částice i jako vlna
+
+  $\to$ stojaté vlnění
+
+- nelze přesně určit, kde se částice právě nachází a jakou má rychlost $\to$ **Heisenbergův princip neurčitosti**
+
+  $\to \Delta x \cdot \Delta p > \frac{h}{2\pi}$ 
+
+- Na Heseinbergův princip navazuje Erwin Schrödinger v roce 1925, který se snaží vyřešit problematiku principu neurčitosti
+
+  $\to$ Shcrödingerova rovnice pro výpočet vlnové funkce elektronu, který se vyskytuje v elektrickém poli nabitého jádra
+
+- Dle vlnvové funkce elektronu popisujeme oblast v okolí jádra, v němž se elektron vyskytuje s nejvyšší pravděpodobností $95$%
+
+  $\to$ **Orbital**
+
+- elektron je určitá oblast v elektronovém obalu s největší hustotou záporného náboje
+
+- k popisu orbitalu používáme popis kvantová čísla $\to$ n, l, m, s
+
+- Hlavní kvantové číslo $\to$ energie orbitalu (pořadové číslo elektronové vrstvy směrem od jádra)
+
+  $\to$ udává se 1-8, nebo K, L, M, N...
+
+- Vedlejší kvantové číslo 
 
 ---
 
