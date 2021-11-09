@@ -18,8 +18,11 @@ date=2021-11-03
 - nejznámějším hercem byl Thespís (Thespídova kára $\to$ dělat herce)
 - trojí jednota $\to$ jednota místa, času a děje
 - řekové používali deklamaci $\to$ patetický pomalý přednes
+- **Deus ex machina** = bůh ze stroje (spouštění bohů z olympu na kladce $\to$ přinášeli rozuzlení)
 
-## Agamemnón (Aischilos)
+# Aischylos
+
+## Agamemnón
 
 - Svrchovaný král v Mykénách (Despota, tyran)
 - zabit vlastní manželkou společne s Casandrou $\to$ *Klytaiméastra*
@@ -42,3 +45,46 @@ date=2021-11-03
 - Oresta pronásleduje svědomí, protože zavrařdil svou matku (psice)
 - Mykény jsou neklidné $\to$ přichází městký soud (Apollón, Athéna, mykéňané, lítice a soudce)
 
+# Sofoklés
+
+- 5. st. př. n. l.
+- Zpracoval Elektru
+- Thébská královská tragédie $\to$ Oidipův královský rod
+
+## Král Oidipus
+
+- zamiloval se do své matky a vzal si svou matku
+
+  $\to$ matka to zjistila a zabila se
+
+  $\to$ odipus si vypíchne oči
+
+  $\to$ synové = Eteogles, Polineikos
+
+  $\to$ dcery =  Antigona, Isména
+
+- zabil svého otce
+
+- Bylo mu to vyvěštěno $\to$ bude tragédií rodině
+
+- Jako malého ho odstěhovali
+
+- Nevěděl, že muž, kterého zabil, byl jeho otec a žena, kterou si bere, je jeho matka
+
+- Vracel se do Théb, protože se tam usadila Sfinx
+
+
+
+- Oidpovi synové se perou o trůn a zabijí se $\to$ přichází Antigona
+
+## Antigona
+
+- dcery Oidipovi se musí vzít, aby mohli vládnout
+
+- strýc vládne dočasně $\to$ Kreón
+
+  $\to$ Eteogles se má pohřbít (hájil vlast)
+
+  $\to$ Polineikos se má ponechat vlkům (přišel proti městu s amádou)
+
+- Antigona i přes zákaz Kreónův pohřbí Polineikos
