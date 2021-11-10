@@ -124,3 +124,4 @@ $H_2SO_4 + Zn \to H_2 + ZnSO_4$  $\Rightarrow$ redukuje se vodík
 
 # Fosfor
 
+- 
