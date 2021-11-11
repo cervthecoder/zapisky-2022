@@ -8,12 +8,10 @@ date=2021-11-04
 
 # Dýchací soustava
 
-- 
-
 - buněčné dýchání $\to$ je biochemický proces, při kterém se uvolňuje chemická energie vazeb organických sloučenin $\to$ ATP
 - Každá buňka si musí vyrobit vlastní ATP
-- **vnější dýchání** $\to$ výměna plynů mezi vnějším prostředím a tělem
-- **vnitřní dýchání** $\to$ 
+- **vnější dýchání** $\to$ výměna plynů mezi vnějším prostředím a organismem
+- **vnitřní dýchání** $\to$ výměna $CO_2, O_2$ mezi krví a tkáněmi
 
 ## Horní cesty dýchací
 
@@ -106,4 +104,4 @@ date=2021-11-04
 
   $\to$ při poklesnutí pH pod určitou hladinu se aktivují sami nádechové neurony
 
-- V plicích jsou mechanoreceptory, které když se jich dotknou plíce vyšlou signál výdechovým neuronům
+- V plicích jsou mechanoreceptory, které když se jich dotknou plíce vyšlou signál výdechovým neuronůmě

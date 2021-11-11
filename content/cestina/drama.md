@@ -53,7 +53,7 @@ date=2021-11-03
 
 ## Král Oidipus
 
-- zamiloval se do své matky a vzal si svou matku
+- zamiloval se do své matky (Iokasté) a vzal si svou matku
 
   $\to$ matka to zjistila a zabila se
 
@@ -73,9 +73,10 @@ date=2021-11-03
 
 - Vracel se do Théb, protože se tam usadila Sfinx
 
-
-
-- Oidpovi synové se perou o trůn a zabijí se $\to$ přichází Antigona
+- Oidpovi synové se perou o trůn a zabijí se $\to$ přichází Antigona a Haimón (manžel Antigóny)
+- Kreon (bratr Iokasté) usedne na trůn
+- Antigona pohřbí i přes zákaz Kreontův bratra
+- Kreon jí nechá zavřít
 
 ## Antigona
 
