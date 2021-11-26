@@ -86,3 +86,12 @@ date=2021-10-06
 - používá se v nabytkářském průmyslu
 
 ![](https://www.mojechemie.cz/images/Kafr.png)
+
+![](https://pdf2jpg.net/files/8d0dd142f9e879f8272280ae96d743afecaaf126/Biochemie-page-004.jpg)
+
+![](https://pdf2jpg.net/files/8d0dd142f9e879f8272280ae96d743afecaaf126/Biochemie-page-005.jpg)
+
+![](https://pdf2jpg.net/files/8d0dd142f9e879f8272280ae96d743afecaaf126/Biochemie-page-006.jpg)
+
+![](https://pdf2jpg.net/files/8d0dd142f9e879f8272280ae96d743afecaaf126/Biochemie-page-007.jpg)
+
