@@ -1,5 +1,4 @@
 +++
-
 title="Cévní (oběhová) soustava"
 
 date=2021-11-11
@@ -19,15 +18,15 @@ date=2021-11-11
 - trofická tkáň
 
 > Hlavní složkou je voda 98% <br>
->
+> 
 > Globuliny, protělátky, globulární bílkoviny, 
 
 - krevní částice 45%
 
 > **erytrocyty** = červené krvinky <br>
->
+> 
 > **leukocyty** = bílé krvinky <br>
->
+> 
 > **trombocyty** = krevní destičky $\to$ nejsou to buňky $\to$ odštěpují se z Megakaryocytů
 
 - pH krve 7.4 $\to$ je velmi přísně hlídáno pomocí pufrů a jiných látek
@@ -58,17 +57,17 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
 - 91% vody | 8% organické látky | 1% Anorganické látky
 
 > **Organické látky** <br>
->
+> 
 > Plazmatické bílkoviny <br>
->
+> 
 > Globuliny $\to$ zajišťují transport <br>
->
+> 
 > Fibrinogen <br>
->
+> 
 > Cukry <br>
->
+> 
 > Hormony <br>
->
+> 
 > Tuky <br>
 
 ### Erytrocyty
@@ -79,9 +78,9 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
 - rozpadají se ve slezině a v játrech $\to$ vytvářejí z nich žlučová barviva
 
 > **Erytropoéza** <br>
->
+> 
 > tvorba červených krvinek v červené kostní dřeni <br>
->
+> 
 > Eritropoetin $\to$ tkáňový hormón, který uvolňují ledviny; řídí intenzitu tvorbu červených krvinek
 
 - hematokrit = poměr mezi objemem erytrocytů a krevní plazmou
@@ -92,28 +91,81 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
 - počet kolísá $\to$ například při nemoci stoupá
 
 > **Granulocyty** <br>
->
+> 
 > v cytoplasmě mají barvitelná zrníčka <br>
->
+> 
 > členěné jádro na laloky (rohlíkový tvar) <br>
->
+> 
 > $\to$ neutrofilní (fialová) 64% = hlavní funkce je fagocytóza (pohlcují antigeny)
->
+> 
 > $\to$ eosinofilní (červená) 1-3%
->
+> 
 > $\to$ bazofilní (modrá) 0-1%
 
 > **Agranulocyty** <br>
->
+> 
 > bez zrníček <br>
->
+> 
 > bez členěného jádra <br>
->
+> 
 > B-Lymfocyty <br>
->
+> 
 > T-lymfocyty
 
----
+### Trombocyty
+
+- krevní destičky
+
+- odštěpují se z megakaryotů
+
+- hrají roli v zástavě krvácení (hemokoagulace = shlukování a srážení trombocytů)
+
+- je několik koagulačních faktorů
+  
+  1. Přeměna firbrinogenu na fibrin
+  
+  2. Přeměna protrombinu na trombin
+     
+     ... spousta dalších faktorů
+
+- koagulační kaskáda = přesný sled dějů vedoucí ke koagulaci
+
+- hemofilie = genitcké onemocnění; porucha srážlivosti krve
+  
+  > Hemofylii způsobuje recesivní alella <br>
+  > 
+  > Přenašečky jsou ženy, ale nejvíce se projevuje u mužů z důvodu velikosti chromozomu Y
+
+-  trombus =  krevní sraženina způsobená trombocyty
+1. sekundární trombus (do sítě fibrinu se nachytají např. leukocyty, erytrocyty a trombocyty)
+
+2. Primární trombus (shluk krevních destiček)
+
+## Cévy
+
+- trubičky, ve kterých protéká krev
+
+- **tepny** - ze srdce do oběhu
+
+- **žíly** - do srdce | kapsovité chlopně (překonání tíhového zrychlení) | elastická svalovina
+
+- **vlásečnice (kapiláry)** - propojují systém | přes ně se mohou leukocyty dostat z krve do mezibuněčných prostor (diapedéza)
+
+> **Největší tepna** = aorta <br>
+> 
+> přechází v tepny -> tepénky -> kapiláry -> žilky (venuly) -> žíly (veny)
+
+### Srdce
+
+- 2 síně a 2 komory
+
+- stěna = vnitřní vazivová blána = **endokard**
+
+- střední vrstva = srdeční svalová tkáň = **myokard**
+
+- vnější vrstva = **epikard**
+
+- srdce je uloženo v osrdečníku = **perikard**
 
 # Tělní tekutiny
 
@@ -122,13 +174,13 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
 - extracelulární tekutiny $\to$ tekutiny uvnitř organismu, ale vně buněk (obýhají)
 
 - stav dynamické rovnováhy mezi extracelulárníma tekutinama $\to$ homeostáza
-
+  
   $\to$ krev (cévní tekutina)
-
+  
   $\to$ míza (cévní tekutina)
-
+  
   > Vzniká filtrací tkáňového moku (to, co projde do mízních cév)
-
+  
   $\to$ tkáňový mok (mimocévní tekutina)
-
+  
   > Vzniká filtrací krve (to, co projde přes stěnu kapiláry)
