@@ -136,7 +136,7 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
   > 
   > Přenašečky jsou ženy, ale nejvíce se projevuje u mužů z důvodu velikosti chromozomu Y
 
--  trombus =  krevní sraženina způsobená trombocyty
+- trombus =  krevní sraženina způsobená trombocyty
 1. sekundární trombus (do sítě fibrinu se nachytají např. leukocyty, erytrocyty a trombocyty)
 
 2. Primární trombus (shluk krevních destiček)
@@ -153,19 +153,72 @@ $\to$ Aglutinogen A a B nemá žádný aglutin
 
 > **Největší tepna** = aorta <br>
 > 
-> přechází v tepny -> tepénky -> kapiláry -> žilky (venuly) -> žíly (veny)
+> přechází v tepny $\to$ tepénky $\to$ kapiláry $\to$ žilky (venuly) $\to$ žíly (veny)
 
-### Srdce
+## Srdce
+
+### Stavba
 
 - 2 síně a 2 komory
+- síně $\to$ tenkostěné
+- síně $\to$ krev ze zhora dolu
+- komory $\to$ krev ze zdola nahoru
+- rozděleno na levou a pravou polovinu
+- systola = kontrakce myokardu
+- diastola = uvolnění uvolnění myokardu
+
+> pravá síň $\to$ vstupuje zde horní dutá žíla a dolní dutá žíla <br>
+>
+> z pravé síně přes trojcípou chlopeň do pravé komory $\to$ plicní tepnou do plic <br>
+>
+> po okysličení putuje krev do levé síně $\to$ přes dvojcípou chlopeň do levé komory <br>
+>
+> z levé komory přes půlměsíčitou chlopeň do aorty
+
+> **poloměsíčité chlopně** $\to$ mezi komorami a tepnami
+>
+> **vícecípé chlopně** $\to$ mezi síněmi a komorami
 
 - stěna = vnitřní vazivová blána = **endokard**
-
 - střední vrstva = srdeční svalová tkáň = **myokard**
-
 - vnější vrstva = **epikard**
-
 - srdce je uloženo v osrdečníku = **perikard**
+
+![](https://gympl.files.wordpress.com/2013/01/0bb85-newpicture.png)
+
+
+
+- **sinoatriální bod** (uzlík síňový) = bod v pravé síňi, ze kterého vycházejí akční potenciály do myokardu
+- mezi síněmi a komorami je nevodivá část, která nepustí akční potenciály
+- **atrioventrikulární bod** (uzlík síňokomorový) = převáží vzruchy dále do komor (převádí je Hissův svazek)
+- kardviovaskulární centrum koryguje tepovou frekvenci (část vegetativní nervové soustavy)
+- I z mozkové kůry mohou vycházet signály, které ovlivní tepovou frekvenci $\to$ pocity, strach, stres
+
+### Aorta
+
+1. Vzestupná auorta $\to$ nahoru z levé komory
+
+> věnčité tepny (korolární) $\to$ krev z vzestupné aorty do myokardu (kyslíkem nejbohatší)
+
+2. Aortální oblouk
+
+> hlavopažní kmen $\to$ pravá podklíčová tepna | pravá společná krkavice (mozek a mimické svaly v pravé straně) <br>
+>
+> levá společná krkavice <br>
+>
+> levá podkličová tepna
+
+3. Sestupná aorta
+
+4. Hrudní aorta $\to$ v hrudním koši
+
+5. Břišní aorta $\to$ část v břišní dutině
+
+### choroby srdce a cév
+
+- ischemická choroba srdeční = nedostatečná prokrvení myokardu (okysličení)
+- ateroskleróza = ukládání plátů ve velkých tepnách (aterom $\to$ kožní cesta)
+- varixy = křečové žíly $\to$ stěna v žilách v dolních končetinách se vyvakuje (vakovité útvary v stěně žíly)
 
 # Tělní tekutiny
 
