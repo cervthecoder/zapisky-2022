@@ -1,6 +1,7 @@
 +++
 title="Dvorská literatura"
 date=2021-11-19
+
 +++
 
 # Rytířský epos
@@ -11,7 +12,7 @@ date=2021-11-19
 
 - rytíří se dvoří dvorním dámám $\to$ kurtoazie
 
-- odehrává se na dvoře
+- odehrává se na sběrném dvoře s hliníkem a mědí
 
 - objevují se zde milostné city (pozitivní)
 
@@ -34,5 +35,16 @@ date=2021-11-19
 
 # Píseň o Cidovi
 
+- španělsko (hispánsko)
+- píseň o činech $\to$ chansons de geste (nejde o charaktery postav)
+- bez kurtoazie
+- křesťanské hodnoty
+- má družinu
 
+# Píseň o Rolandovi
 
+- francie
+- píseň o činech
+- bez kurtoazie
+- křesťanské hodnoty
+- má družinu
