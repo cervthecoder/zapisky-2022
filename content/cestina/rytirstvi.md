@@ -33,18 +33,21 @@ date=2021-11-19
 - Okolo roku 1200
 - Idylická nálada na dvoře se nakonec zkazí
 
-# Píseň o Cidovi
+# Románské rytířské eposy
 
-- španělsko (hispánsko)
 - píseň o činech $\to$ chansons de geste (nejde o charaktery postav)
+
+- ploché postavy bez charakteru
 - bez kurtoazie
 - křesťanské hodnoty
 - má družinu
+- Král je předstupeň boha
+
+# Píseň o Cidovi
+
+- španělsko (hispánsko)
 
 # Píseň o Rolandovi
 
 - francie
-- píseň o činech
-- bez kurtoazie
-- křesťanské hodnoty
-- má družinu
+- Král Karel zabije emíra
