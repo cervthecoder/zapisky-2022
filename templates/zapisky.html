@@ -4,7 +4,7 @@
 
 <ul>
   {% for page in section.pages %}
-  <li><h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2></li>
+  <li style="list-style-type: none"><h2><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2></li>
   {% endfor %}
 </ul>
 {% endblock content %}
