@@ -61,6 +61,8 @@ body h1{
 h1 {
   padding: 10px;
   font-weight: bold;
+  padding-bottom: .3em;
+  border-bottom: 1px solid $main_color;
 }
 
 h2{
@@ -73,8 +75,6 @@ h2{
 h3{
   padding: 8px;
   font-weight: bold;
-  padding-bottom: .3em;
-  border-bottom: 1px solid $main_color;
 }
 h4{
   font-size: 20px;
