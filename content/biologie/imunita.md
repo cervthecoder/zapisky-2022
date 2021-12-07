@@ -2,7 +2,7 @@
 
 title="Imunita"
 
-date=202112-07
+date=2021-12-07
 
 +++
 
@@ -82,7 +82,7 @@ date=202112-07
 
 ### Brzlík
 
--  za hrdudní kostí
+- za hrdudní kostí
 
 - dozrávají zde T-lymfocyty
 
