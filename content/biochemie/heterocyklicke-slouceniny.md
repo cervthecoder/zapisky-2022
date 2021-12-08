@@ -17,15 +17,15 @@ date=2021-11-03
 - číslujeme od heteroatomů
 
 > **Pětičlenné heterocykly** $\to$ S 1 jedním heteroatomem, nebo s více heteroatomy <br>
->
+> 
 > <img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-11-03%20at%2007.51.25.png?raw=true" style="zoom:50%;" />
->
+> 
 > **Šestičlenné heterocykly** $\to$ S 1 jedním heteroatomem, nebo s více heteroatomy <br>
->
+> 
 > <img src="https://github.com/cervthecoder/github_images/blob/master/Screenshot%202021-11-03%20at%2007.51.51.png?raw=true" style="zoom:50%;" />
->
+> 
 > **Kondenzované heterocykly** $\to$ Kondenzované spojení 2 a více jednodušších heterocyklů <br>
->
+> 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Guanin.svg/1200px-Guanin.svg.png" style="zoom: 33%;" />
 
 # Sloučeniny
@@ -63,25 +63,25 @@ $\to$ vzniká aromatické jádro
 - delokalizace způsobuje vysokou stabilitu sloučenin
 
 - Když se ze struktury aromatických sloučenin odštěpuje vodík, tak se odštěpuje heterolyticky (odštěpuje se $H^+$)
-
+  
   $\to$ Nahradí ho jiný kation $\to$ **Elektrofilní substituce**
 
 - Delokalizační energie (u benzenu $151\: kJ/mol$)
-
+  
   1. thiofenu = $122 \: kJ/mol$ (největší aromatické vlastnosti z heteroartenů)
   2. Pyrrol = $96\: kJ/mol$
   3. Furan = $88 kJ/mol$
-  
+
 - Charakteristické reakce pro heteroareny budou $S_E$ reakce (Elektrofylní substituce)
 
 > **Nitrace** $H^+ \to NO_2^+$
->
+> 
 > **Sulfonace** $H^+ \to SO_3H^+$ (sulfoniový kation)
->
+> 
 > **Halogenace** $H^+ \to X^+$
->
+> 
 > **Alkylace** $\to$ methylace (neprobíhají typicky)
->
+> 
 > **Acylace** (neprobíhají typicky)
 
 ### Příklady $S_E$ reakci
@@ -95,7 +95,7 @@ $\to$ vzniká aromatické jádro
 **U heteroarenů**
 
 - u heteroarenů bude probíhat substituce v místech s nejvyšší elektronovou hustotou
-
+  
   $\to$ Elektronová hustota je posunutá k heteroatomu $\to$ Největší je u uhlíků $2$ a $5$
 
 - $S_E$ reakce probíhají lépe, než u benzenu
@@ -105,7 +105,7 @@ $\to$ vzniká aromatické jádro
 - U furanu probíhají $S_E$ reakce nejhůře $\to$ Nemohou probíhat v kyselém prostředí, protože by kyslík uplatňoval svoje protolytické účinky
 
 - Sulfonace furanu by fungovala pouze, pokud bychom použili $SO_3$
-
+  
   $\to$ stuktura se otevírá a a nakoncích vznikají aldehydické skupiny
 
 ![](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/enfuem/2018/enfuem.2018.32.issue-4/acs.energyfuels.7b03239/20180413/images/medium/ef-2017-03239m_0008.gif)
@@ -140,17 +140,17 @@ $\to$ vzniká aromatické jádro
 - Vážou se přes uhlíky $2', 5'$
 
 > **Porfin** <br>
->
+> 
 > základní strukturní skelet pro pyrrolové barvy
->
+> 
 > <img src="https://d55-a.sdn.cz/d_55/c_img_gX_P/IVwDw.png" style="zoom:67%;" />
 
 - **Porfiriny** $\to$ deriváty porfinu
 
 > **Hem**
->
+> 
 > - Vodíky v dusících jsou nahrazeny $Fe^{2+} \to$ je vázáno koordinačně kovalentní vazbou
->
+> 
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heme_b.svg/200px-Heme_b.svg.png" style="zoom:150%;" />
 
 ### Lineární
@@ -166,9 +166,9 @@ $\to$ vzniká aromatické jádro
 - vznikájí parazitickým působením houby na pšenici
 
 > ergometrin <br>
->
+> 
 > ergotamin <br>
->
+> 
 > $\to$ uterotonika = posilují vztahy děložního svalstva
 
 ### Kyselina lysergová
@@ -182,7 +182,7 @@ $\to$ vzniká aromatické jádro
 - pokud nahradíme $OH$ skupinu v $COOH$ nahradíme $NH_2$ $\to$ Amid kyseliny lysergové
 
 - pokud dva vodíky nahradíme vodíky v amino skupině za $(CH_3-CH_2)_2$ $\to$ dimethylamid kyseliny lysergové
-
+  
   $\to$ lysertid (LSD) = velmi silné psychodislektikum
 
 <img src="https://www.wikiskripta.eu/images/6/6f/LSD_%E2%80%93_vzorec.jpg" style="zoom:150%;" />
@@ -205,9 +205,9 @@ $\to$ vzniká aromatické jádro
 - 2 substitituované deriváty jsou vazokonstriktiva a vazodilatancia
 
 > **Nafazolin** <br>
->
+> 
 > vazokonstiktivum (součástí kapek sanorin) <br>
->
+> 
 > Stahování poškozených cév v nosní sliznici
 
 ### Histidin
@@ -221,7 +221,7 @@ $\to$ vzniká aromatické jádro
 - spojení nukleových kyselin a histonů = **chromatin**
 
 - negativní účinky při alergických reakcích $\to$ dekarboxilace a navázání aminokyseliny
-
+  
   $\to$ histamin (alergická kožní reakce, poškození srdce, ovlivňuje tvorbu hlenů) : velmi zásaditá
 
 - antihistaminika $\to$ léky zastavující metabolickou dráhu histidinu na na histamin
@@ -233,11 +233,11 @@ $\to$ vzniká aromatické jádro
 - základem antibiotik penicilové řady
 
 > sulfothiazol <br>
->
+> 
 > ampicilin <br>
->
+> 
 > oxacilin <br>
->
+> 
 > benzyl-penicilin
 
 ### Thiamin
@@ -254,7 +254,7 @@ $\to$ vzniká aromatické jádro
 - při nedostatku dochází k zánětum nervů a svalové křeče $\to$ hypothymóza (avitaminóza)
 
 - může dojít k těžkému poškození srdce a nervové tkáně $\to$ ukládání kyseliny mléčné a pyrohroznové (nemohou se dekaroboxylovat) = nemoc beri-beri
-
+  
   $\to$ kvasnice, játra, obiloviny
 
 # Šestičlenné heterocykly
@@ -265,12 +265,10 @@ $\to$ vzniká aromatické jádro
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pyridin.svg/100px-Pyridin.svg.png" style="zoom:150%;" />
 
-
-
 ## 2-Pyran
 
 - na uhlíku číslo dva je narušený delokalizovaný systém
-
+  
   $\to$ nemá aromatické vlastnosti
 
 ![](data:image/png;base64,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)
@@ -278,10 +276,90 @@ $\to$ vzniká aromatické jádro
 ## 4-Pyran
 
 - na uhlíku číslo 4 je narušený delokalizovaný systém
-
+  
   $\to$ nemá aromatické vlastnosti
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/4H-Pyran.png/100px-4H-Pyran.png" style="zoom:150%;" />
+
+# Pyrimidin
+
+![](data:image/png;base64,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)
+
+- splňuje pravidla aromaticity
+
+## Pyrimidinové báze
+
+- složky stavebních jednotek nukleových kyselin
+  
+  $\to$ složky nukleotidů
+
+- UTC = Uracil, Thymine, Cytpsine
+
+- hydroxi, nebo amino deriváty pyrimidinu
+
+- v nukleotidu jsou vázany s pentózou a fosfátem
+
+- nukleosid $\to$ pentóza + báze
+
+- sacharidová složka (pentóza) se naváže přes dusík 1.
+
+- enolformy (tautomery) $\to$ OH skupina a dvojná vazba
+
+- vodíky z hydroxilových skupin se přesídlí na nejbližší dusík a zbývající kyslík se naváže dvojnou vazbou $\to$ ketoforma (oxoforma)
+
+![](/Users/matej/Library/Application Support/marktext/images/2021-12-08-07-57-05-image.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/46/Uracil_Tautaumerization.jpg)
+
+![](https://lh3.googleusercontent.com/proxy/erQH3yyrXQmiy8T5aidBZ40_lZakccLUUQ-gx6eUwLwm2AfpVkg81w_qkz_rhxXWkYTN1Qqq31u5QhvAkDsh-Xrp_FvVmd0OR_rsJiUQ22ci9y78nT8mfzg)
+
+- na pyrimidinových bázích máme $CONH$ část/i $\to$ Laktamové formy (oxo forma)
+
+- obahující $C=OH$ $\to$ laktimová forma (enol forma) 
+
+- Uracil je v RNA a Thymine je v DNA
+
+### Kyselina babrbiturová
+
+- hydroxiderivát pyrimidinu
+
+- pyrimidin-2-4-6-triol (3 hydroxi skupiny)
+
+- deriváty (barbituráty) $\to$ hypnotika a sedativa
+
+- poskytuje až 4 tuatomerie  (laktimová a laktamová)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Barbituric_acid.png/280px-Barbituric_acid.png)
+
+# Kondenzované heterocykly
+
+- kondeznačně spojené jednoduché heterocykly
+
+## Purin
+
+- imidazol + pyrimidin
+
+![](https://d55-a.sdn.cz/d_55/c_img_gZ_P/WBbB6.png)
+
+### Purinové báze
+
+- AG $\to$ adenin a guanin
+
+### Adenin
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Adenine_numbered.svg/200px-Adenine_numbered.svg.png)
+
+### Guanin
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Guanin_%28vzorec%29.svg/320px-Guanin_%28vzorec%29.svg.png)
+
+### Kyselina močová
+
+- purin-2-6-8-triol $\to$ poskytuje 4 tautomerie
+
+- pevná krystalická látka
+
+- konečným produktem odbourávání purinových derivátů u savců
 
 ---
 
@@ -290,4 +368,11 @@ kondenzovat = spojovat
 Huckelovo pravidlo = sloučenina je aromatická, pokud obsahuje kruh překrývajících se $\pi$ orbitalů a musí mít ve svém kruhu $4n + 2$ elektronů, kde $n$ je $0, 1, 2..$
 
 koenzym = nebílkoviná složka enzymu, která může existovat sám v buňce (organická látka)
+
+amidy = nahrazení $OH$ v $COOH$ za $NH_2$
+
+$RCOOH \to^{NH_3} RCOONH_2 + H_2O$
+
+$CONH$ = skupina v cyklických amidech
+
 
