@@ -6,6 +6,18 @@ date=2021-12-07
 
 +++
 
+# Iniciace
+
+- vstup do rytířského společenství (řádu)
+
+- dospění, zmoudření
+
+- cesta k rytířství  (dospělosti)
+
+- zavsěcení do obřadu lásky = zamilování se (darování srdce) $\to$ animus najde svou animu
+
+- duchovní cesta
+
 # Rytířský román (iniciační)
 
 ## Wolframovy romány
@@ -36,6 +48,8 @@ date=2021-12-07
 
 - neposkvrněný
 
+- srdcař (čestné srdce)
+
 - maminka je šlechtična a je syn rytíře
 
 - urozený původ
@@ -56,6 +70,9 @@ date=2021-12-07
 5. Vyhledávat společnost moudrých
 
 6. Zeptat se na jméno, když je s někým déle
+- Král přijímá Percivala na svém dvoře
+
+- tlachání vytváří falešné závazky a vztahy
 
 ---
 
