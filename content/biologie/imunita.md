@@ -40,11 +40,11 @@ date=2021-12-07
 
 - fagocyty $\to$ mnoho typů
 
-- neutrofilní granulocyty $\to$ malé, krátký životní cycklus
+- neutrofilní granulocyty $\to$ malé, krátký životní cycklus, pohyblivé
 
 - makrofágové $\to$ velké moc nepohlybivé buňka (zafixované v tkáni orgánu)
 
-### NK buňky
+### NK buňky (natural killers)
 
 - nespecifická obrana proti virům a nádorovým buňkám
 
@@ -53,10 +53,30 @@ date=2021-12-07
 ### Interferony
 
 - proteiny působící v protivirové obraně
+- glykoproteiny
+- navazují se na membrány okolních buněk zvyšují jeich rezistenci vůči virové infekci
 
 ### Zánět
 
+- reakce na poškození buněk vyvolaný patogenem, nebo i fyzikálním a mechanickým poškozením
+
+- zvyšuje se průtok krve a tlak v zanícené oblasti
+
+- rozšíření kapilár $\to$ diapedéza = průnik leukocytů přes stěnu kapiláry
+
+- zvyšení teploty
+
+- aktivace specifické imunity
+
+- hnis $\to$ odumřelé buňky, krevní plazma, odpad fagocytózy
+
 ### Komplement
+
+- komplex krevních bílkovin, který ničí bakterie
+
+- aktivují se po setkání s antigenem
+
+- spolupracuje se specifickou imunitou (protělátky)
 
 ## Specifická imunita
 
@@ -71,6 +91,38 @@ date=2021-12-07
 - specifcká obrana proti specifickému antigenu
 
 - vývojově složitější
+
+### Látková (humorální)
+
+- zprostředkovávájí ji B-lymfocyty (vznikají v kostní dřeni)
+
+- při setkání s antigenem začínají s množením (proliferace) na 2 druhy buněk
+
+$\to$ plazmocyty = schopnost tvořit specifické protělátky
+
+> **Protělátka** = protein imunoglobulin (IG) <br>
+> 
+> Pět základní skupin $\to$ IGG, IGM, IGA, IGD, IGE <br>
+> 
+> Koncentrují antigen do jednoho místa pro makrofága, aby to zfagocytoval
+
+$\to$ paměťové buňky = zrychlují reakci na konkrétní antigen (zprostředkovávají množení plazmocytů) jsou to **paměťové B-lymfocyty**
+
+### Buněčná imunita
+
+- zprostředkovávají ji T-lymfocyty (thymus = brzlík)
+
+- netvoří protilátky
+
+- některé přímo zneškodňují antigeny
+
+**Pomocné** = zahajují imunitní odpověď na antigen (fagocytóza, tvorba protělátek)
+
+**Cytotoxické** = donutí buňky k apoptóze (sebevraždě)
+
+**Supresorové** = moderace a tlumení průběhu imunitní reakce
+
+
 
 ## Lymfoidní orgány
 
@@ -103,6 +155,10 @@ date=2021-12-07
 ### Appendix
 
 - ve stěně appendixu je lymfoidní tkáň, která zachytává antigeny, které pronikají do střeva
+
+## Poruchy imunitního systému
+
+- alergie = přecitlivělá reakce $\to$ přehnanná reakce na antigen
 
 ---
 
