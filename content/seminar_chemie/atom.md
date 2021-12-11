@@ -229,7 +229,7 @@ date=2021-10-18
 > 
 > m= -1, 0, 1 $\to$ 3 orbitaly <br>
 > 
-> m= -2, -1, 0, 1, 2 $\to$ 5 orbitalů
+> m= -2, -1, 0, 1, 2 $\to$ 5 orbitalů <br>
 > 
 > m = -3, -2, -1, 0, 1, 2, 3 $\to$ 10 orbitalů
 
