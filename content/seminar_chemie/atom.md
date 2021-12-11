@@ -60,9 +60,13 @@ date=2021-10-18
 
 - $\beta$-záření = proud rychle letících elektronů (0.4c až 0.99) [negatronové a pozitronové záření]
   
-  $\to$ **negatronové** $\beta$-záření $_0^1n\to _1^1p+ ^0_{-1}e + _0^0\upsilon$ (přírodní radioisotopy)
+  $\to$ **negatronové** $\beta$-záření $_0^1n\to _1^1p+ ^0_{-1}e + _0^0\upsilon$ 
   
-  $\to$ **positronové** $\beta-$záření $_1^1p \to _0 ^1n +^0_1e + _0^0\upsilon$ (umělé radioisotopy)
+  > U přírodních radioisotopů
+  
+  $\to$ **positronové** $\beta-$záření $_1^1p \to _0 ^1n +^0_1e + _0^0\upsilon$ 
+  
+  > U umělých radioisotopů
   
   $\to$ 100 pronikavější než $\alpha$-záření
   
@@ -318,9 +322,3 @@ $6s^2 \: \: 4f^{(0-14)}$
 $7s^2 \: 5f^{(0-14)}$
 
 > $Ac: 7s^2 5f^0 6d^1$
-
-
-
-
-
-
