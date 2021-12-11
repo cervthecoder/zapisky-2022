@@ -251,6 +251,74 @@ date=2021-10-18
 
 - Pauliho vylučovací princip $\to$ Jeden orbital nemohou obývat 2 elektrony se stejným spinem
 
+## A. podskupiny
+
+- Nepřechodné prvky = valenční je pouze ten orbital s největším hlvaním kvantovým číslem
+1. A $\to ns^1$
+
+2. A $\to$ $ns^2$
+
+3. A $\to$ $ns^2 np^1$
+
+4. A $\to ns^2 np^2$
+
+5. A $\to$ $ns^2 np^3$
+
+6. A $\to$ $ns^2 np^4$
+
+7. A $\to ns^2 np^5$
+
+## B. podskupiny
+
+- Přechodné prvky = ve valenční vstvě je i orbital $(n-1)d$
+3. B $\to ns^2 (n-1)d^1$
+
+4. B $\to ns^2 (n-1)d^2$
+
+5. B $\to ns^2 (n-1)d^3$
+
+> Výjimka $\to$ $Nb: 5s^1 4d^4$
+
+6. B $\to ns^2 (n-1)d^4$
+
+> Výjimka $\to$ $Cr, Mo : ns^1 (n-1)d^5$
+
+7. B $\to ns^2 (n-1)d^5$
+
+8. B  $\to ns^2 (n-1)d^6$
+
+> Výjimka $\to$ $Ru : 5s^1 4d^7$
+
+9. B $\to ns^2 (n-1)d^7$
+
+> Výjimka $Rh : 5s^1 4d^8$
+
+10. B $\to ns^2 (n-1)d^8$
+
+> Výjimky <br>
+> 
+> $Pt: 6s^1 5d^9$ <br>
+> 
+> $Pd: 5s^0 4d^{10}$
+
+11. B $\to$ $ns^1 (n-1)d^{10}$
+
+12. $\to ns^2 (n-1)d^{10}$
+
+## Lanthanoidy
+
+- Vnitřně přechodné prvky (14 prvků za lanthanem)
+
+$6s^2 \: \: 4f^{(0-14)}$
+
+> $La: 7s^2 4f^0 \: 6d^1$
+
+## Aktinoidy
+
+$7s^2 \: 5f^{(0-14)}$
+
+> $Ac: 7s^2 5f^0 6d^1$
+
 
 
 
