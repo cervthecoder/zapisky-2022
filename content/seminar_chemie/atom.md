@@ -235,7 +235,7 @@ date=2021-10-18
 
 - **Spinové kvantové číslo** $\to$ spinový moment hybnosti elektronu v elektromagnetickém poli
 
-> značí se $m_S$
+> značí se $m_S$ <br>
 > 
 > $+\frac{1}{2} \Rightarrow\: \uparrow$ <br>
 > 
