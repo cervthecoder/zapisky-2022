@@ -74,6 +74,12 @@ date=2021-12-07
 
 - tlachání vytváří falešné závazky a vztahy
 
+### Wolfram dopisuje Percivala
+
+- dopisuje Chrétienův román a přiklášuje si ho podle sebe
+
+- přidal rytíře Lancelota
+
 ---
 
 svatý grál = pohár, ze kterého pil ježíš kristus

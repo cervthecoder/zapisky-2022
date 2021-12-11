@@ -13,7 +13,7 @@ date=2021-10-18
 - zájímá nás kvantově-mechanický model atomů (Louis de Broglie)
 
 - od Rutherfordova do Vlnově mechanického modelu mají všechny modely jádro a elektronový obal
-
+  
   $\to$ Liší se pouze názorem o uspřádání elektronů v elektronovém obalu
 
 ## Jádro
@@ -49,21 +49,21 @@ date=2021-10-18
 - při radioaktivitě dochází k uvolění záření
 
 - **$\alpha$**-záření = proud rychle letících jader helia (rychlost 0.1c)
-
+  
   $\to$ $\alpha$-přeměna $^A_ZX \to ^4_2\alpha + ^{A-4}_{Z-2}Y$ $\to$ Jádro se zbavuje protonů a neutronů, aby se přiblížilo k podmínce stability
-
+  
   $\to$ silné ionizační učinky na vzduch (vysoká kinetická energie $4$ až $11 \:MeV$)
-
+  
   $\to$ slabá pronikavost
-
+  
   $_{92}^{235}U \to _2^4\alpha + _{90}^{234}Th$
 
 - $\beta$-záření = proud rychle letících elektronů (0.4c až 0.99) [negatronové a pozitronové záření]
-
+  
   $\to$ **negatronové** $\beta$-záření $_0^1n\to _1^1p+ ^0_{-1}e + _0^0\upsilon$ (přírodní radioisotopy)
-
+  
   $\to$ **positronové** $\beta-$záření $_1^1p \to _0 ^1n +^0_1e + _0^0\upsilon$ (umělé radioisotopy)
-
+  
   $\to$ 100 pronikavější než $\alpha$-záření
   
   $\to$ Slabší ionizační účinky
@@ -75,15 +75,15 @@ date=2021-10-18
   $^{234}_{91}Pa \to _{92}^{234}U + _{-1}^0e$
   
   $_{11}^{22}Na \to ^{22}_{10}Ne + _{1}^0e$
-  
+
 - $\gamma-$záření = elektromagnetické vlnění $\lambda=10^{-10}$ až $10^{-12}m$
-
+  
   $\to$ Nejpronikavější
-
+  
   $\to$ Velmi nízké ionizační účinky
-
+  
   $\to$ Vzniká při velmi složitých přeměnách atomových jader
-
+  
   $\to$ **Uvolněná energie při přechodu přeměňovaného jádra z excitovaného do základního stavu**
 
 ### Charakteristika radiokativity
@@ -93,22 +93,21 @@ date=2021-10-18
 2. Energie radioaktivní přeměny [$MeV$]
 
 3. Rychlost radioaktivní přeměny $\to$ poločas přeměny $\tau_{1/2}=\frac{ln(2)}{\lambda}$
-
+   
    $\to$  Čas, za který se z původního množství radionuklidu přemění přesně polovina
-
+   
    $\lambda$ udává množství radionuklidu, které se samovolně přemění za jednotku času
-
+   
    $^{222}Rn \: \: \tau_{1/2}=3.84 \: dne$
-
+   
    $^{128}I \: \: \tau_{1/2}=25 \: měsíců$
-
+   
    $^{131}I \: \: \tau_{1/2}=8 \: dní$
 
 ## Rozpadové řady
 
 - řetězec přeměn v jehož průběhu postupně vzniká celá řada přírodních radioisotopů
 - Jsou 4 základní $\to$ v nich dohledáme všechny přírodní radioisotopy od protonového čísla 80
-
 1. Uranová řada $^{238}U \to ^{206}Pb$
 2. Aktiniová řada $^{235}U \to ^{207}Pb$
 3. Thoriová řada $^{232}Th \to ^{208}Pb$
@@ -125,29 +124,29 @@ date=2021-10-18
 - První jadernou reakci provedl v roce 1919 Ernst Rutherford
 
 > $^{14}_7N + ^4_2\alpha \to ^{17}_8O + ^1_1p$<br>
->
+> 
 > $^{14}_7N(\alpha, p)^{17}_8O$
 
 - dělíme na sytézní a štěpné (slučování a štěpení)
 
 > **Syntézní** $\to$ z lechčích atomových jader vznikají jádra těžší <br>
->
+> 
 > $_1^1H + ^2_1D \to ^3_2 He$ <br>
->
+> 
 > Aby proběhly je potřeba dodat obrovské množství energie $\to$ vzniklá atomová jádra jsou velmi nestabilní 
 
 > **Štěpné** $\to$ z těžkého jádra vznikají jádra středně těžká <br>
->
+> 
 > Velmi energeticky výnosné
->
+> 
 > $^{235}_{92}U + ^1_0n \to ^{140}_{56}Ba + ^{93}_{36}Kr + 3^1_0n$ (díky emitaci 3 neutronů dochází k řetězové reakci) <br>
->
+> 
 > K zpomalení neutronů se používají uhlíkové tyče a těžká voda <br>
->
+> 
 > <img src="https://www.svetenergie.cz/data/web/powerplant/jaderna-elektrarna/reaktor/photos/retezova_stepna_reakce.svg" style="zoom:25%;" /> <br>
->
+> 
 > řízené jaderné reakce (v jaderných reaktorech) <br>
->
+> 
 > neřízené jaderné reakce (atomová bomba) <br>
 
 ## Klasifikace atomu
@@ -159,11 +158,11 @@ date=2021-10-18
 - **Nuklid** = soubor atomů se stejným protonovým a nukleonovým číslem $_8^{16}O$
 
 - **Isotop** = soubor atomů se stejného prvku s rozdílným nukleonovým číslem $^{235}U, ^{238}U$ (isotopické nuklidy)
-
+  
   $\to$ liší se počtem neutronů
-
+  
   $\to$ liší se Hmotností
-
+  
   $\to$ stabilitou jáder $\to$ atomová jádra nestálých isotopů podléhají samovolné přeměně doprovázení neviditelného pronikavého záření (radiokativita)
 
 - **Isobar** = soubory atomů se stejným nuklenovým číslem
@@ -179,34 +178,81 @@ date=2021-10-18
 - Comptonův jev (fotony) $\to$ vlnově korpuskulární charakter částic
 
 - **Dualismus**
-
+  
   $\to$ všechny objekty mikrosvěta se můžou chovat jako částice i jako vlna
-
+  
   $\to$ stojaté vlnění
 
 - nelze přesně určit, kde se částice právě nachází a jakou má rychlost $\to$ **Heisenbergův princip neurčitosti**
-
+  
   $\to \Delta x \cdot \Delta p > \frac{h}{2\pi}$ 
 
 - Na Heseinbergův princip navazuje Erwin Schrödinger v roce 1925, který se snaží vyřešit problematiku principu neurčitosti
-
+  
   $\to$ Shcrödingerova rovnice pro výpočet vlnové funkce elektronu, který se vyskytuje v elektrickém poli nabitého jádra
 
 - Dle vlnvové funkce elektronu popisujeme oblast v okolí jádra, v němž se elektron vyskytuje s nejvyšší pravděpodobností $95$%
-
+  
   $\to$ **Orbital**
 
-- elektron je určitá oblast v elektronovém obalu s největší hustotou záporného náboje
+- orbital je určitá oblast v elektronovém obalu s největší hustotou záporného náboje
 
 - k popisu orbitalu používáme popis kvantová čísla $\to$ n, l, m, s
 
-- Hlavní kvantové číslo $\to$ energie orbitalu (pořadové číslo elektronové vrstvy směrem od jádra)
+- **Hlavní kvantové číslo** $\to$ energie orbitalu (pořadové číslo elektronové vrstvy směrem od jádra)
 
-  $\to$ udává se 1-8, nebo K, L, M, N...
+> udává se 1-8, nebo K, L, M, N
 
-- Vedlejší kvantové číslo 
+- **Vedlejší kvantové číslo** $\to$ udává prostorový tvar orbitalu a jeho energii
 
----
+> Značí se **l** (n-1) <br>
+> 
+> l = 0 (typ s) [2 elektrony] <br>
+> 
+> l=1 (typ p) [6 elektronů] <br>
+> 
+> l=2 (typ d) [10 elektronů] <br>
+> 
+> l=3 (typ f) [14 elektronů]
+
+- degenerované orbitaly $\to$ orbitaly se stejnou energii, ale s jinou prostrovou orientací ($p_x, p_y, p_z$)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Single_electron_orbitals.jpg/1024px-Single_electron_orbitals.jpg)
+
+- **Magneticé kvantové číslo** $\to$ udává počet orbitalů daného typu, které lze pozorovat v magnetickém poli
+
+> Značí se **m** <br>
+> 
+> Počet hodnot m pro typ orbitalu $(2l-1)$ <br>
+> 
+> m = 0  $\to$ 1 orbital<br>
+> 
+> m= -1, 0, 1 $\to$ 3 orbitaly <br>
+> 
+> m= -2, -1, 0, 1, 2 $\to$ 5 orbitalů
+> 
+> m = -3, -2, -1, 0, 1, 2, 3 $\to$ 10 orbitalů
+
+- **Spinové kvantové číslo** $\to$ spinový moment hybnosti elektronu v elektromagnetickém poli
+
+> značí se $m_S$
+> 
+> $+\frac{1}{2} \Rightarrow\: \uparrow$ <br>
+> 
+> $-\frac{1}{2} \Rightarrow \: \downarrow$
+
+# Elektronová konfigurace
+
+- Elektronová konfigurace $\to$ uspořádání eletktronů v v jednotlivých orbitalech
+
+- Pravidlo minimální energie $\to$ orbitaly s nižší energií se zaplňují dříve než orbitaly s nižší energií
+
+- Hundovo pravidlo (pravidlo maximální multiplicity) $\to$ Nejdříve se zaplňují jednotlivé orbitaly daného orbitalu s elektrony stejného spinového čísla
+
+- Pauliho vylučovací princip $\to$ Jeden orbital nemohou obývat 2 elektrony se stejným spinem
+
+
+
 
 
 

@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /
 Sitemap: https://cervthecoder.github.io/zapisky-2022/sitemap.xml
