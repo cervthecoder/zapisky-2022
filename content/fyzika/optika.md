@@ -47,4 +47,55 @@ date=2021-12-01
 ### Rayleighův rozptyl (v atmosféře)
 
 - vlnová délka červené $\lambda_č=760nm$; fialové $\lambda_f=380nm$
+
 - fialové a modré záření se o částice v atmosféře rozptyluje
+
+## interference světla
+
+- podmínkou interference je koherentní vlnění
+
+> **Koherentní vlnění** <br>
+> 
+> 2 vlnění, které mají stejnou frekcenci <br>
+> 
+> Vzájemný fázový rozdíl se v čase nemění
+
+- při intereferenci se zachovává frekvence
+
+$\Delta \phi$ je fázový rozdíl
+
+> **Interferenční maximum**<br>
+> 
+> Zdroje světla jsou od sebe o vzdálenost $d$ <br>
+> 
+> $d \to$ dráhový rozdíl <br>
+> 
+> Výchází z nich monochormatická vlnění $\lambda_1=\lambda_2$ <br>
+> 
+> vzálenost zdrojů musí být celočíslený násobek vlnové délky <br>
+> 
+> Drahový rozdíl je sudým násobkem $\lambda/2$ <br>
+> 
+> $d= 2k \cdot\lambda/ 2$ [$k \in \Z$] <br>
+> 
+> Rozdíl optických drah (většinou v jiném prostředí) <br>
+> 
+> $n\cdot d= 2k \cdot\lambda/ 2$
+
+> **Interferenční minimum** <br>
+> 
+> Dráhový rozdíl je lichý násobek poloviny $\lambda/2$ <br>
+> 
+> $d=(2k+1) \cdot \lambda/2$ [$k \in \Z$] <br>
+> 
+> Rozdíl optických drah (většinou v jiném prostředí)
+> 
+> $n\cdot d = (2k+1) \cdot \lambda /2$
+
+- při fázovém rozdílu, který není celočísleným násobkem dochází
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/45/Interference_of_sine_waves.JPG)
+
+**Optická dráha** $\to l=n\cdot d$ (dráha ve vakuu vynásobena o index lomu)
+
+$n=c/ v$

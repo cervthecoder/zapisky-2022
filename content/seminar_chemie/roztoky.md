@@ -21,39 +21,39 @@ date=2021-09-30
 - rozpuštědla bývá obvykle více v roztoku
 
 - **rozpouštění** = fyzikálně-chemický děj skládající se z elektrolytické disociace a solvatace 
-
+  
   elektrolytická disociace = rozpštěpení látky na volné ionty
-
+  
   solvatace (hydratace) = obalení volných iontů molekulami rozpouštědla
-
+  
   **Iontové sloučeniny**
-
+  
   $NaCl_{(s)} + \to^{H_2O_{(l)}} Na_{(aq)}^+ Cl_{(aq)}^- $
-
+  
   **Polární sloučeniny, které při disociaci odštěpuje $H^+$**
-
+  
   $HCl + H_2O \to H_3O^+ + Cl^-$
-
+  
   **Polární sloučeniny, které nedisociují**
-
+  
   Např u glukózy
-
+  
   $C_6H_{12}O_{6}(s) \to^{H_2O} C_6H_{12}O_{6}(aq)$ [také neelektrolyt] 
-
+  
   **Neelektrolyty (látky, které nedisociují)**
-
+  
   $O_{2(g)} \to^{H_2O} O_{2(aq)}$
-
+  
   V nepolární molekule se vytváří dočasné parciální náboje (pohyb elektronů)
-
+  
   **neelektrolyty** = roztoky sloučenin, které v nedisociují
-
+  
   **elektrolyty** = roztoky sloučenin, které discociují
 
 - **nasycený roztok** = roztok, ve kterém se při dané teplotě rozpouštěná látka již nadále nerozpouští
 
 - **nenasycený roztok** = roztok, ve kterém se při dané teplotě rozpouštěná látka ještě stále rozpuští
-
+  
   / roztok, který při dané teplotě obsahuje méně rozpuštěné látky než uvádí údaj v tabulkách
 
 - **přesycený roztok** = připraví se nasycený roztok při vysoké teplotě a následně se schladí (část se vykrystalizuje a část zůstane polorozpuštěná [rozptýlená] v roztoku)
@@ -61,21 +61,21 @@ date=2021-09-30
 - rozpustnost látky v je množství látky v gramech, které se rozpustí ve 100 gramech rozpouštědla na nasycený roztok
 
 - **rozpustnost látky je závislá na**
-
+  
   1. Teplota
-
+  
   2. Tlak
-
+  
   3. Vlastnosti rozpouštědla (polarita vazby)
-
+  
   4. Vlastnosti rozpouštěné látky (polarita vazby)
-
+     
      **Podobné se v podobném rozpouští**!!
-
+  
   a) **rozpustné látky** = když se při daných podmínkách v 100g rozpouštědla rozpustí více než 1g
-
+  
   b) **málorozpustné** = 0.1 až 1g
-
+  
   c) **nerozpustná** = méně než 0.1g
 
 - **křivka rozpustnosti** $\to$ křivka znázroňující závislost rozpuštěné látky na teplotě
@@ -120,17 +120,17 @@ $\to$ $c(A) = \rho_{roztoku}\frac{w(A)}{M(A)}$
 - úprava složení roztoků
 
 - **zahuštění** = zvýšíme podíl rozpuštěné látky
-
+  
   $\to$ Přidáme rozpuštěnou látku
-
+  
   $\to$ Přidání k původnímu roztoku roztok s vyšší koncentrací
-
+  
   $\to$ Odpařením rozpuštěné látky
 
 - **ředění** = snížíme podíl rozpuštěné látky
-
+  
   $\to$ přidat rozpouštědlo
-
+  
   $\to$ přidat k původnímu roztoku roztok s nižší koncetrací
 
 $m_1(A) + m_2(A) = m_3(A)$ (Hmotnostní bilance soustavy) $\to$ součet hmotností rozpuštěné látky v roztocích
@@ -176,20 +176,18 @@ $c_1>c_2$; $w_1>w_2$
 
 **Křížové pravidlo**
 
-- pro vyjádření pouze hmot ostních, či objemových dílů roztoků
+- pro vyjádření pouze hmot ostaních, či objemových dílů roztoků
 
 $\frac{m_1}{m_2}=\frac{w_3-w_2}{w_1-w_3}$
 
 $\frac{V_1}{V_2}=\frac{c_3-c_2}{c_1-c_3}$ (pro malé koncentrace)
 
-
-
-
-
 ---
 
-### Molární zlomek
+## Molární zlomek
 
 $\frac{n(A)}{n_{rotoku}}$
 
 $M_r(H_2O)=18g/mol$
+
+

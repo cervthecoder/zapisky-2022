@@ -70,7 +70,7 @@ date=2021-10-18
   
   $\to$ 100 pronikavější než $\alpha$-záření
   
-  $\to$ Slabší ionizační účinky
+  $\to$ Slabší ionizační účinkyě
   
   $\to$ Negatronová přeměna = typické pro přírodní radioisotopy
   
@@ -247,7 +247,7 @@ date=2021-10-18
 
 # Elektronová konfigurace
 
-- Elektronová konfigurace $\to$ uspořádání eletktronů v v jednotlivých orbitalech
+- Elektronová konfigurace $\to$ uspořádání eletktronů v v jednotlivých orbitalech a elektronových vrstvách
 
 - Pravidlo minimální energie $\to$ orbitaly s nižší energií se zaplňují dříve než orbitaly s nižší energií
 
@@ -307,13 +307,13 @@ date=2021-10-18
 
 11. B $\to$ $ns^1 (n-1)d^{10}$
 
-12. $\to ns^2 (n-1)d^{10}$
+12. B$\to ns^2 (n-1)d^{10}$
 
 ## Lanthanoidy
 
 - Vnitřně přechodné prvky (14 prvků za lanthanem)
 
-$6s^2 \: \: 4f^{(0-14)}$
+$6s^2 \: 4f^{(0-14)}$
 
 > $La: 7s^2 4f^0 \: 6d^1$
 
