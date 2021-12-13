@@ -315,10 +315,89 @@ date=2021-10-18
 
 $6s^2 \: 4f^{(0-14)}$
 
-> $La: 7s^2 4f^0 \: 6d^1$
+> $La: 6s^2 4f^0 \: 6d^1$
 
 ## Aktinoidy
 
 $7s^2 \: 5f^{(0-14)}$
 
 > $Ac: 7s^2 5f^0 6d^1$
+
+## Atomový poloměr
+
+- nelze učit absolutní hodnoty atomových poloměrů $\to$ na základě vlnové mechaniky atom nemá přesný rozměr
+
+- **Efektivní atomové poloměry** $r_{ef}$ $\to$ určují se pro atom daného prvky v jeho molekule ($H_2, N_2...$), nebo v jeho sloučeninách ($NaOH, H_2SO_4...$) 
+
+- $r_{ef}$ je ovlivněn typem vazby, počtem nejbližších sousedních atomů...
+
+- Při určování $\to$ atomy si představujeme jako nestlačitelné koule, které se navzájem dotýkají
+
+- Určujeme $\to$ molekula je ozařována rentgenovými paprsky (RTG strukturní analýza)
+
+> Studuje se ohyb Rentgenových paprsků po průchodu molekulou. Na detekčním zařízení za molekulou budou neozářena místa a to v místech, kde se nacházejí jádra jednotlivých atomů. Vzálenosti mezi atomy se vidělí 2mi
+
+- Jednotky atomových polměrů se uvádějí v $1A=10^{-10}\: m$
+
+- S rostoucím $Z$ se v jednotlivých !skupinách! zvětšuje atomový poloměr
+
+$\to$ Stínící účinek elektronů vnitřních elektronových vrstev vůči kladnému jádra, což umožňuje valenčním elektronů se rozpínat v prostorů
+
+- S rostoucím $Z$ se v jednotlivých !periodách! zmenšuje atomový poloměr
+
+> U vzácných plynů je výjimka a jsou větší než halogeny, protože mají elektronový oktet (až na $Rn$)
+
+![](https://lh3.googleusercontent.com/proxy/NC8ruett_8BGIYRYkrEiWUN-0W2ZpiGUTgXN4kDJsv6LYtixWexN_8isaAeLrc9Gha9hovYt7-2lYQ8L4lx_HxYILiKbz5CW3sjCREla5tUIt2KAPDruPoz8X4_FKVRs2S8RsIUShNnact49kPacnw)
+
+- Největší atom je $Fr$
+
+- U přechodných prvků jsou změny u $r_{ef}$ dost malé, protože se tolik neprojeví stínící efekt z důvodu stavby valenční vrstvy
+
+## Elektronegativita $\chi$
+
+- Paulingova elektronegativita $\to$ schopnost atomu přitahovat elektrony
+  
+  $\to$ neměl teoretický základ | Jednalo se pouze o naměřené hodnoty
+
+> $H \to 2.1$ <br>
+> 
+> $F \to 4.0%$
+
+- 1958 Allred-Rochowa elektronegativita $\to$ **síla přitahování vazebného elektronu jádrem daného atomu**
+
+$\to$ Vlastnost jádra atomu prvku
+
+$\to$ Vycházeli z Coulombova zákona $F= \frac{Z\cdot q_e^2}{4\pi \epsilon r^2_k}$
+
+($Z$ : protonové číslo; $q_e^2$ : náboj elektronu na druhou; $\epsilon$ : permitivita vakua, $r_k^2$ : kovalentní poloměr na druhou)
+
+- **Elektronegativita**$\to$Hrubé měřítko polarity vazeb
+
+- není veličina konstantní $\to$ závisí na vazebném stavu atomu prvku (typ vazeb, počet vazeb), oxidačním čísle (čím je vyšší tím elektronegativita roste)
+
+- S rostoucím $Z$ v skupinách elektronegativita klesá (více stínícího efektu)
+
+- S rostoucím $Z$ v periodách elektronegativita roste (méně stínícího efektu)
+
+## Schopnost tvorby iontů
+
+### Tvorba kationtů
+
+$A-e^- \to A^+$
+
+- Tvorbou kationtů atomy prvků nabývají stabilní elektronové konfigurací
+1. Nabytí el. konf. předchozího vzácného plynu ($ns^2 np^6$) $Li: [He] 2s^1 \to Li^+ : [He]$
+
+2. Ve valenční vrstvě je 18 elektronů ($ns^2 np^6 nd^{10}$)
+   
+   $Ag: [Kr] 5s^1 4d^{10} \to Ag^+:[Kr] 5s^0 4d^{10} (4s^2 4p^6)$
+
+3. Kationty ve valenční vrstvě mají 18+2 elektronů ($ns^2 np^6 nd^{10} (n+1)s^2$)
+   
+   $Sn:[Kr] 5s^2 4d^{10} 5p^2 \to Sn^{2+}: [Kr] 5s^24d^{10} 5p^0 (4s^2 4p^6)$
+
+4. U přechodných prvků, když mají jejich kationty ve valenční vrstvě mezi 8 až 18 elektrony a nemají úplně obsazené orbitaly $nd$
+
+
+
+
