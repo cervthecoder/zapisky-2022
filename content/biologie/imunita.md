@@ -122,8 +122,6 @@ $\to$ paměťové buňky = zrychlují reakci na konkrétní antigen (zprostředk
 
 **Supresorové** = moderace a tlumení průběhu imunitní reakce
 
-
-
 ## Lymfoidní orgány
 
 ### Mandle
@@ -158,7 +156,41 @@ $\to$ paměťové buňky = zrychlují reakci na konkrétní antigen (zprostředk
 
 ## Poruchy imunitního systému
 
-- alergie = přecitlivělá reakce $\to$ přehnanná reakce na antigen
+> **Alergie** <br>
+> 
+> Přecitlivělá reakce imunitního systému na antigen <br>
+> 
+> Zvýšené množství imunoglobulinu v krvi <br>
+> 
+> alergická reakce $\to$ přehnaná reakce na konkrétní antigen
+
+> **Autoimunitní choroby** <br>
+> 
+> Bílé krvinky se vymanou kontrole <br>
+> 
+> Začnou napadat zdravé buňky v těle <br>
+> 
+> Genetická predispozice <br>
+> 
+> Spouštěcí syndrom
+
+> **Anafylaktický šok** <br>
+> 
+> Život ohrožující stav <br>
+> 
+> Velmi rychlá a přehnanná alergická reakce <br>
+> 
+> Způsoben uvolněním histaminu z bílých krvinek
+
+- Cukrovka
+
+- Lupus
+
+- revmatoidní artritida
+
+- Cronova choroba (nespecifický zánět střev)
+
+- 
 
 ---
 
