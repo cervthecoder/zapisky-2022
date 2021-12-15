@@ -84,7 +84,7 @@ $\to$ vzniká aromatické jádro
 > 
 > **Acylace** (neprobíhají typicky)
 
-### Příklady $S_E$ reakci
+### Příklady $S_E$ reakci (elektrofilní substituce)
 
 **Chlorace benzenu**
 
@@ -374,5 +374,3 @@ amidy = nahrazení $OH$ v $COOH$ za $NH_2$
 $RCOOH \to^{NH_3} RCOONH_2 + H_2O$
 
 $CONH$ = skupina v cyklických amidech
-
-
