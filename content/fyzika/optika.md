@@ -99,3 +99,35 @@ $\Delta \phi$ je fázový rozdíl
 **Optická dráha** $\to l=n\cdot d$ (dráha ve vakuu vynásobena o index lomu)
 
 $n=c/ v$
+
+## Interference na tenké vrstvě
+
+- na klidné vodní hladině je tenká olejová vrstva
+
+- jakou barvu má olejová vrstva o tlouštce $d=0.2 \mu m$ a kolmém pohledu zhora
+
+> Pokud se světlo odráží na opticky řidším prostředí se fáze nemění
+
+> Pokud se světlo odráží na opticky hustším prostředí se mění fáze vlny<br>
+> 
+> ![](http://fyzika.jreichl.com/data/optika/2_vlny_soubory/image025.png)
+
+### Pro interferenční maximum při přechodu mezi 3 prostředími
+
+- pokud se světlo odrazí od hustšího jednou (lichý násobek)
+
+$\to$ $2nd=(2k+1)\lambda/2$
+
+- pokud se světlo odrazí od hustšího dvakrát (sudý násobek)
+
+$\to$ $2n_1d + n_2d=2k\lambda/2$
+
+- $2nd$ protože se světlo odrazí dvojnásobnou vzdálenost
+
+> Tady je to hezky popsaný <br>
+> 
+> [](http://fyzika.jreichl.com/main.article/view/453-interference-na-tenke-vrstve)
+
+
+
+
