@@ -128,6 +128,16 @@ $\to$ $2n_1d + n_2d=2k\lambda/2$
 > 
 > [](http://fyzika.jreichl.com/main.article/view/453-interference-na-tenke-vrstve)
 
+## Ohyb světla (na mřížce)
 
+- optická mřížka $\to$ prostředí, na které je soustava vrypů, které zabraňují průchod světla (jsou neprůchodné, rýha na plexisklu)
 
+![](http://fyzika.jreichl.com/data/optika/2_vlny_soubory/image101.png)
 
+- dochází k ohybu světla na štěrbině $\to$ rozměr přkážky je srovnatelný s vlnovou délkou ($d=10^{-7} \: m$)
+
+- mřížkový parametr $\to$ vzdálenost vrypů $b\:[m]$
+
+$b\cdot sin(\alpha)=k\cdot \lambda$  [$k\in \Z$]
+
+![](http://fyzika.jreichl.com/data/optika/2_vlny_soubory/image099.png)

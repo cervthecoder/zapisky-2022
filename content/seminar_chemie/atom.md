@@ -397,7 +397,83 @@ $A-e^- \to A^+$
    $Sn:[Kr] 5s^2 4d^{10} 5p^2 \to Sn^{2+}: [Kr] 5s^24d^{10} 5p^0 (4s^2 4p^6)$
 
 4. U přechodných prvků, když mají jejich kationty ve valenční vrstvě mezi 8 až 18 elektrony a nemají úplně obsazené orbitaly $nd$
+- vznik kationtu z elektroneutrálního kationtu je vždy doprovázen dodáním energie (spotřebováním energie)
+  
+  $\to$ **Ionizačí energie** $I$ [$eV | kJ/mol$] = energie potřebná k otržení nejméně vázaného elektronu atomu
+  
+  $A-e^- \to A^+$ $\to$ první ionizační energie $I_1$
+  
+  $A^+ - e^- \to A^{2+}$ $\to$ druhá ionizační energie $I_2$
 
+$I_1<I_2<I_3...<I_n$
 
+- S dalšími otrhavanými elektrony se Ionizační energie zvyšuje
+
+- Ionizační energie je měřítkem lehkosti vzniku kationtu z elektroneutrálního atomu
+
+- S rostoucím $Z$ ve skupinách $I_1$ klesá
+
+- S rostoucím $Z$ v periodách $I_1$ roste
+
+$Li = 5.4eV$ | $Be = 9.3eV | B=8.3eV| C=11.3eV| $
+
+$\to$ Berylium má $I_1$ vyšší než Bor, i když má vyšší $Z$ v periodě
+
+$Be : [He] 2s^2$ X $B:[He]2^2 2p^1$
+
+$\to$ Berylium má elektronový duplet, který je stabilnější, než $2p^1$ u boru
+
+$\to$ Dusík má větší $I_1$ než kyslík
+
+$O:[He]2s^22p^4$ X $N:[He]2s^22p^3$
+
+$\to$ Elektron s opačným spinem v $2p^4$ je u kyslíku odstrkáván třemi elektrony se stejným spinem
+
+1. Výjimka mezi II.A a III.A
+
+2. Výjimka mezi V.A a VI.A
+- u prvků z B skupin jsou rozdíly velmi malé
+
+- Nejlépe tvoří kationty prvky s nízkým počtem valenčních elektronů, nízkou elektronegativitou ale velkými atomovými poloměry
+
+- Čím kov lépe tvoří kationty tím je kovem typičtější (sodík je víc kov než železo) 
+
+### Tvorba aniontů
+
+$A + e^- \to A^-$
+
+- přijímaní elektronů
+
+- Tvorbou aniontů nabývají atomy prvků vždy elektronovou konfiguraci dalšího vzácného plynu!!!
+
+- Tvorba aniontů je většinou doprovázena uvolněním energie (jsou výjimky například $Be$, nebo vzácné plyny)
+
+$\to$ Elektronová afinita (vztah k elektronu) = změna vnitřní energie spojené s přijetím elektronu izolovanou částicí při teplotě blížící $0K$ 
+
+> Měří se při teplotě blížící se $0K$
+
+- značí se $A$
+
+- Nejlépe tvoří anionty halogeny, chalkogeny
+
+- Nejméně výhodné je to pro vzácné plyny (původní elektrony působí velmi silně odpudivě na nově dodaný elektron)
+
+- Elektronová afinita je míra lehkosti vzniku aniontu z elektroneutrální atomu
+
+- Tvoření aniontů je typické pro atomy s vysokým počtem valenčních elektronů, vysokou elektronegativitou a malým atomovým poloměrem
+
+## Iontové poloměry
+
+- jednomocné kationty mají vždy menší iontové poloměry nežli atomové poloměry
+
+$\to$ Poloměry kationtů se stejnou el. konfigurací valenční vrstvy s rostoucím kladným nábojem klesají $Na^+ > Mg^{2+}$
+
+- jednomocné anionty mají vždy větší iontové poloměry nežli atomové poloměry
+
+$\to$ Poloměry aniontů se stejnou el. konfigurací valenční vrstvy s rostoucím záporným nábojem rostou $N^{3-}>O^{2-}$
+
+- rozdíly jsou obrovské
+
+![](https://pic.weblogographic.com/img/news/291/difference-between-atomic-radius-and-ionic-radius_2.jpg)
 
 

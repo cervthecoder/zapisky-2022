@@ -52,4 +52,6 @@ elektronvolt $eV$ = je energie, kterou získá elektron/proton při urychlení $
 
 $E_v=q\cdot U$ (energie elektromagnetického pole je náboj krát napětí)
 
-$1eV=1.6\cdot 19^{-11}J$
+$1eV=1.6\cdot 10^{-19}J$
+
+
