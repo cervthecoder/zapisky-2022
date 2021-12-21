@@ -36,6 +36,7 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 
 - psal to dvacet let
 
+- Beatrice je jeho průvodkyní a idealizovanou láskou 
 ### 8. kruh pekel
 
 - kritizuje antickou kulturu
@@ -52,4 +53,38 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 
 - Jidáš Iškariot, Cassius, Brutus (zrada nejbližšího přítele-)
 
+### Ráj (Empyreum)
+- Je zde svítící růže
+
+- Sv. bernard $\to$ Teolog, který se zajímal Mariánksou mystikou
+
+- Na samotném vrcholu je panna Mari Na samotném vrcholu je panna Marie 
+
+- "Láska k bohu je třeba příjmout srdcem a bezpodmínečně"
+
+- principy víry v raném středověku
+
+## Shakespear
+### Julius Caesar
+- Brutus $\to$ vrah Caesara (měl "dobrou" morálku)
+
+- Cassius byl spojenec Bruta
+
+- byla tam skupina spiklenců, kteří nechtěli, aby se stal Caesar králem
+
+- 
+---
 aeneas = uprch z tróje a založil řím
+
+
+
+
+
+
+
+
+
+
+
+
+
