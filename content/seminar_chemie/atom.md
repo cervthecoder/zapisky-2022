@@ -347,7 +347,7 @@ $\to$ Stínící účinek elektronů vnitřních elektronových vrstev vůči kl
 
 > U vzácných plynů je výjimka a jsou větší než halogeny, protože mají elektronový oktet (až na $Rn$)
 
-![](https://lh3.googleusercontent.com/proxy/NC8ruett_8BGIYRYkrEiWUN-0W2ZpiGUTgXN4kDJsv6LYtixWexN_8isaAeLrc9Gha9hovYt7-2lYQ8L4lx_HxYILiKbz5CW3sjCREla5tUIt2KAPDruPoz8X4_FKVRs2S8RsIUShNnact49kPacnw)
+![](http://crystalmaker.com/support/tutorials/atomic-radii/resources/VFI_Atomic_Radii_sm.jpg)
 
 - Největší atom je $Fr$
 
@@ -475,5 +475,3 @@ $\to$ Poloměry aniontů se stejnou el. konfigurací valenční vrstvy s rostouc
 - rozdíly jsou obrovské
 
 ![](https://pic.weblogographic.com/img/news/291/difference-between-atomic-radius-and-ionic-radius_2.jpg)
-
-
