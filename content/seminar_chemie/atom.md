@@ -141,7 +141,7 @@ date=2021-10-18
 
 > **Štěpné** $\to$ z těžkého jádra vznikají jádra středně těžká <br>
 > 
-> Velmi energeticky výnosné
+> Velmi energeticky výnosné <br>
 > 
 > $^{235}_{92}U + ^1_0n \to ^{140}_{56}Ba + ^{93}_{36}Kr + 3^1_0n$ (díky emitaci 3 neutronů dochází k řetězové reakci) <br>
 > 
@@ -419,7 +419,7 @@ $Li = 5.4eV$ | $Be = 9.3eV | B=8.3eV| C=11.3eV| $
 
 $\to$ Berylium má $I_1$ vyšší než Bor, i když má vyšší $Z$ v periodě
 
-$Be : [He] 2s^2$ X $B:[He]2^2 2p^1$
+$Be : [He] 2s^2$ X $B:[He]2s^2 2p^1$
 
 $\to$ Berylium má elektronový duplet, který je stabilnější, než $2p^1$ u boru
 
