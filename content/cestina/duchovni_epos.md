@@ -8,7 +8,7 @@ date=2021-12-15
 
 # Duchovní epos
 
-## Dante Alighieni
+## Dante Alighieri
 
 ### Alegorie lidských vlastností
 
@@ -37,7 +37,8 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 - psal to dvacet let
 
 - Beatrice je jeho průvodkyní a idealizovanou láskou 
-### 8. kruh pekel
+  
+  ### 8. kruh pekel
 
 - kritizuje antickou kulturu
 
@@ -49,11 +50,12 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 
 - zima, led
 
-- ďábel $\to$ křídla, 3 tváře, srts
+- ďábel $\to$ křídla, 3 tváře, srst
 
 - Jidáš Iškariot, Cassius, Brutus (zrada nejbližšího přítele-)
 
 ### Ráj (Empyreum)
+
 - Je zde svítící růže
 
 - Sv. bernard $\to$ Teolog, který se zajímal Mariánksou mystikou
@@ -65,26 +67,23 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 - principy víry v raném středověku
 
 ## Shakespear
+
 ### Julius Caesar
+
 - Brutus $\to$ vrah Caesara (měl "dobrou" morálku)
 
 - Cassius byl spojenec Bruta
 
 - byla tam skupina spiklenců, kteří nechtěli, aby se stal Caesar králem
 
-- 
+### Esej
+
+- držet se hrdiny
+
+- křesťanský člověk, bůh a osud
+
+- analyzovat konkrétní hrdiny
+
 ---
+
 aeneas = uprch z tróje a založil řím
-
-
-
-
-
-
-
-
-
-
-
-
-
