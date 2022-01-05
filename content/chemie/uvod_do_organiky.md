@@ -93,3 +93,97 @@ $X: ns^2 np^5$
 - udává přesný počet a druh atomů jednotlivých prvků
 
 - které atomy a jkými chemickými vazbami jsou navzájem spojeny
+
+### Racionální
+
+# Klasifikace uhlovodíků
+
+- dvě základní skupiny
+
+## **Acyklické** (alifatické)
+
+Otevřený uhlíkový řetězec  
+
+### Nasycené (alkany)
+
+- Mezi uhlíky jsou pouze jednoduché vazby  
+
+- $CH3-CH_3$ (ethan)  
+
+- Nenasycené (alkeny, alkyny)  
+
+- Mezi uhlíky je alespoň jedna dvojná, nebo trojná vazby  
+
+- CH_2=CH-CH_3 (propen)  
+
+- CH\equiv C-CH_3 (propyn)
+
+- acyklické řetězce se pak dělí na **lineární** a **rozvětné**
+
+## **Cyklické**
+
+Uzavřený uhlíkový řetězec
+
+### Aromatické
+
+- v cyklu se střídají dvojné a jednoduché vazby $\to$ konjugovaný systém dvojných vazeb (delokalizovaný systém elektronů)
+  
+  $\to$ elektrony $\pi$-vazeb se rozloží po cyklu a vytvoří aromatické jádro
+
+**benzen**
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUN2TqWa-mjwNQt6Nd6Em-7EsW08Q6CBZDTHflvanH-EgoB8f3Y58_Hfoy39xDsOGARkI&usqp=CAU)
+
+### Alicycklické (nearomatické)
+
+- nearomatický cyklický uhlovodík
+
+- nasycené $\to$ cykloalkany
+
+- nenasycené $\to$ cykloalkany
+
+# Klasifikace derivátů uhlovodíků
+
+- odvozujeme od uhlovodíků
+
+- vodíky v uhlovodících nahrazujem funkční skupinou
+
+- funkční skupina $\to$ heteroatom, nebo atomová skupina obsahující heteroatom, která určuje vlastnosti celého derivátu
+
+- Halogenderiváty $R-X$
+
+- Nitroderiváty $R-NO_2$
+
+- Primární aminy $R-NH_2$
+
+- Sulfonové kyseliny $R-SO_3H$
+
+### Kyslíkaté deriváty
+
+- Hydroxi deriváty (alkoholy a fenoly) $\to$ $Ar-OH$ a $R-OH$
+  
+  $\to$ fenoly jsou látky odvozené od aromatických uhlovodíků
+
+- Krabonylové sloučeniny (aldehydy a ketony)
+  
+  $\to$ aldehydy $R-CHO$
+  
+  $\to$ ketony $R-CO-R$
+
+- Karboxylové kyseliny $R-COOH$
+
+# Další
+
+- $CH_4$ $\to$ nulární: není vázan s dalšími uhlíkovými atomy
+
+- $CH_3-CH_3$ $\to$ primární: vázan se k jednomu sousednímu atomu
+
+- sekundární: vázán ke dvěma sousedním atomům uhlíku
+
+- terciální: vázán ke třem sousedním uhlíkovým atomům
+
+- kvartérní: vázán ke čtyřem sousedním uhlíkovým atomům
+
+
+
+
