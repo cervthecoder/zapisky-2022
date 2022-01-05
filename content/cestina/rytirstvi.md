@@ -21,7 +21,7 @@ date=2021-11-19
 - loayální králi a bohu
 
 - ve 7. a 10. století probíhají slavné časy rekonquisty
-
+  
   $\to$ na ty vzpominají rytířské eposy z 11. a 12. století
 
 # Píseň o Nibelunzích *(Germánské)*
@@ -38,9 +38,13 @@ date=2021-11-19
 - píseň o činech $\to$ chansons de geste (nejde o charaktery postav)
 
 - ploché postavy bez charakteru
+
 - bez kurtoazie
+
 - křesťanské hodnoty
+
 - má družinu
+
 - Král je předstupeň boha
 
 # Píseň o Cidovi
@@ -51,3 +55,7 @@ date=2021-11-19
 
 - francie
 - Král Karel zabije emíra
+
+---
+
+- 

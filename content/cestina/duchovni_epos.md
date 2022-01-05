@@ -87,3 +87,9 @@ podmínka pro vstup do ráje je věřit v křesťanského boha
 ---
 
 aeneas = uprch z tróje a založil řím
+
+- jsou to hrdinové, kteří neznepochybňují křeštanství
+
+- náboženství prožívají srdcem, ale ne rozumem
+
+- pravzor všech renesančních hrdinů !!!
