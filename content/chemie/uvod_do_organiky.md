@@ -184,6 +184,78 @@ Uzavřený uhlíkový řetězec
 
 - kvartérní: vázán ke čtyřem sousedním uhlíkovým atomům
 
+# Reakce organických látek
 
+- dochází ke změnám stuktury
+
+- jsou složitější $\to$ složité podmínky, katalyzátory...
+
+- k zápisů reakcí se používájí reakční schémata
+
+výchozí látky $\to$ produkty
+
+- výchozí látky = substrát + činidlo
+
+- substrát = organická látka
+
+- činidlo =jednoduchá organická látka, nebo anorganická $\to$štěpí jednu, nebo více vazbu na substrát
+
+- nad šipku se píše katalyzátor, nebo primitivní činidlo a podmínky
+
+- pod šipku $\to$ ostatní reakční podmínky = teplota, tlak, rozpouštědlo
+
+- často se u reakcí organických látek rozebírá **reakční mechanismus**
+
+- **reakční mechanismus** = popis reakcí (přeměn) substrátu, které vedou k výslednému produktu
+
+> **Adice** <br>
+> 
+> Činidlo se váže na část molekuly substrátu, kde jsou násobné vazby<br>
+> 
+> $CH_2=CH_2 + Cl_{2(aq)} \to CClH_2-CClH_2$ <br>
+
+> **Elminace** (odštěpování)<br>
+> 
+> Z molekuly substrátu se odštěpuje jistá část za vzniku dvou, nebo více produktů <br>
+> 
+> Násobnost vazby se zvyšuje <br>
+> 
+> Vždy vzniká vedlejší produkt <br>
+> 
+> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EliminationReactionCyclohexene.svg/1920px-EliminationReactionCyclohexene.svg.png)
+
+> **Substituce**
+> 
+> $CH_3I + NaOH \to CH_3-OH + NaI$ <br>
+> 
+> Reakce při nichž se na substrátu zamění atom, nebo atomová skupina jiným atomem, nebo atomovou skupinou <br>
+> 
+> Nemění se násobnost vazby <br>
+> 
+> Vzniká vedlější produkt
+
+> **Molekulový přesmyk**
+> 
+> Přeměna substrátu v jinou sločeninu pouhým přeskupením atomů, nebo vazeb v molekule bez změny sumárního vzorce
+> 
+> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHh5Y2Md21kTPKwHzwQITwlhcAlF7HlNxgBrTT5wnkOf9D2eNy4oYPep5tgc3SaCuig&usqp=CAU)
+
+- velice častými reakcemi jsou redoxní reakce
+
+### Redoxní reakce organických sloučenin
+
+- oxidace substrátu (činidlo se redukuje)
+
+$CH_3-CH_2-OH \to CH_3-CHO$ (oxidace ethanolu)
+
+$\to$ látka odštěpuje ze své struktury vodík, nebo váže kyslík
+
+**Dehydrogenace** a **Oxigenace**
+
+- redukce substrátu
+
+$\to$ substrát přijímá vodíky, nebo odštěpuje kyslíky
+
+**Hydrogenace** a **Deoxygenace**
 
 
