@@ -112,7 +112,7 @@ mettre = obléct si
 
 un costume = oblek
 
-un robe = šaty
+une robe = šaty
 
 une jupe = sukně
 
