@@ -76,7 +76,7 @@ avoir les cheveux bruns; blonds; châtains; roux = být bruneta, blondýna; mít
 
 être brun/brune...blond/blonde
 
-avoir les yeux blue; marron; noirs = mít modré, hnědé a černé oči
+avoir les yeux bleus; marron; noirs = mít modré, hnědé a černé oči
 
 être beau = být hezký
 
