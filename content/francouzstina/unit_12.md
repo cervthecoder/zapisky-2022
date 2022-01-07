@@ -10,7 +10,7 @@ date=2021-01-05
 
 avoir bon caractère $\to$ mít dobrý charakter
 
-avoir mauvas caractère $\to$ mít špatnou povahu
+avoir mauvais caractère $\to$ mít špatnou povahu
 
 (in)compétent = (ne)spolehlivý  
 
@@ -38,7 +38,7 @@ sympathique = sympatický
 
 antipathique = nesympatický
 
-chalereux = vřelý
+chaleureux = vřelý
 
 froid = chladný
 
@@ -149,29 +149,3 @@ court = krátký
 étroit = úzký
 
 large = velký
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
