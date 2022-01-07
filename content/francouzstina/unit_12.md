@@ -68,7 +68,7 @@ aimer les contacts = extrovert
 
 être petit = být malý
 
-être de taille moyenné = průměrně vysoký
+être de taille moyenne = průměrně vysoký
 
 mesurer 1.70 m / faire 1.70 m = měřit 1.7 metru
 
