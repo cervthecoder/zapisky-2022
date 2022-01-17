@@ -133,4 +133,4 @@ date=2021-09-06
    2. Protonizaci zásaditých skupin $R-NH_2 + H^+ \to R-NH_3^{+}$
    3. Absorbce aniontu, nebo kationtu z prostředí ($Na^+, Cl^-, Ca^+$)
 
-   **Biochemické děje** v živých soustavách potřebují pros svůj průběh neustálý transport látek, který zabezepčují dva chemicko fyzikálně děje Difúze a Osmoźa
+   **Biochemické děje** v živých soustavách potřebují pros svůj průběh neustálý transport látek, který zabezepčují dva chemicko-fyzikálně děje Difúze a Osmoźa
