@@ -59,3 +59,5 @@ $\to$ zárodeční část pokožky $\to$ dělí se zde buňky (tvoří se zde pi
 ### Podkožní vazivo
 
 - podkožní vazivo $\to$ tuková
+
+![](https://www.hojeni-ran.cz/dbpic/kuze-330)
