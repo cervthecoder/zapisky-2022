@@ -56,6 +56,9 @@ $\to$ zárodeční část pokožky $\to$ dělí se zde buňky (tvoří se zde pi
 
 - krevní, mízní a nervové zásobení
 
+![](https://github.com/cervthecoder/github_images/blob/master/kuze2.jpeg?raw=true)
+![](https://github.com/cervthecoder/github_images/blob/master/kuze3.jpeg?raw=true)
+
 ### Podkožní vazivo
 
 - podkožní vazivo $\to$ tuková
