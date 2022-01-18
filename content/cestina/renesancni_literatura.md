@@ -20,4 +20,6 @@ date=2021-01-05
 
 ## Král Lear
 
+## Macbeth
 
+- Mcbeth skotský šlechtic, který chce ukrást trůn
