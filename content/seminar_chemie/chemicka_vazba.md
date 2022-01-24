@@ -270,8 +270,6 @@ $H_2O$ (lomený tvar molekuly)
 
 - vazebný úhel = úhel, který svírají spojnice 3 vzájemně vázaných atomů
 
-# 
-
-
+![](https://slideplayer.cz/slide/15783565/88/images/5/TRIGON%C3%81LN%C3%8D+BIPYRAMIDA.jpg)
 
 
