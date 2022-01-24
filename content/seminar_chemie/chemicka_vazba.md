@@ -2,7 +2,7 @@
 
 title="Chemická vazba"
 
-date=2021-01-17
+date=2022-01-17
 
 +++
 
@@ -54,7 +54,7 @@ Teorie chemických vazeb
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pi-Bond.svg/440px-Pi-Bond.svg.png)
 
-# Intermolekulární
+# Intramolekulární
 
 ## Kovalentní ch. vazba
 
@@ -150,7 +150,7 @@ iontové hydridy (alkalické kovy a kovy alaklických zemin) [Výjimka]
 
 - interakce mezi atomy v struktuře kovu
 
-# Intramolekulární
+# Intermolekulární
 
 ## Van der Waalsovy síly
 
@@ -160,13 +160,13 @@ iontové hydridy (alkalické kovy a kovy alaklických zemin) [Výjimka]
 
 ## Teorie valenční vazeb
 
-- pro vysvětlení vzniku vazby v molekule vodíku a zjistili jeji energii
+- vysvětlili vznik vazby v molekule vodíku a zjistili energii vazby
 
 - působení elektrostatických přitažlivých sil mezi atomy
 
 - energie systémy se začnou pomalu přibližovat a orbitaly se překříží
 
-- kovalentní chemická vazba vzniká překryvek valenčních orbitalů atomů prvků při určité mezijaderné vzdálenosti $\to$ **délka vazby**
+- kovalentní chemická vazba vzniká překryvem valenčních orbitalů atomů prvků při určité mezijaderné vzdálenosti $\to$ **délka vazby**
 
 - přitažlivé a odpudivé síly jsou v rovnováze
 
@@ -175,3 +175,103 @@ iontové hydridy (alkalické kovy a kovy alaklických zemin) [Výjimka]
 - roste kinetická energie elektronů a rychle klesá potenciální energie soustavy
   
   $\to$ vazebná energie v sobě zahrnuje nárůst kinetické energie a velký pokles potenciální energie
+
+# Polarita vazby
+
+- všechny uhlovodíky jsou nepolární ($C_xH_y$)
+
+- Polární látky $\to$ mohou obsahovat polární i iontovou vazbu
+
+- Látky mohou mít polární a nepolární část
+
+$CH_3CH_2OH$ $\to$ uhlíkový řetězec je nepolární a hydroxilová skupina je polární
+
+řetězec je u alkoholu však krátký a látka je spíše polární
+
+$NaOH$ $\to$ $NaO$ je iontová část, ale $OH$ je polární $\to$ silně polární (dá se považovat za iontové sloučeniny
+
+# Polarita molekuly
+
+- co má vliv na polaritu vazby a na rozložení elektronové hustoty napříč celou molekulou
+
+- rozložení elektronové hustoty v molekule
+
+- elektronová hustota se zvyšuje u elektronegativnějších atomů (skupin)
+
+- máme dva typy molekul
+
+## Nepolární molekuly
+
+- stejnoměrné rozložení elektronové hustoty napříč celkou molekulou mezi jádry vázaných atomů
+
+- obsahují nepolární kovalentní vazby
+
+## Polární molekula
+
+- nestejnoměrné rozložení elektrnové hustoty mezi jádry vázaných atomů
+
+- musí se vyskytovat polární kovalentní vazba
+
+- na jednotlivých atomech se začínají tvořit parciální náboje
+
+- stejně velké, ale opačné elektrické náboje se nazývá elektrický dipól
+
+$H^{\delta+}-Cl^{\delta -}$
+
+- elektrický dipól charakterizujeme vektorovou veličinou dipólový moment
+  
+  ![](https://d3i71xaburhd42.cloudfront.net/7cb826a6920c56fce12f104d508f14cd4b0ca685/4-Figure1-1.png)
+
+> $p\vec{}(u,d)$ <br>
+> 
+> $\vec{p}=Q\cdot l$ <br>
+> 
+> součin náboje v těžišti náboje a vzdálenosti mezi těžišti obou nábojů<br>
+> 
+> $[C.m]$ nebo 1 [D] ebey ($1/3\cdot 10^{-29}\: C\cdot m$) <br>
+> 
+> směr vektoru je od záporného ke kladnému náboji  <br>
+> 
+> $H^{\delta +}\leftarrow Cl^{\delta -}$ <br>
+> 
+> $\vec{p}=0$ $\to$ nepolární molekula <br>
+> 
+> $\vec{p}\neq 0$ $\to$ polární molekula <br>
+
+## Dipól v molekulách $A_2$
+
+- $\vec{p}=0$
+
+- náboje v těžišty se shodují
+
+## Dipól v molekulách $AB$
+
+- stačí udělat rozdíl elektronegativit (polarita vazby je stejná jako polarita molekuly)
+
+## Dipól v molekulách $AB_2$
+
+- setkáváme se zde s centrálním atomem (atom nacházející se uprostřed molekuly)
+
+$BeH_2$ ($H-Be-H$) $\to$ vazebný úhel $180°$ (lineární)
+
+$H_2O$ (lomený tvar molekuly)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Watermolecule.svg/220px-Watermolecule.svg.png)
+
+# Tvary molekul kovalentních sloučenin
+
+- na základě teorie odpuzování elektronových párů
+
+- založená na odpuzování elektronových párů
+
+- elektronové páry se snaží kolem centrálního atomu uspořádat tak, aby byly co nejdále od sebe
+
+- volné elektronové páry kolem centrálního atomu zaujímají větší část prostoru než vazebné elektronové páry
+
+- vazebný úhel = úhel, který svírají spojnice 3 vzájemně vázaných atomů
+
+# 
+
+
+
+
