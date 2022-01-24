@@ -257,5 +257,3 @@ $\to$ látka odštěpuje ze své struktury vodík, nebo váže kyslík
 $\to$ substrát přijímá vodíky, nebo odštěpuje kyslíky
 
 **Hydrogenace** a **Deoxygenace**
-
-

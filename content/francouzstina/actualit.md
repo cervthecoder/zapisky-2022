@@ -16,4 +16,6 @@ les hommes homosexuels pouvais donner le sang que s'ils avais douze mois abstine
 
 # Question
 
+Lucka - Qu'est-ce tu crois que le Américaine éxchange pour les maison?
 
+Bára - Quelle est votre pièce préférée d'une Moliere?
