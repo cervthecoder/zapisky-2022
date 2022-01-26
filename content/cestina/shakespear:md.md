@@ -72,4 +72,24 @@ $\to$ Lichotí Brutovi
 
 - Brutus tvrdí, že se Caesar dral k moci
 
+# Sonet
 
+- 4 sloky
+
+- 2 čtyřverší a 2 trojverší (franzouské a italské sonety)
+
+# Sonety (1-126)
+
+- milostné sonety, které Shakespeare věnoval jinému muži
+
+- sonet 1 = jambický verš (blanc verse = nemusí se rýmovat, ale u Shakespeara se rýmuje) 
+
+kontrast růže a hrobu (smrti)
+
+nerozkvětlé poupě (sebestředný, nechává si svou krásu pro sebe)
+
+# Sonety (127-152)
+
+- věnované ženě
+
+- popisuje se jako temná dáma
