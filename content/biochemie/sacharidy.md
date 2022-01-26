@@ -28,4 +28,10 @@ date=2021-12-15
 > 
 > $nCO_2 + 4\cdot n e^- + 4 \cdot nH^+ \to (CH_2O)_n$
 
+# Aldohexózy
 
+## Glukóza
+
+## Galaktóza
+
+## Manóza
