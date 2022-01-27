@@ -75,6 +75,17 @@ $\to$ Lichotí Brutovi
 # Sonety (1-126)
 
 - milostné sonety, které Shakespeare věnoval jinému muži
+- metafory s růží
+- Opěvovaný muž je nejspíše narcis
+- Některé sonety jsou na hraně mezi přátelským a mileneckým vztahem
+> **Sonet 63** <br>
+> ruka času $\to$ prsty vteřin (rozvité metafory) <br>
+> strmá noc = smrt (barokni metafora) <br>
+
+> **Sonet 67** <br>
+> prsty času zaryté do kamených žeber zašlých věků <br>
+> velmi pesimistická <br>
+> Vše jednou skončí, vše jednou zanikne
 
 # Sonety (127-152)
 
