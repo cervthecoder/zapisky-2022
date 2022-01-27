@@ -34,7 +34,7 @@ $\to$ zrohovatělá část pokožky $\to$ vytlačené buňky ze zárodečné č�
 
 $\to$ zárodeční část pokožky $\to$ dělí se zde buňky (tvoří se zde pigment)
 
-- melanin (pigment) $\to$ UV záření stimuluje tvorbu UV záření
+- melanin (pigment) $\to$ UV záření stimuluje tvorbu melaninu
 
 > Buňky zde produkují keratin a vyplňují jim mezibuněčné prostory <br>
 > 
@@ -44,7 +44,7 @@ $\to$ zárodeční část pokožky $\to$ dělí se zde buňky (tvoří se zde pi
 
 - dermis (škára) $\to$ nervová zakončení, kořínky chlupů, cévy
 
-- povrch je zbrázděn výběžky, které zasahují do zározdčné vrstvy = **Papily**
+- povrch je zbrázděn výběžky, které zasahují do zárodečné vrstvy = **Papily**
 
 - **Papilární linie** $\to$ Dermatoglyfy = Otisk prstu
   
