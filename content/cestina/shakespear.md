@@ -1,6 +1,6 @@
 +++
 
-title=""
+title="Shakespeare"
 
 date=2021-01-05
 
@@ -92,3 +92,10 @@ $\to$ Lichotí Brutovi
 - věnované ženě
 
 - popisuje se jako temná dáma
+
+Lásko má, budiž dím čerpej síly
+Sešlý a tupý jest tvůj půvab teď
+
+Lásko především najdi sebe
+své oči rozzaříš novým dnem 
+

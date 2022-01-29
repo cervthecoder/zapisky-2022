@@ -58,7 +58,7 @@ Teorie chemických vazeb
 
 ## Kovalentní ch. vazba
 
-- intermolekulární interakce
+- intramolekulární interakce
 
 - interakce mezi atomy v molekulách
 
