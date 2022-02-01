@@ -5,7 +5,6 @@ title="Atom"
 date=2021-10-18
 
 +++
-
 # Atom
 
 - atom = základní stávební jednotka struktury látky
@@ -235,7 +234,7 @@ date=2021-10-18
 > 
 > m= -2, -1, 0, 1, 2 $\to$ 5 orbitalů <br>
 > 
-> m = -3, -2, -1, 0, 1, 2, 3 $\to$ 10 orbitalů
+> m = -3, -2, -1, 0, 1, 2, 3 $\to$ 7 orbitalů
 
 - **Spinové kvantové číslo** $\to$ spinový moment hybnosti elektronu v elektromagnetickém poli
 
