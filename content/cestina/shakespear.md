@@ -99,3 +99,8 @@ Sešlý a tupý jest tvůj půvab teď
 Lásko především najdi sebe
 své oči rozzaříš novým dnem 
 
+### Zhodnocení
+- předtím $\to$ moc jsem neznal Shakespeara ani jeho dílo 
+- zajímal
+
+

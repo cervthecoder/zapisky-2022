@@ -41,15 +41,18 @@ date=2022-01-27
 ### Adenohypofýza (přední lalok)
 - celkem 6 hormonů (5 druhů)
 1. Somatotropní $\to$ somatotropin (růstový)
+
 > Ovlivňuje všechny buňky (metabolismus tuků, sacharidů a minerálních látek <br>
 > hyperfunkce (gigantismus) **X** hypofunkce (nanismus) <br>
-> Akromegalie = zvětšují se jen některé části těla
+> Akromegalie = zvětšují se jen některé části těla <br> 
+
 2. Mammotropní $\to$ prolaktin (laktace, rozvoj mléčných žláz) 
 3. Thyreotropní $\to$ thyreotropní (stimuluje sekreci v štítné žláze)
-4. Gonadotropní (růst a činnost pohlavních žláz) $\to$ folikuly stimulující | luteinizační hormon 
+4. Gonadotropní (růst a činnost pohlavních žláz) $\to$ folikuly stimulující | luteinizační hormon
+
 > Folikuly stilumulující hormon $\to$ dozrávání pohlavních buněk u obou pohlaví <br>
-> luteinizační hormón $\to$ stimuluje tvorbu pohlavních hormonů
-5. Kortikotropní $\to$ adrenokortikotropní (ovlivňuje činnost nadledvin[kůra])
+> luteinizační hormón $\to$ stimuluje tvorbu pohlavních hormonů <br>
+5. Kortikotropní $\to$ adrenokortikotropní (ovlivňuje sekreci nadledvin[kůra])
 
 ![Hypofyzární oběh](https://www.wikiskripta.eu/images/2/2b/Hypofyzarni_obeh_min.png)
 
@@ -57,8 +60,68 @@ date=2022-01-27
 ## Epifýza (šišinka)
 - melatonin = ovlivňuje biorytmy (vnitřní hodiny), brzdí pohlavní činnost (v období puberty sekrece klesá)
 
-## Štítná žláza 
+## Štítná žláza (thyroidea)
 - párová žláza 
-- tyroxin = ovlivňuje intenzitu metabolismu
-- triodtyronin = meziprodukt tvorby hormonů štítný žlázy
+- tyroxin (T4) = ovlivňuje intenzitu metabolismu 
+- triodtyronin (T3) = meziprodukt tvorby hormonů štítný žlázy
 - kretenismus = nedostatek jodů (nedostatek hormonů štítné žlázy)
+- Kalcitonin $\to$ snižuje hladinu $Ca^{2+}$
+
+## Příčtítná tělíska 
+- čočkovité útvary na zadní straně štítné žlázy
+- parathormon $\to$ udržuje stálou hladinu $Ca^{2+}$ (**antagonista** ke kalcitoninu)
+
+## Langerhansovy ostrůvky (Slinivka břišní)
+- shluky buněk ve slinivce bříšní
+- $\beta$-buňky produkují inzulín = snižuje glykémii 
+- $\alfa$-buňky produkují glukagon = zvyšuje glykémii (**antagonista** inzulínu)  
+- Slinivka má i exokrinní část (pankreatická šťáva)
+
+## Nadledviny
+### Kůra
+- Glukokortikoidy $\to$ přeměna živin (nejdůležitější je kortizol)
+- Mineralokortikoidy $\to$ řídí hospodaření s anorganickými ionty $Na^+$ a $K^+$ (nejdůležitější je aldosteron)
+- Produkuje malé množství androgenů $\to$ estrogeny
+
+### Dřeň
+- hormony, které produkuje kůra nadledvin pomáhají organismu s řešení stresových situací
+- andrenalin = vazodilatace, zvyšuje srdeční činnost 
+- nonadrenalin = vazokonstrikce, snižuje srdeční činnost 
+
+### Dřeň
+- hormony dřeně nadledvin pomáhají ve stresových situacích
+- andrenalin = vazodilatace a podporuje srdeční činnost (připravuje organismus na stresovou situaci)
+- nonadrenalin = vazokonstrikce, zvyšuje krevní tlak
+
+## varlata (testes)
+- testosteron $\to$ ovlivňuje růst a rozvoj mužských pohlavních žláz, ovlivňuje růst svalů a fousů
+> Produkují ho Leydigovy buňky 
+
+## Vaječníky (ovaria)
+- estrogeny = řídí menstruační cysklus, podmiňují vývoj sekundárních pohlavních znaků (estradiol)
+- gestageny = progesteron
+
+## Placenta
+- orgán vznikající při oplození a vývoji zárodku z endometria (děložní sliznice) a chorionu (obal zárodku)
+- choriongonadotropin $\to$ působí na žluté tělísko, které udržuje v činnosti, podporuje těhotenství
+- vylučuje se močí (testy na těhotenství)
+
+## Tkáňové hormony
+- vznikají v tkáních, které nemají primárně endokrinní funkci
+- gastrin (žalůdek) = stimulace tvorby žaludečních šťáv 
+- sekretin a pankreozymin (dvanácterník) = vyvolávaj sekreci pankreatické žlázy 
+- renin (ledviny) = funkce ledvin 
+- eritropoetin (ledviny) = stimuluje tvorbu červených krvinek (erytropoéza)
+- atriální natriuretický hormón (myokard) = zvýšené vylučování sodíku v moči 
+- leptin (tuková tkáň) = regulace množství tukových zásob (putuje krví do hypothalamu) 
+
+
+
+
+
+
+
+
+
+
+
