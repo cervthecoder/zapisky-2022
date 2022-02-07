@@ -25,6 +25,14 @@
 - verše = áje
 - Al- Fátiha (základní modlitba)
 
+1. Ve jménu Boha milosrdného, slitovného.
+2. Chvála Bohu, Pánu lidstva veškerého,
+3. Milosrdnému, Slitovnému,
+4. vládci dne soudného!
+5. Tebe uctíváme a Tebe o pomoc žádáme,
+6. veď nás stezkou přímou,
+7. stezkou těch, jež zahrnuls milostí Svou, ne těch, na něž jsi rozhněván, ani těch, kdo v bludu jsou.
+
 # 5 sloupců víry
 - Šaháda = víra v jediného boha
 - Salát = modlitba 5x deně (úsvit-poledne-odpoledne-západ-večer)
@@ -33,5 +41,28 @@
 - Zakát = včasné placení daní
 - Vykonat pouť do Mekky
 
+# Korán - Džiháda 
+- džahada = usilovat
+- úsilí o dobro a zápas o víru 
+- džihád vedou mudžihádové 
+- džihád je sebeobrana pro zachování víry
 
+# Džihád 
+## al džihád al-akbar (velký) = věcný džihád 
+1. Džihád bi'l-kalb (srdce)  = chování tak, aby se líbil bohu 
+2. Džihád bi'l lisán (jazyka) = misijní činnost
+3. Džihád bi'l-jad (rukou) = charitativní činnost 
+## Al-džihád al-asghar (malý) = džihád meče (ochrana víry)
+- faríd = sebevražedný útok
+
+# Džihád - války
+## Neoprávněné války
+1. Války k rozšíření území a moci
+2. Války vedné kvůli mstě a pohoršení 
+3. Destrukční války 
+
+## Oprávněné války 
+1. Válku vedné na obranu života, cti a majetku
+2. Války vedené na obranu víry (jsou-li víře kladené překážky 
+3. Války pro záchranu národů
 
