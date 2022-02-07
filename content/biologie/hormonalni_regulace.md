@@ -52,6 +52,7 @@ date=2022-01-27
 
 > Folikuly stilumulující hormon $\to$ dozrávání pohlavních buněk u obou pohlaví <br>
 > luteinizační hormón $\to$ stimuluje tvorbu pohlavních hormonů <br>
+
 5. Kortikotropní $\to$ adrenokortikotropní (ovlivňuje sekreci nadledvin[kůra])
 
 ![Hypofyzární oběh](https://www.wikiskripta.eu/images/2/2b/Hypofyzarni_obeh_min.png)
@@ -67,14 +68,14 @@ date=2022-01-27
 - kretenismus = nedostatek jodů (nedostatek hormonů štítné žlázy)
 - Kalcitonin $\to$ snižuje hladinu $Ca^{2+}$
 
-## Příčtítná tělíska 
+## Příštítná tělíska 
 - čočkovité útvary na zadní straně štítné žlázy
 - parathormon $\to$ udržuje stálou hladinu $Ca^{2+}$ (**antagonista** ke kalcitoninu)
 
 ## Langerhansovy ostrůvky (Slinivka břišní)
 - shluky buněk ve slinivce bříšní
 - $\beta$-buňky produkují inzulín = snižuje glykémii 
-- $\alfa$-buňky produkují glukagon = zvyšuje glykémii (**antagonista** inzulínu)  
+- $\alpha$-buňky produkují glukagon = zvyšuje glykémii (**antagonista** inzulínu)  
 - Slinivka má i exokrinní část (pankreatická šťáva)
 
 ## Nadledviny
@@ -87,11 +88,6 @@ date=2022-01-27
 - hormony, které produkuje kůra nadledvin pomáhají organismu s řešení stresových situací
 - andrenalin = vazodilatace, zvyšuje srdeční činnost 
 - nonadrenalin = vazokonstrikce, snižuje srdeční činnost 
-
-### Dřeň
-- hormony dřeně nadledvin pomáhají ve stresových situacích
-- andrenalin = vazodilatace a podporuje srdeční činnost (připravuje organismus na stresovou situaci)
-- nonadrenalin = vazokonstrikce, zvyšuje krevní tlak
 
 ## varlata (testes)
 - testosteron $\to$ ovlivňuje růst a rozvoj mužských pohlavních žláz, ovlivňuje růst svalů a fousů
