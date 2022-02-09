@@ -10,6 +10,12 @@
 - Inspirace pro Evrospké a Britské autory
 - postava spojená s počátky křesťanství
 
+## Urfaust
+- prafaust
+- lidová zpracování 
+- doktor (většinou teologie, často i alchymista)
+- zabývá se černou magii
+
 ## Faust v lidových pověstech
 - učenec $\to$ Doktor theologie
 - nestačí mu jeho vzdělání a hledá odpovědi v čarodějnictví a temné magii
@@ -17,6 +23,8 @@
 - ztratí cestu ke spasení
 - předá svou duši ďáblu
 - Faust je postava nespokojeného vzdělance, který touží po něčem víc než mu dokáže jeho učení nabídnout
+
+# Neo faust 
 
 ## Faust F.W. Murnau
 -  začíná prologem v nebi, kde se setkají ďáblové a andělé
@@ -34,5 +42,20 @@
 - vzdělaný bohatý
 - nic mu neschází
 - problém, se kterým bojuje sám 
+- Bojuje sám se sebou (narozdíl od Urfausta)
+- společenská choroba
+- na začátku diskutuhje bůh s ďáblem (mefisto)
+1. Ukázka
+  Faust, che více. Chce "vyletět" a roztáhnout křídla.
+  Wágner je přízemní.
+  Romantická rozpolcenost u Fausta
+2. Ukázka 
+  Faust potká Mefista
+  Žádá Mefista o ukojení pudů
+  Sázka s Mefistem
+  1. Nikdy nebude chtít měně
+  2. Nikdy nebude úplně spokojen
+
+
 
 

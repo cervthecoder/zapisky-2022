@@ -111,8 +111,14 @@ $W_e=E=e.U$
 
 <img src="https://github.com/cervthecoder/github_images/blob/master/fyzika_8_2.jpeg?raw=true">
 
+# Odpor rezistorů v elektrickém obvodu 
+## Sériové
+$I=konst.$
+$U=U_1 + U_2$ $\to$ Napětí zdroje se dělí mezi rezistory 
+$R = R_1 + R_2$
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seriove_zapojeni.svg/1280px-Seriove_zapojeni.svg.png)
 
-
+## Paralelní 
 
 
 
