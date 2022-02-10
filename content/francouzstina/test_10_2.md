@@ -30,6 +30,29 @@ je viendrai
 ### Voir
 je verrai
 
+### Mettre
+je mettrai
+
+### Vouloir
+je voudrai
+
+### Espérer
+j'espérai
+
+### Changer
+je changerai
+
+### Penser
+je penserai 
+
+### Prendre
+je prendrai
+
+### Vivre
+je vivrai
+
+### Savoir
+je saurai
 
 
 
