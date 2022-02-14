@@ -43,5 +43,10 @@
 
 ## Mozková kůra 
 
+`by katka:`
+![](https://media.discordapp.net/attachments/646069224384757793/941395057183973386/Nervova_soustava_220209_121039_1.jpg?width=413&height=584)
 
+![](https://media.discordapp.net/attachments/646069224384757793/941395056911319061/Nervova_soustava_220209_121039_2.jpg?width=413&height=584)
+
+![](https://media.discordapp.net/attachments/646069224384757793/941395056475140156/Nervova_soustava_220209_121039_3.jpg?width=413&height=584)
 
