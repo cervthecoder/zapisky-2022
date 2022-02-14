@@ -114,12 +114,30 @@ $W_e=E=e.U$
 # Odpor rezistorů v elektrickém obvodu 
 ## Sériové
 $I=konst.$
+
 $U=U_1 + U_2$ $\to$ Napětí zdroje se dělí mezi rezistory 
+
 $R = R_1 + R_2$
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seriove_zapojeni.svg/1280px-Seriove_zapojeni.svg.png)
 
 ## Paralelní 
+$U=konst.$
 
+$I = I_1 + I_2$
+
+$1/R = 1/R_1 + 1/R_2$
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ParalelniZapojeni.svg/1200px-ParalelniZapojeni.svg.png)
+
+## Závislost odporu kovového vodiče na teplkotě
+- při průchodu elektrického proudu vodičem se zvyšuje teplota vodiče 
+
+$\Delta R = \alpha \cdot R_1 \cdot \Delta t$
+> $\alpha = teplotní součinitel elektrického odporu$ <br>
+- měrný elektrický odpor taktéž roste $\rho$ s teplotou
+
+$\Delta \rho = \alpha \rho_1 \Delta t$
 
 
 
