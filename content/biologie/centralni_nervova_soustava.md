@@ -19,18 +19,42 @@
 
 # Oddíly CNS
 ## Páteřní mícha
-- provazec mišní tkáně, ze které vystupují do stran míšní nervy 
-- provazec míchy končí pod první bedeřním obratlem
-- nerv je orgán zabelený vazivovým obalem, kterým vede mnoho axonů
-- **smíšené nervy** $\to$ vedou signál oboumi směry
+- provazec míšní tkáně, ze které vystupují do stran míšní nervy 
+- provazec míchy končí pod první bederním obratlem
+- nerv je orgán zabalený vazivovým obalem, kterým vede mnoho axonů
+- **smíšené nervy** $\to$ vedou signál obouma směry (je jich většina)
 - **odstředivé nervy** $\to$ směrem do CNS (pouze mozkové)
 - **odstředivé nervy** $\to$ směrem z CNS (pouze mozkové)
 - 31 párů míšních nervů (31 segmentů)
+- Míšní obaly $\to$
+  1. Tvrdá plena míšní
+  2. pavučnice
+  3. Měkká plena míšní
+- Rexedovy zóny $\to$ ohraničení jednotlivých jader šedé hmoty
+- reflex = odpověď na na nervový podnět
+- reflexní dráha (reflexní oblouk) = receptor $\to$ centrum $\to$ efektor
+- aferentní dráha $\to$  dostředívá dráha = vede podnět z receptoru
+- eferentní dráha $\to$ odstředivá dráha = vede odpověď do efektoru
+- interneurony $\to$ propojují aferentní a eferentní dráhy ()
+- míšní reflexy (monosynaptický) $\to$ reflexy, které tvoří pouze aferentní a eferentní neuron
+- polysynaptické reflexy $\to$ je zde zapojen alespoň jeden interneuron spojující aferentní a eferentní neurony
 
+## Mozkový kmen
+
+- shluky neuronů $\to$ retikulární formace
 
 ## Prodloužená mícha (mozkový kmen)
 
-## Most varolův (mozkový kmen)
+- reguluje pro život důležité funkce
+- přední strana obsahuje hlavně bílou hmotu
+- zadní strana obsahuje hlavně šedou hmotu
+- řízení základních životních funkcí
+-  sluchová a rovnovážná funkce
+- vylučovací a obranné funkceb
+
+## Most Varolův (mozkový kmen)
+
+- propojení mezi prodlouženou míchou a zbytkem mozku
 
 ## Mozeček 
 - V zadní části na 4. mozkovou komorou
@@ -59,7 +83,7 @@
 - Hypothalamus = reguluje činnost včech vnitřních orgánů
 
 > Obsahuje i termoregulační centra a centra příjmu potravy <br>
-- je zde epifýza $\to$ melatonin
+- je zde epifýza $\to$ melatonin 
 
 
 ## Bazální ganglia
@@ -87,17 +111,6 @@
 5. Primární sluchová oblast = slyšíme zvuky
 6. Wernickeova oblast = vnímáme obsah řeči
 
-
-
-
-
 - Bílá mozková tkáň je uvnitř, ve které jsou ukryta bazální ganglia
 - lymbický systém
-
-`by katka:`
-![](https://media.discordapp.net/attachments/646069224384757793/941395057183973386/Nervova_soustava_220209_121039_1.jpg?width=413&height=584)
-
-![](https://media.discordapp.net/attachments/646069224384757793/941395056911319061/Nervova_soustava_220209_121039_2.jpg?width=413&height=584)
-
-![](https://media.discordapp.net/attachments/646069224384757793/941395056475140156/Nervova_soustava_220209_121039_3.jpg?width=413&height=584)
 
