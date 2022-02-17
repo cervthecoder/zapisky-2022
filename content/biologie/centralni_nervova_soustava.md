@@ -86,13 +86,11 @@
 - je zde epifýza $\to$ melatonin 
 
 
-## Bazální ganglia
-- shluky šedé mozkové tkáně uvnitř bílé mozkové tkáně
-- přenos a koordinace signálů z koncového mozku do nižších částí mozku
 
-## Mozková kůra 
+# Koncový mozek 
+## Mozková kůra (neokortex) 
 - nejsložitější část mozku 
-- vaznik propojuje hemisféry
+- vazník propojuje hemisféry
 - šedá mozková kůra (neokortex) $\to$ 6 vrstev neuronů
 > Dohcází zde ke gyrifikaci (rýhování) <br>
 > Je dělen do laloků = jsou od sebe odděleny rýhami <br>
@@ -110,7 +108,35 @@
 4. Zraková oblast = asociační a primární
 5. Primární sluchová oblast = slyšíme zvuky
 6. Wernickeova oblast = vnímáme obsah řeči
+- Wernickeovo centrum a Brockovo centrum leží pouze v jedné hemisféře 
+> Většinou jsou umístěny v dominantní hemisféře <br>
+
+- Dominance hemisfér $\to$
+- levá hemisféra = racionální
+- pravá hemisféra = vnímání prostoru a času, uměn levá hemisféra = racionální
+- pravá hemisféra = vnímání prostoru a času, umění
+- v oblasti prodloužené míchy se kříží dráhy z hemoisfér $\to$ pravá hemisféra do levé části těla 
+- praváci mají dominantní levou hemisféru 
+- leváci mají dominantní pravou hemisféra 
+- hemisférova laterita
+- je častá kombinace
+
 
 - Bílá mozková tkáň je uvnitř, ve které jsou ukryta bazální ganglia
-- lymbický systém
+## lymbický systém
+- kombinace struktur, které patří koncovému mozku 
+- v době ontogenické vývoje se kolem mozkového kmene se vytvářejí tyto struktury
+- ovlivňuje emoce, sexualitu a schopnost učit se 
+
+## Bazální ganglia
+- shluky šedé mozkové tkáně uvnitř hemisfér (v bíle mozkové tkáni)
+- přenos a koordinace signálů z koncového mozku do nižších částí mozku
+- řízení pohybů
+
+
+
+
+
+
+
 
