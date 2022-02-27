@@ -184,3 +184,58 @@ $E = W_e = UIt$ $\to$ Vimeos, že práce je dráha za čas
 
 $F_e \cdot d = q \cdot E \cdot d$ . kde $F_e$ je součin intenzity el. pole $E$ a urychlovaného náboje $q$
 
+- z toho lze vyvodit, že napětí můžeme vyjádřit jako $U = E \cdot d$
+
+$\to$ usměrněný pohyb elektrického náboje
+
+## Střídavý el. proud
+
+- zdroj napětí je závit, nebo cívka otáčející se v magnretickém poli
+
+![](https://moodle.oahstrebic.cz//file.php/88/obrazky/indukovany_proud.jpg)
+
+- okamžitá hodnota proudu
+
+$i = I_m \cdot sin(\omega t)$
+
+- okamžitá hodnota napětí
+
+$u = U_m \cdot sin(\omega t)$
+
+> $I_m$ a $U_m$ Jsou amplitudy <br>
+>
+> $\omega$ je úhlová rychlost cívky
+
+- střídavé napěti = harmonické elektrické elektrické kmitání
+- $I_ef$ (efektivní hodnota střídavého proudu) je rovna hodnotě stejnosměrného proudu, který by při průchodu obvodem dával stejný průměrný výkon
+
+pro sínusový průběh $\to$ $I_{ef} = \frac{I_m}{\sqrt{2}}$
+
+> existuje i efektivní hodnota napětí $U_{ef}= \frac{U_m}{\sqrt{2}}$
+
+- pro obdelníkový průběh je efektivní hodnota a amplituda shodná
+
+## Joulovo teplo
+
+- Zahřívání vodiče při průchodu proudu vodičem (ztráty)
+
+$Q_j = UIt = RI^2t$
+
+## Elektrický proud v látkách
+
+### 1. V kapalinách
+
+- proud prochází pouze elektrolyty (obahují volné ionty)
+
+$\to$ iontová vodivost
+
+**Faradayův zákon** $\to$ množství látky vyloučené na elektrodě při elektrolýze je úměrné náboji, který projde elektrolytem za určitý čas
+
+$m \sim Q$
+
+$m = AQ$ , kde $A$ je elektrochemický ekvivalent látky
+
+$m = AIt$
+
+
+
