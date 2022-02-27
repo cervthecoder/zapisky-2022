@@ -134,10 +134,53 @@ $1/R = 1/R_1 + 1/R_2$
 - při průchodu elektrického proudu vodičem se zvyšuje teplota vodiče 
 
 $\Delta R = \alpha \cdot R_1 \cdot \Delta t$
-> $\alpha = teplotní součinitel elektrického odporu$ <br>
+> $\alpha$ = teplotní součinitel elektrického odporu <br>
 - měrný elektrický odpor taktéž roste $\rho$ s teplotou
 
 $\Delta \rho = \alpha \rho_1 \Delta t$
 
+## ohmův zákon pro uzavřený el. obvod
 
+- musíme uvažovaty vnitřní odpor zdroje
+- energie vydaná zdrojem se přeměňuje na energii vydanou vnější a vnitřní částí obvodu
+
+$W_z = W_0 + W$
+
+$U_e = U_iQ + UQ$
+
+$U_e = U_i + U$
+
+> $W_z:$ práce neelektrických sil uvnitř zdroje <br>
+>
+> $W_0:$ práce elektrických sil uvnitř zdroje <br>
+>
+> $W:$ práce elektrických sil ve vnější části obvodu <br>
+>
+> $U_e:$ Elektromotorické napětí zdroje <br>
+>
+> $U_i$ :  Úbytek napětí na zdroji <br>
+>
+> $U:$  svorkové napětí <br>
+
+- Je-li spínač rozpojen, tak obvodem nbeprochází proud $\to$ $U=U_e$ ($U=0$)
+
+$\to$ úbytek napětí na zdroji je nulový a svorkové napětí a elektromotorické napětí je stejné
+
+- pomocí ohmova zákona pro část el. obovdu lze vztah přepsat následovně
+
+$U_e = R_iI + RI$
+
+$I = \frac{U_e}{R_i + R}$
+
+## Výkon el. proudu
+
+- pro stejnosměrný
+
+$P=UI$
+
+- Následně lze zapsat elektrickou práci, protože $I=Q/t$
+
+$E = W_e = UIt$ $\to$ Vimeos, že práce je dráha za čas
+
+$F_e \cdot d = q \cdot E \cdot d$ . kde $F_e$ je součin intenzity el. pole $E$ a urychlovaného náboje $q$
 

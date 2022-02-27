@@ -12,6 +12,90 @@
 - interoreceptor $\to$ receptory ležící uvnitř těla (pH krevní plazmy v cévách)
 - proprioreceptor $\to$ umístěny v pohybovém aparátu (ve svalech, kloubech a šlachách)
 - nociceptory $\to$ cítění bolseti (reagují na látky, které vypouští ničené buňky, chemoreceptory)
+- mechanoreceptopry  $\to$ sluch a rovnováha
+- fotoreceptory $\to$ buňky které jsou schopné depolarizovat svou membránu po zachycení přijmutí fotonu
+
+## Oko
+
+-  párový orgán umístěný v očnicích
+
+- Doplňkové orgány $\to$ 
+
+  1. okohybné svaly $\to$ 6 svalů (4 přímé a 2 boční)
+  2. horní víčko
+  3. dolní víčko
+  4. spojivkový vak (spojivka)
+  5. slzní aparát
+
+- oční stěna $\to$ 3 vrstvy
+
+  $\to$ bělima (bílá) - vpředu vybíhá rohovka (průsvitná)
+
+  $\to$ Živnatka
+
+  1. **Cévnatka** $\to$ prostupují jí cévy (přechází v duhovku)
+  2. **Řasnaté těleso** $\to$ závisný aparát pro čočku (v přední části)
+  3. **Duhovka** (iris) $\to$ reguluje množství procházejícího světla (clona); obsahuje pigment (melanin)
+
+  $\to$ Sítnice (retina) = vlastní smyslový orgán oka
+
+  > Obsahuje několik vrstev (pouze poslední jsou fotoreceptory) <br>
+  >
+  > Lidská sítnice je tzv. inverzní sítnice $\to$ vrstvo projde všema vrstvama sítnice <br>
+  >
+  > Tyčinky (130 milionů) = intenzita světla <br>
+  >
+  > Čipky (7 milionů) = zaznamenávají barvu světla <br>
+  >
+  > bipolární buňky = modifikované neuroný; přebírají akční potenciál od fotoreceptorů <br>
+  >
+  > gangliové buňky = přebírají signál od bipolárních buněk a vedou ho dál do mozku
+
+- Sklivec $\to$ polotekutá hmota vypňující vnitřní prostor oka
+
+- Čočka = průhledná bikonvexní struktura v oku (spolu s rohovkou láme světlo)
+
+- Zornice = otvor v rohovce/duhovce
+
+- přední oční komora = prostor mezi rohovou a duhovkou
+
+- zadní očni komora = prostor mezi duhovkou čočkou
+
+> Komorový mok $\to$ je v obou komorách a vzniká filtrací krevní plasmy <br>
+>
+> Neustále vzniká a vstřebává se
+
+## Optický aparát
+
+- rohovka, čočka, sklivec a duhovka ovliňují průchod a lom světla
+- astigmatismus $\to$ špatně tvarovaná rohovka
+
+### Sítnice
+
+- slepá skvrna $\to$ místo, kde se nevyskytují fotoreceptory, protože zde vystupuje zrakový nerv
+- Žlutá skvrna $\to$ místo s největší hustotou čípků
+
+## Typy receptorů
+
+- **tyčinky** $\to$ fotoreceptorická buňka v sítnici; rozeznává odstíny šedé barvy (vnimání kontratů černé a bílé)
+
+> rhodopsin $\to$ zrakový pigment, který obsahují tyčinky <br>
+>
+> molekula citlivá na světlo $\to$ způsobuje depolarizaci membrány (vznik akčního potenciálu)
+
+-  **čípky** $\to$ fotoreceptorické buňky v sítnici; které umožňují barevné vidění (nefungují při snížené viditelnosti)
+
+> 3 druhy čípků $\to$ pro červenou, modrou a zelenou
+
+### Čočka
+
+- pomocí závěsného aparátu je připojená k řasnatému tělísku
+- Akomodace = kontrakce řasnatého tělíska (zaostření na blízký bod $\to$ zvýší se zakřivení čočky)
+- dilatací řasnatého tělíska se zaostří na vzdálený bod
+
+
+
+
 
 
 
