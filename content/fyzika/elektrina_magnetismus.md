@@ -146,7 +146,7 @@ $\Delta \rho = \alpha \rho_1 \Delta t$
 
 $W_z = W_0 + W$
 
-$U_e = U_iQ + UQ$
+$U_eQ = U_iQ + UQ$
 
 $U_e = U_i + U$
 
