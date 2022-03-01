@@ -93,11 +93,59 @@
 - Akomodace = kontrakce řasnatého tělíska (zaostření na blízký bod $\to$ zvýší se zakřivení čočky)
 - dilatací řasnatého tělíska se zaostří na vzdálený bod
 
+# Ucho
 
+## Vnější ucho
 
+- ušní boltec $\to$ elastická chrupavka, která usměrňuje zvuk do zvukovodu
+- vnější zvukovode $\to$ sliznice krytá chlupy
+- Bubínek $\to$ tenká vazivová blána (knit při průchodu zvuku)
 
+## Střední ucho
 
+- obsahuje 3 kůstky, které přenáší zvuk z bubínky do hlemýždě
+- kladívko, kovadlinka, třmínek
+- Eustachova trubice $\to$ propojuje nosohltan a střední ucho (vyrovnávání tlaku)
 
+>  Zánět středního ucha je ucpání eustachovy trubice
+
+## Vnitřní ucho
+
+- ohraničeno kostěným labyrintem spánkové kosti
+- v něm se nachází blanitý labyrint, který je vyplněn endolymfou
+
+$\to$ hlemýžď, polokruhovité kanálky, vejčitý váček a kulovitý váček
+
+### Vestibulární systém
+
+- Vestibulární systém (statokinetické čidlo) $\to$ váčky + kanálky
+
+> Funguje na základě vláskových buněk (receptorů)
+
+- Kineticé čidlo (pohybové)$\to$ kinetické čidlo zaznamenávající rotaci hlavy
+
+>  Je uložen v ampulích tří polokruhovitých kanálků <br>
+>
+> Ty jsou vyplněná endolymfouy, která se zde přelévá a dráždí vlásky receptorů <br>
+>
+> <img src="https://github.com/cervthecoder/github_images/blob/master/IMG_8742.jpeg?raw=true" style="zoom:10%;" />
+
+- Statické čidlo (polohové) $\to$ zaznamenává polohy hlavy v prostoru
+
+> Sacculus a utriculus jsou váčky tvořící statické čidlo <br>
+>
+> Obsahuje otolity ($CaCO_3$ kamínky), které rozhýbou endolymfa a tak dráždí receptory
+
+## Sluchové čidlo
+
+- uloženo v blanitém hlemýždi
+- také naplněn endolymfou
+- kolem hlemýždě je perilymfa
+- Třmínek rozkmitá perilymfu, která přenese kmitání do endolymfy v hlemýždi, kde se dráždí čivé buňky v cortiho orgánu
+- Různých částech hlemýždě je hlemýžď citlivý na různé vlnové délky
+- nízká frekvence je zaznamenávána hloubš v hlemýždi
+- vysoké frekvence jsou zaznamenávány na kraji hlemýždě
+- Kulaté oknénko a oválné okénkoß $\to$ přenáší zvuk z třmínku na hlemýžď
 
 
 
