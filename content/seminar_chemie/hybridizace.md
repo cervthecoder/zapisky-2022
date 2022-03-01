@@ -160,3 +160,5 @@ $\to$ Orbitaly $2s$ a $2p_x$ jsou neekvivalentní
 $H_2O + H^+ \to H_3O^+$
 
 $\to$ překryv prázdného $1s[]$ od $H^+$ s orbitalem $2p_x[\uparrow\downarrow]$ od vody
+
+![](https://github.com/cervthecoder/github_images/blob/master/IMG_8743.jpeg?raw=true)

@@ -221,19 +221,21 @@ $H^{\delta+}-Cl^{\delta -}$
   ![](https://d3i71xaburhd42.cloudfront.net/7cb826a6920c56fce12f104d508f14cd4b0ca685/4-Figure1-1.png)
 
 > $p\vec{}(u,d)$ <br>
-> 
+>
 > $\vec{p}=Q\cdot l$ <br>
-> 
+>
+> popisuje nesymetrické rozdělení elektrického náboje v molekule, nebo atomu
+>
 > součin náboje v těžišti náboje a vzdálenosti mezi těžišti obou nábojů<br>
-> 
+>
 > $[C.m]$ nebo 1 [D] ebey ($1/3\cdot 10^{-29}\: C\cdot m$) <br>
-> 
+>
 > směr vektoru je od záporného ke kladnému náboji  <br>
-> 
+>
 > $H^{\delta +}\leftarrow Cl^{\delta -}$ <br>
-> 
+>
 > $\vec{p}=0$ $\to$ nepolární molekula <br>
-> 
+>
 > $\vec{p}\neq 0$ $\to$ polární molekula <br>
 
 ## Dipól v molekulách $A_2$
@@ -264,7 +266,7 @@ $H_2O$ (lomený tvar molekuly) $\to$ kovalentní polární vazba (dipólové mom
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dipole_Water.svg/1200px-Dipole_Water.svg.png" style="zoom: 33%;" />
 
-$CO_2$  $\to$ dipólové momenty jdou od kyslíku ke uhlíku (od + do -) = dipolové momenty jsou stejně velké opačného směru $\vec{p}=0$
+$CO_2$  $\to$ dipólové momenty jdou od kyslíku ke uhlíku (od - do +) = dipolové momenty jsou stejně velké opačného směru $\vec{p}=0$
 
 ## Dipól v molekulách $AB_3$
 
