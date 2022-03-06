@@ -27,29 +27,33 @@
   4. spojivkový vak (spojivka)
   5. slzní aparát
 
-- oční stěna $\to$ 3 vrstvy
+# Vrstvy a stvaba oční koule
 
-  $\to$ bělima (bílá) - vpředu vybíhá rohovka (průsvitná)
+## Vnější vrstva
 
-  $\to$ Živnatka
+### Bělima (bílá) 
+- tuhá vazivová tkáň (neprůhledná)
+- vbíhá do rohovky
 
-  1. **Cévnatka** $\to$ prostupují jí cévy (přechází v duhovku)
-  2. **Řasnaté těleso** $\to$ závisný aparát pro čočku (v přední části)
-  3. **Duhovka** (iris) $\to$ reguluje množství procházejícího světla (clona); obsahuje pigment (melanin)
+## Střední vrstva 
+### Živnatka
+- velmi hustě prokrvená
+1. **Cévnatka** $\to$ vrstva tenkého vaziva, kterou postupují cévy (přechází v duhovku)
+2. **Řasnaté těleso** $\to$ sval tvořící závěsný aparát pro čočku (v přední části)
+3. **Duhovka** (iris) $\to$ reguluje množství procházejícího světla (clona); obsahuje pigment (melanin)
+> zornice (pupila)  = otvor v rohovce 
 
-  $\to$ Sítnice (retina) = vlastní smyslový orgán oka
-
-  > Obsahuje několik vrstev (pouze poslední jsou fotoreceptory) <br>
-  >
-  > Lidská sítnice je tzv. inverzní sítnice $\to$ vrstvo projde všema vrstvama sítnice <br>
-  >
-  > Tyčinky (130 milionů) = intenzita světla <br>
-  >
-  > Čipky (7 milionů) = zaznamenávají barvu světla <br>
-  >
-  > bipolární buňky = modifikované neuroný; přebírají akční potenciál od fotoreceptorů <br>
-  >
-  > gangliové buňky = přebírají signál od bipolárních buněk a vedou ho dál do mozku
+## Vnitřní vrstva 
+### Sítnice (retina) = vlastní smyslový orgán oka
+- Obsahuje několik vrstev (pouze poslední jsou fotoreceptory) <br>
+-  Lidská sítnice je tzv. inverzní sítnice $\to$ vrstvo projde všema vrstvama sítnice <br>
+- Tyčinky (130 milionů) = intenzita světla <br>
+- Čipky (7 milionů) = zaznamenávají barvu světla <br>
+- bipolární buňky = modifikované neuroný; přebírají akční potenciál od fotoreceptorů <br>
+- gangliové buňky = přebírají signál od bipolárních buněk a vedou ho dál do mozku
+- pigmentová vrstva $\to$ pohlcuje světlo a zabraňuje jeho zpětný odraz
+- Světlo prochází postupně přes
+Gangliové buňky $\to$ bipolární buňky $\to$ fotoreceptory $\to$ pigmentová vrstva
 
 - Sklivec $\to$ polotekutá hmota vypňující vnitřní prostor oka
 
