@@ -162,3 +162,10 @@ $H_2O + H^+ \to H_3O^+$
 $\to$ překryv prázdného $1s[]$ od $H^+$ s orbitalem $2p_x[\uparrow\downarrow]$ od vody
 
 ![](https://github.com/cervthecoder/github_images/blob/master/IMG_8743.jpeg?raw=true)
+
+### $BeCl_2$
+- atom $Be$ je v ekvivalentní hybridizaci $sp$
+- atom $Cl$ je v neekvivalentní hybridizaci $sp^3$  
+$\to$ centrální atom je však $Be$, takže tvar odvozujeme od jeho hybridizace $sp$ a to je **lineární**
+
+
