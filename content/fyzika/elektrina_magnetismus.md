@@ -237,5 +237,60 @@ $m = AQ$ , kde $A$ je elektrochemický ekvivalent látky
 
 $m = AIt$
 
+# Stacionární magnetické pole
 
+- magnetická indukce
 
+$B=\frac{\mu I}{2\pi D}$ [$T$] (jednotka tesla)
+
+- magnetická síla působící na vodič, kterým prochází proud
+
+$F_m = \vec{B}\cdot \vec{I}\cdot l \cdot sin(\alpha)$
+
+> $\alpha$ : úhel, který svírá směr el. proudu a směr magnetické indukce
+
+## vzájemné silové působení vodičů na sebe
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwFsHG4Br1lJUDkqqawqSbXgZ87G-VMEBYNZGjv6oah2ieVcXPCIciddHX_oI_rjFYD0&usqp=CAU)
+
+- používáme pravidlo pravé ruky pro zjištění směru magnetické indukce
+- poté použijeme pravidlo levé ruky pro zjištění síly působení na vodič
+
+$\to$ při souhlasném směru proudu se přitahují
+
+$\to$ při opačném směru proudu se odpuzují
+
+### Ampérův zákon
+
+- síla, kterou na sebe působí vodiče, kterými prochází proud a jsou rovnoběžné
+
+$F_m = \frac{\mu}{2\pi}\cdot \frac{I_1\cdot I_2}{d}\cdot l$
+
+- lze z něj vyvodit jednotku Ampér
+
+## Nabitá částice v magnetickém poli
+
+- na pohybující se částici působí magnetické pole
+
+$F_m = F_d$
+
+$BIlsin(\alpha)=mv^2/r$ : částice vletí do pole kolmo k indukčním čarám $sin(\alpha)=1$
+
+$F_m = B\frac{q}{T}l= Bqv$
+
+$Bqv = \frac{mv^2}{r}$
+
+ $\to$ na tomto principu pracuje hmotnostní spektrometr
+
+# Nestacionární (proměnné) pole
+
+- mění se v čase
+- magnetický indukční tok
+
+$\Phi = B\cdot S \cdot cos(\alpha)$ [Wb = weber]
+
+$S$ : plocha, kterou prochází magnetická indukce
+
+$\alpha$ : úhel mezi normálou plochy s vektorem magnetické indukce
+
+![](https://slideplayer.cz/slide/16491115/96/images/10/a+Magnetick%C3%BD+induk%C4%8Dn%C3%AD+tok+F+%28f%C3%AD%29.jpg)
