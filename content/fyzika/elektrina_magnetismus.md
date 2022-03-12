@@ -190,7 +190,7 @@ $\to$ usměrněný pohyb elektrického náboje
 
 ## Střídavý el. proud
 
-- zdroj napětí je závit, nebo cívka otáčející se v magnretickém poli
+- zdroj napětí je závit, nebo cívka otáčející se v magnetickém poli
 
 ![](https://moodle.oahstrebic.cz//file.php/88/obrazky/indukovany_proud.jpg)
 
@@ -239,8 +239,10 @@ $m = AIt$
 
 # Stacionární magnetické pole
 
-- magnetická indukce
+- magnetická indukce $\to$ veličina popisující magnetické pole (směr jeho působení)
+$\vec{B}=\mu \cdot \vec{M}$ ; kde $\vec{M}$ je intenzita magnetického pole<br>
 
+- lze definovat magnetickou indukci působící v okolí vodiče, kterým prochází proud 
 $B=\frac{\mu I}{2\pi D}$ [$T$] (jednotka tesla)
 
 - magnetická síla působící na vodič, kterým prochází proud
@@ -255,6 +257,7 @@ $F_m = \vec{B}\cdot \vec{I}\cdot l \cdot sin(\alpha)$
 
 - používáme pravidlo pravé ruky pro zjištění směru magnetické indukce
 - poté použijeme pravidlo levé ruky pro zjištění síly působení na vodič
+- směr magnetického pole je od severu k jihu  
 
 $\to$ při souhlasném směru proudu se přitahují
 
