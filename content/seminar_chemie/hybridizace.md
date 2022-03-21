@@ -168,4 +168,25 @@ $\to$ překryv prázdného $1s[]$ od $H^+$ s orbitalem $2p_x[\uparrow\downarrow]
 - atom $Cl$ je v neekvivalentní hybridizaci $sp^3$  
 $\to$ centrální atom je však $Be$, takže tvar odvozujeme od jeho hybridizace $sp$ a to je **lineární**
 
+### $CO$
 
+$C : 2s^2 2p^2$
+
+$O: 2s^2 2p^4$
+
+- uhlík naváže 2 $\pi$ vazboami s kyslíkem a pak vznikne $\sigma$- donor-akceptorová vazba
+- nejdříve vzniká donor-akceptorová vazba
+
+$C^-\equiv O|^+$
+
+- neekvivalentní sp-hybridizace
+
+- molekula by se mohla zdát být silně polární, ale vazby jsou posunuty ke kyslíku
+
+$\to$ nepolární molekula s polární vazbou
+
+- **Výrazný posun vazeb ke kyslíku**
+
+---
+
+**donor-akceptorová  je vždy sigma vazba**

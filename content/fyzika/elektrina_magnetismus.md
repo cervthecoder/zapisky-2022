@@ -182,7 +182,7 @@ $P=UI$
 
 $E = W_e = UIt$ $\to$ Vimeos, že práce je dráha za čas
 
-$F_e \cdot d = q \cdot E \cdot d$ . kde $F_e$ je součin intenzity el. pole $E$ a urychlovaného náboje $q$
+$F_e \cdot d =U \cdot q$ . kde $F_e$ je součin intenzity el. pole $E$ a urychlovaného náboje $q$
 
 - z toho lze vyvodit, že napětí můžeme vyjádřit jako $U = E \cdot d$
 
