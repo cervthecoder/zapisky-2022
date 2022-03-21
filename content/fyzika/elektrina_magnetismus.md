@@ -290,10 +290,30 @@ $Bqv = \frac{mv^2}{r}$
 - mění se v čase
 - magnetický indukční tok
 
-$\Phi = B\cdot S \cdot cos(\alpha)$ [Wb = weber]
+$\Phi = \vec{B}\cdot S \cdot cos(\alpha)$ [Wb = weber] $=T \cdot m^2$
 
 $S$ : plocha, kterou prochází magnetická indukce
 
 $\alpha$ : úhel mezi normálou plochy s vektorem magnetické indukce
 
-![](https://slideplayer.cz/slide/16491115/96/images/10/a+Magnetick%C3%BD+induk%C4%8Dn%C3%AD+tok+F+%28f%C3%AD%29.jpg)
+<img src="https://slideplayer.cz/slide/16491115/96/images/10/a+Magnetick%C3%BD+induk%C4%8Dn%C3%AD+tok+F+%28f%C3%AD%29.jpg" style="zoom:50%;" />
+
+$\Phi = L \cdot I$ 
+
+> $L\to$ indukčnost cívky (vyjadřuje vlastnoti cívky) $[H]$ (Henry) <br>
+>
+> Analogická k setrvačné hmotnosti
+
+# Zákon elektromagnetické indukce
+
+- změnou magnetické pole vzniká indukované elektrické pole
+
+$|U_i| = \frac{\Delta \Phi}{\Delta t}$ 
+
+> $U_i\to$ indukované napětí
+
+$U_i = -\frac{\Delta \Phi}{\Delta t}$
+
+- mínus před vztahem vysvětluje Lenzův zákon
+- při průchodu cívkou vzniká magnetické pole, která indukuje elektrické pole
+- indukované elektické pole má takovou orientaci, že se snaží potlačit původní změnu $\to$ má opačnou orientaci
