@@ -12,3 +12,7 @@ date=2022-03-10
 - porovnává degeneraci české šlechtické společnosti, která mluví již výhradně německy
 - národní buditel
 - čerpal z barokních českých textů
+
+## Spis královedvorský
+
+Q

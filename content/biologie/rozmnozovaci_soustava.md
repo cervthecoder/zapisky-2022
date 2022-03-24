@@ -121,16 +121,35 @@ $\to$ žláza při gravitidě, která produkuje progesteron
 4. **Ovulace** z vaječníků se dostane sekiundární oocyt 
 5. Přechod mezi II. oocytem a vajíčkem proběhne až po setkání se spermií
 - I. oocyty v průběhu života odumírají (před pubertou) $\to$ **Nerovnoměrné rozdělení cytoplasmy**
-- primární oocyty se v pubertě začínají meiticky dělit 
+- primární oocyty se v pubertě začínají meiticky dělit
+- Ovulace = uvolnění sekundárního oocytu z gráfova folikulu
+- po ovulaci je vajíčko oplodnitelné 12 hodin
+- spermie vydží schopné oplodnit vajíčko ve vejcovodu až 2 dny 
 - Menopauza $\to$ po tom, co dojdou vajíčka k ovulaci
 ![](https://www.vovcr.cz/odz/tech/347/image/small/img009.jpg)
 
 
 ### Vejcovody 
+- párový orgán 
+- trubička dlouhá asi 15cm 
+- transport vajíčka z vaječníku do dělohy 
+- vnitřní povrch $\to$ řasinkový epitel 
+- kmitající řasinky posouvají vajíčko
+- hladká svalová tkáň $\to$ peristaltika umožňuje transport vajíčka 
+- vajíčko se dostává do vejcovodu při ovulaci
+- klasicky se vjíčko oplodní už ve vejcovodu 
 
 ### Děloha
+- svalnatý nepárový orgán
+- stěna dělohy je vybavena vrstvami hladké svalové tkáně $\to$ myocyty nejsou uspořádané do jedné vrstvy 
+- endometrium (děložní sliznice) $\to$ dochází k opakovanému odumírání 
+- deložní krček $\to$ spodní oblast dělohy, na kterou navazuje pochva 
+- děložní čipek $\to$ vnořenina děložního krčku do pochvy 
+> Rakovina děložního čípku je způsobena viry HPV <br>
 
 ### Pochva
+- trubice dlouhá 10cm 
+- propojuje dělohu s vnějšími  
 
 ## Zevní
 ### Velké Pysky stydké
@@ -141,15 +160,39 @@ $\to$ žláza při gravitidě, která produkuje progesteron
 
 ### Poševní předsíň
 - ohraničen malými stydkými pysky 
-- Bartoliniho žlázy ve stěne produkují zvlhčující sekret 
+- 2 Bartholiniho žlázy ve stěne produkují zvlhčující sekret $\to$ při sexuální aktivitě
+- Skeneho žlázy $\to$ při orgasmu ze sebe mohou  vylučovat až několik 
+- ústí zde močová trubice 
 
-### Klitoris
+### Klitoris (poštěváček)
 - erektivní tkáň
+- nad močovou trubicí 
+- mezi malými stydkými pysky 
 
+# Orgasmus
+- stav nejvyššího vzrušení doprovázený 
+- u mužů je orgasmus doprovázen ejakulací
+> z důvodu refraktilního období nelze způsobit hned znovu orgasmus 
+- u žen lze orgasmy řetězit
 
+# Menstruační cyklus 
+- pravidelné střádní
+## 1. Ischemická
+- vlivem poklesu hormonů proběhne v děloze vazokonstrikce
+- odumření sliznice  
+## 2. Vlastní menstruační
+- Vyplavení endometria 
+## 3. Proliferační
+- Obnova endiometria
+- na konci proliferace dochází k ovulaci 
+## 4. Fáze sekreční
+- endometrium roste a žlázy produkují sekret 
+- děloha je připravená na přijmutí vajíčka 
 
-
-
+- nidace (implantace) = oplozené vajíčko se uhnízdí v děloze, která musí být v **sekreční fázi** 
+> Trofoblast vajíčka začíná prorůstat do dělohy a začne vznikat placenta
+- placenta = vzniká, když trofoblast proroste endometriem
+- trofoblast = obal oplozeného vajíčka 
 
 
 
