@@ -170,7 +170,7 @@ $\to$ žláza při gravitidě, která produkuje progesteron
 - mezi malými stydkými pysky 
 
 # Orgasmus
-- stav nejvyššího vzrušení doprovázený 
+- stav nejvyššího vzrušení 
 - u mužů je orgasmus doprovázen ejakulací
 > z důvodu refraktilního období nelze způsobit hned znovu orgasmus 
 - u žen lze orgasmy řetězit
