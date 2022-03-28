@@ -13,8 +13,8 @@ date=2022-03-06
 
 ## Pohlavní soustava muže 
 ### Funkce
--  tvorba mužských pohlavních buněk $\to$ spermií (Leydigovy buňky)
-- tvorba testosteronu $\to$ mužského pohlavního hormonu
+-  tvorba mužských pohlavních buněk $\to$ spermií (Oogonie)
+- tvorba testosteronu $\to$ mužského pohlavního hormonu (leydigovy buňky)
 - uskutečnění pohlavního styku (koitu)
 
 ### Dělení
