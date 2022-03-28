@@ -227,7 +227,7 @@ $Q_j = UIt = RI^2t$
 
 - proud prochází pouze elektrolyty (obahují volné ionty)
 
-$\to$ iontová vodivost
+$\to$ **iontová vodivost**
 
 **Faradayův zákon** $\to$ množství látky vyloučené na elektrodě při elektrolýze je úměrné náboji, který projde elektrolytem za určitý čas
 
@@ -236,6 +236,25 @@ $m \sim Q$
 $m = AQ$ , kde $A$ je elektrochemický ekvivalent látky
 
 $m = AIt$
+
+$A = \frac{M_m}{F\cdot z} $ 
+
+z  = náboj kationtu $Cu^{2+} ;z=2$
+
+$F = N_a \cdot q$
+
+faradayova konstanta = náboj, který je potřeba, aby prošel elektrolytem, aby se vyloučil jeden mol látky
+
+### 2. V plynech
+
+- ionizovaný plyn vede elektrický proud
+- vznikají páry $\to$ elektron + kladný iont
+- způsoby ionizace
+
+1. Prudké zahřání
+2. Prudké stlačení
+3. Elektrickým proudem 
+4. Zářením (vysokofrekvenčním)
 
 # Stacionární magnetické pole
 
@@ -279,15 +298,14 @@ $F_m = F_d$
 
 $BIlsin(\alpha)=mv^2/r$ : částice vletí do pole kolmo k indukčním čarám $sin(\alpha)=1$
 
-$F_m = B\frac{q}{T}l= Bqv$
+$F_m = B\frac{q}{T}l= Bqv \cdot sin(\alpha)$ 
 
 $Bqv = \frac{mv^2}{r}$
 
  $\to$ na tomto principu pracuje hmotnostní spektrometr
 
-# Nestacionární (proměnné) pole
+# Nestacionární (proměnné) polemění se v čase
 
-- mění se v čase
 - magnetický indukční tok
 
 $\Phi = \vec{B}\cdot S \cdot cos(\alpha)$ [Wb = weber] $=T \cdot m^2$
@@ -311,6 +329,8 @@ $\Phi = L \cdot I$
 $|U_i| = \frac{\Delta \Phi}{\Delta t}$ 
 
 > $U_i\to$ indukované napětí
+
+- **Faradayův zákon**
 
 $U_i = -\frac{\Delta \Phi}{\Delta t}$
 

@@ -68,5 +68,73 @@ $H_2:\sigma_{1s}^2$
 ### Paramagnetismus
 
 - pokud v MO dané látky máme nespárované elektrony (stačí jeden) tak má magnetické vlastnosti 
-
 - u kyslíku $O_2$
+
+# Kovová vazba
+
+- přitažlivá síla mezi atomy (atomovými jádry) daného kovu a elektrony energetických pásů
+
+> Lze uvažovat i zapojení orbitalů vnitřních elektronových vrstev
+
+- jeden atom kovů je ve struktuře vždy obklopen 8 až 12 dalšími atomy
+- v struktuře je delokalizovaný typ vazby
+- Společné vlastnosti kovů
+
+1. Pevné skupenství (až na $Hg$)
+2. Elektrická a tepelná vodivost
+3. Kovový lesk
+4. kujnost a tažnost
+
+## Vznik kovové vazby
+
+- 1 atom kovu je obklopen 8 až 12 sousedními atomy
+
+$\to$ Atomy kovů mají méně valenčních orbitalů, než je počet vazebných orbitalů
+
+- v důsledku těsného uspořádání dochází k vzájemnému **překryvu** val. atom. orbitalů všech atomů ve struktuře kovu
+
+$\to$ Vznik obrovského množství **MO** 
+
+1. Polovina z nich jsou vazebné MO s nižší energii v nichž se nacházejí valenční elektrony (nemohou se v nich volně pohybovat)
+2. Druhá polivina jsou protivazebné MO s vyšší energii, které jsou prázdné (**umožňují pohyb elektronů**)
+
+- soubor molekulových orbitalů delokalizuje $\to$ **Energetické pásy**
+
+> Molekulové orbitaly se delokalizují mezi atomová jádra všech atomů ve struktuře kovů
+
+- **valenční pás** $\to$ Soubor vazebných MO (zde se nepohybují vazebné elektrony)
+- **vodivostní pás** $\to$ Soubor antivazebných MO (zde se mohou pohybovat)
+- valenční a vodivostní pásy jsou si v kovech energeticky poměrně blízko
+
+$\to$ energetický rozdíl mezi pásy je zanedbatelný
+
+- Dodáním energie se elektrony mohou snadno dostat do vodivostního pásu
+
+$\to$ zapojení elektrického proudu
+
+## Vlastnosti kovové vazby
+
+- čím více valenčních elektronů se zapojuje do kovové vazby tím je vazba silnější
+
+$\to$ Více elektornů: tvrdší, vyšší teplotu tání
+
+$\to$ čím méně se zapojí elektronů do kovové vazby, tím je vodivější
+
+> Nejlepší vodiče jsou z I.A (jsou však chemicky nestálé) <br>
+>
+> Nejlepší je $CS$ (francium by se rozpadlo) <br>
+>
+> Nejideálnější je Cu, Ag, Au, Pt protože jsou ušlechtilé a dávají z $ns^1$ 
+
+- nejtypičtější kovy jsou alkalické kovy a kovy alkalických kovů (vysoká reaktivita a elektrická a tepelná vodivost)
+
+# Krystalografie
+
+- krystal = útvar vyznačující se pravidelným tvarem a strukturou
+- povrch je tvořen rovinnými krystaalovými plochami
+- Existuje **7 krystalových soustav**
+- Základní buňka $\to$ jednoduché seskupení částic opakující se v celém krystalu
+
+## Iontové krystaly
+
+- 
