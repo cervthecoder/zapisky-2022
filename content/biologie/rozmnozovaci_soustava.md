@@ -74,7 +74,7 @@ $\to$ odvodnění hlavičky, aktivace akrozomu a zvýšení počtu mitochondrií
 - prochází jim močová trubice
 - prochází jím 3 topořivá tělesa (jedno je párové a druhé spongiózní)
 - erekce $\to$ nahrnutí krve do topořivých těles
-> po ejakulaci dochází k refraktelní době, kdy není možno zase
+> po ejakulaci dochází k refraktelní době, kdy není možno se znovu vzrušit
 - skládá se $\to$ kořen, tělo a žalud
 - předkožka = kožní duplikatura žaludu; na spodní straně je uzdička
 
