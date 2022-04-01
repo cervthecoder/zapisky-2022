@@ -21,7 +21,9 @@ date=2022-03-10
 1. Vytváření nových slov (jazykový purismu) $\to$ čištění od germanismů
 2. Padělání historických textů (falza) $\to$ spor o rukopisy
 3. Nová literatura (moderní) $\to$ tápe (hexametr v češtině)
-4. Odvolávání se na lidové zdroje 
+4. Odvolávání se na lidové zdroje
+
+- sen ženské autorky
 
 ## František L. Čelakovský
 
@@ -38,3 +40,12 @@ date=2022-03-10
 $\to$ absence sexuality
 
 $\to$ nevinná nevěsta
+
+## Rajská 
+
+- stihla napsat pár básní, chtěla si zalozžit školu
+- Manžel jí zakázal psát
+
+## Božena Němcová
+
+- ř
