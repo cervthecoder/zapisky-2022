@@ -15,3 +15,4 @@ $\Delta X \geq 1.7$
 - 1 nebo více elektronů se přesouvá k elektronegativnějšímu atomu
 - silná vazba
 - netvoří molekuly
+- tvoří krystaly
