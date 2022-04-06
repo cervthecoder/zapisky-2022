@@ -48,4 +48,93 @@ $\to$ nevinná nevěsta
 
 ## Božena Němcová
 
-- ř
+### Kávová společnost
+
+- 
+
+
+
+# Není Biedermeier jako biedermeier
+
+- otevírá dětský svět
+- důležitá je rodina
+- často je zde prostředí kostela
+- poprvé se zde odehrává příběh i v domácnosti
+- idylická představa rodiny
+
+## Lidka (Rettigová) [Lidka, lesní dívka]
+
+### Charakteristika
+
+- panensky čístá dívka
+- poznamenaná smrtí rodičů $\to$ staral se o ní strýc
+- Vyrůstála v přirodě $\to$ přirovnávána k lani
+- Jindřich ji ulovil
+
+### Prostředí
+
+- příroda
+- hrad
+
+- 17/18. století
+
+### Další postavy
+
+- Robert
+- Jindřich
+- Arnolf
+- Konrád
+
+## Rozárka (Němcová) [Poměnka šlechetné duše]
+
+### Charakteristika
+
+- Panensky čistá, ne tak hezká ale uvnitř byla krásná
+- má dobré srdce
+- Poznamenaná společností
+- pracovitá
+- rodině a bohu oddaná  
+
+### Prostředí
+
+- venkov
+- kostel
+- 18/19. století
+
+### Další
+
+- děti
+- matka
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

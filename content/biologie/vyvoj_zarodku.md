@@ -23,29 +23,82 @@ date=2022-03-29
 - dochází až po morulu (buňky zde jseou nediferenciované)
 - zygota $\to (rýhování)$ morula $\to$ blastula (blastocysta) $\to$ gastrula $\to$ neurula
 - zygota = první
+> blastucysta je pojmenování lidské blastuly
+- chorion = vnější zárodečný obal
+- amnion = vnitřní zárodečný obal 
 
 ## Blastula (blastucysta)
-- nidující fáze (dochází k nidaci 8. po oplození)
-- trofoblast = skupina buněk na povrchu
-- embryoblast = skupina buněk uvnitř 
+- nidující fáze (dochází k nidaci 8. den po oplození)
+- trofoblast = skupina buněk na povrchu embrya $\to$ vzniká z něj chorion 
+- embryoblast = skupina buněk uvnitř (vzniká z nich vlastní **embryum a amnion**)
 - dutina
 
-## Gatrula 
+
+## gastrula
+- vzniká žloutkový váček (výživa)
 - z embryoblastu vznikají 3 zárodečné listy $\to$ stavební materiál 
 - z trofoblastu vzniká chorion 
-- prorůstáním chorionu (chorionových klků) do endometria vzniká placenta
+- prorůstáním chorionu (chorionových klků) do endometria vzniká placenta (12. den)
 - Choriogonadotropní hormón $\to$ je produkován buňkami chorionu
+> Placenta je plně funkční až po dvou měsících (už to není gastrula <br>
+> do té doby se k výživě využívá žloutkový váček <br>
+- na konci 8. týdne už jsou položeny základy orgánů
 > Tento hormón se používá k prokázání gravidity 
 ### ektoderm buňky na povrchu 
-- pokožka a nervová soustava
+- pokožka a nervová soustava, smyslové epitely a nadledviny
 ### endoderm $\to$ buňky uvnitř
-- dýchací a trávící soustava 
+- dýchací a trávící soustava, játra, slinivka 
 ### mezoderm $\to$ vstrva mezi
-- oběhová soustava, svaly, pojiva (kost, chrupavka...)  
+- oběhová soustava, svaly, pojiva (kost, chrupavka...), srdce   
 
-## Fetální
+## Vývoj 
+- jednovaječná dvojčata $\to$ mohou mít jeden chorion a jeden pupečník a 2 amniony, nebo 2 choriony a 2 pupečníky
+- vývoj trvá 10 lunárních měsíců
+## 1. měsíc 
+- dochází k přestavbě pěti žaberních oblouků
+- z 1. žaberního bolouků vznikají čelisti, kladívko a kovadlinka 
+## 2. měsíc 
+- jsou vytvořeny základy všech orgánů
+- zárodek se začíná podobat člověku
+- už je propojen pupečníkem s placentou a funguje oběhový systém 
 
+## 3. měsíc 
+- hovoříme již o plodu (fetus)
+- jsou vytvořena víčka (až do ý. měsíce srostlá)
 
+## 4. Měsíc 
+- primární ochlupení= lanugo (prenataální ochlupení: je husté, do porodu opadá)
+
+## 5. měsíc 
+- celý pokryt lanugem 
+
+## 6. měsíc 
+- začíná vznikat podkožní tok 
+
+## 7. měsíc 
+
+## 8. měsíc 
+- začínájí sestupovat varlata
+- kůže je vyhlazená ukládáním podkožního tuku
+
+## 9. měsíc 
+- varlata jsou sestoupená
+## 10. měsíc 
+- připrava na porod 
+
+# Porod 
+## Přípravná
+- začátek děložních kontrakcí $\to$ prasknutí amniony
+- výtok amnionové tekutiny (plodové vody)
+
+## Vlastní porodní (vypuzovací)
+- zvýšení intenzity kontrakcí
+- plod je stále spojen pupečníkem s placentou (musí se přestřihnout)
+- přestřihnutí pupečníku $\to$ kyslíkový deficit
+- dítě se začne dusit a dýchací centrum aktivuje dýchací svaly $\to$ **první nádech**
+
+## Čistící
+- vychází zbytek placenty 
 
 ## Fetální oběhový systém
 
