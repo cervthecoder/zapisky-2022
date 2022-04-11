@@ -14,7 +14,7 @@ date=2022-04-06
 
 $\to$ Na koncích druhé cívky vzniká indukované napětí 
 
-> **Transofrmační poměr** <br>
+> **Transformační poměr** <br>
 >
 > $p=\frac{N_2}{N_1} = \frac{U_2}{U_1} = \frac{I_1}{I_2}$
 
