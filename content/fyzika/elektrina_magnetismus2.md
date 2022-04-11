@@ -30,6 +30,76 @@ $\to$ Na koncích druhé cívky vzniká indukované napětí
 
 - plátkováním jádra se zabraňuje tomu, aby se při průchodu proudu cívkami zahřívalo
 
+- výkon střidavého proudu $\to$ $P = U_{ef} \cdot I_{ef}$
+
+## Reálná Cívka
+
+- ideální cívka $\to$ neuvažejeme, že má odpor (pouzd indukčnost)
+
+- energie magnetického pole cívky $E_L = \frac{1}{2}LI^2$
+
+- $L[H]$
+
+> Indukčnost $L$ představuje v magnetické poli něco podobného jako hmostnost v gravitační pole
+
+-  reálná cívka $\to$ nezanedbáváme odpor
+
+<img src="data:image/png;base64,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" style="zoom:150%;" />
+
+## Oscilační obvod
+
+- LC-oscilační obvod $\to$ elektromagnetický oscilátor
+- kondenzátor + cívka
+- kondenzátor $\to$ umí na malou chvíli udržet velké množství náboje
+
+1. Nabijeme kondenzátor
+2. Na cívce vznikne mangetické pole
+3. Indukuje se elektrické pole s opačnou polaritou
+4. Na kondenzátoru se změní polarita $\to$ **a tak dokola**
+
+- proud kmitá obvodem $\to$ **harmonicky se mění elektromagnetické pole**
+- do okolí se šíří elektromagnetická vlna $\to$ **vysílač**
+
+- frekvence oscilačního obvodu
+- rezonance obvodu $\to$ obvodem prochází maximální možný proud (ustálená hodnota)
+
+> Podmínka rezonance <br>
+>
+> Prochází maximální proud $\to$ Impedance je minimální <br>
+>
+> $Z=\sqrt{R^2+(\omega L -\frac{1}{\omega C})^2}$ <br>
+>
+> Závorka musí být nulová, aby byla impedance minimální <br>
+>
+> Z toho vypočteme frekvenci oscilátoru <br>
+>
+> $\omega L = \frac{1}{\omega C}$  ($\omega = 2\pi f$)<br>
+>
+> $f^2 = \frac{1}{4\pi^2LC}$ <br>
+>
+> $f = \frac{1}{2\pi \sqrt{LC}}$
+
+- Impedance obvodu $Z [\Omega]$ $\to$ odpor
+
+> $C[F(arad)]$ <br>
+
+
+
+
+
+
+
+
+
+----
+
+### účinky elektrického proudu
+
+1. Tepeplné
+2. Světelné
+3. Pohybové
+4. Chemické
+
 
 
 
