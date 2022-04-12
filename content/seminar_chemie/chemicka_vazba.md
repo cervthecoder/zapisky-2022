@@ -130,7 +130,7 @@ $\to$ pouze hrubé měřítko
 
 halogeny + alkalické kovy
 
-halogeny + kovy alkalických zemin + Mg
+halogeny + alkalické kovy + kovy alkalických zemin + Mg (**není tam!!!!**$Be$)
 
 kyslík + alkalické kovy
 
@@ -319,6 +319,6 @@ atomové dipóly $\to$ dipólový moment volných elektronových párů (např u
 - je vždy směrem k atomu
 - u vody to zvyšuje výsledný dipólový moment $\to$ vysoké parciální náboje
 
+# Oxid uhelnatý $CO$
 
-
--
+- nepolární
