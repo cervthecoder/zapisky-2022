@@ -72,12 +72,12 @@ $F^-$ = fluoridový aniont
 
 ## VI.A $H_2Z$
 
-$H_2^IO^{-II}$ = voda (oxidan)
+### $H_2^IO^{-II}$ = voda (oxidan)
 
 1. $OH^-$ = hydroxidový aniont (hydroxidy)
 2. $O^{2-}$ = oxidový aniont (oxidy)
 
-$H_2O_2$ = peroxid vodíku
+$H_2O_2$ = peroxid vodíku (dvojnásobek vody)
 
 1. $HO_2^-$ = hydrogenperoxidy
 2. $O_2^{2-}$ = peroxidy
@@ -85,22 +85,145 @@ $H_2O_2$ = peroxid vodíku
 
 > $O_3^-$ = ozonidy
 
-$\to$ tyto 4 jsou stabilní pouze s alaklickými kovy a kovy alkalických zemin
+$\to$ tyto 4 sou stabilní pouze s alaklickými kovy a kovy alkalických zemin
 
-$H_2^{I}S^{-II}$ = sulfan
+### $H_2^{I}S^{-II}$ = sulfan
 
-$H_2^ISe^{-II}$ = selan
+- od kyseliny sulfanové se odvozují další sloučeniny
 
-$H_2^{I}Te^{II}$ = te**ll**an
+- $HS^-$ $\to$ hydrogensulfid
+- $S^{2-}$ $\to$ sulfid
+
+> $H_2S_2$ = disulfan <br>
+>
+> $S_2^{2-}$ $\to$ disulfid <br>
+>
+> např. $FeS_2$ = disulfid železnatý
+
+### $H_2^ISe^{-II}$ = selan
+
+- od kyseliny telanové se odvozují další sloučeniny
+- $Se^{2-}\to$ selenid
+
+> $H_2Se_2$ = diselan
+
+### $H_2^{I}Te^{II}$ = te**ll**an
+
+- $Te^{2-}\to$ telurid
+
+> $H_2Te_2$ = ditellan
 
 $H_2^{-I}Po^{II}$ = polan
 
-- některé tvoří i kyseliny
+## V.A $ZH_3$
 
-$H_2S_{(aq)}$ = kyselina sulfanová
+- převládá zde počet sloučenin, kde má vodík záporné oxidační číslo, tak se dává do prava
 
-$H_2Se_{(aq)}$ = kyselina selanová
+### $N^{-III}H^I_3$ = amoniak (azan)
 
-$H_2Te_{(aq)}$ = kyselina tellanová
+- $NH_2^-$ $\to$ amid
+- $NH^{2-}\to$ imid
+- $N^{3-}\to$ nitrid
+- $HN_3$ = azidovodík (roztok je kyselina azidovodíková)
+-  $N_3^{-}\to$ azid (tvoří sloučeniny s kovy přechodnými i nepřechodnými)
 
-- mohou odtrhovat více než jeden vodík
+> $N_2H_4$ = hydrazin (diazan) <br>
+>
+> Organické deriváty hydrazinu se používají v psychiatrii
+
+### $P^{-III}H^I_3$ = fosfan
+
+- $P^{3-}\to$ fosfid
+
+> $P_2H_4$ = difosfan
+
+### $As^{III}H^{-I}_3$ = arsan
+
+- $As^{3-}\to$ arsenid
+
+> $As2H_4$ = diasan
+
+### $Sb^{III}H^{-I}_3$ = stiban
+
+- netvoří dvojnásobek
+
+### $Bi^{III}H^{-I}_3$ = bismutan
+
+- netvoří dojnásobek
+
+## IV.A $ZH_4$
+
+### $C^{-IV}H^I_4$ = methan
+
+- $C^{4-}\to$ karbid
+
+$Ca_2C$ = karbid vápenatý
+
+$CaC_2$ = karbid vápenatý (triviální) !!! **acetylid vápenatý**
+
+> acetylen je slabá kyselina $H-C\equiv C-H$ <br>
+>
+> Může odštěpovat $H^+\to C_2^{2-}=$ acetylid <br>
+>
+> $CaC_2$ = acetylid vápenatý
+
+> $C_2H_6$ = ethan
+
+### $Si^{IV}H^{-I}_4$ = silan
+
+- $Si^{4-}\to$ silicidy
+
+> $Si_2H_6$ = disilan
+
+### $Ge^{IV}H^{-I}_4$ = german
+
+### $Sn^{IV}H^{-I}_4$ = stannan
+
+### $Pb^{IV}H^{-I}_4$ = plumban
+
+### III.A $ZH_3$
+
+### $B^{III}H^{-I}_3$ = boran
+
+- $B^{3-}\to$ borid
+
+> $B_2H_6$ = diboran
+
+### $Al^{III}H^{-I}_3$ = alan
+
+### $Ga^{III}H^{-I}_3$ = gallan
+
+### $In^{III}H^{-I}_3$ = indan
+
+### $Tl^{III}H^{-I}_3$ = thallan
+
+## I.A $M^IH^{-I}$ (Iontové hydridy)
+
+- nejsou to již plyny $\to$ dvouslovné názvy
+
+## II.A $M^{II}H^{-I}$ (iontové hydridy až na $Be, Mg$)
+
+# Kyseliny
+
+- bezkyslíkaté a kyslíkaté kyseliny
+- ve své struktuře obsahují vodík
+
+## Bezkyslíkaté $H^{I}A{-I, -II}$
+
+- kyselinotvorný prvek je vázán rovnonou na vodík
+
+- Halogenovodíkové kyseliny $HX_{(aq)}| HX_{(l)}$ $\to$ halogenidy
+
+- $HCN_{(aq)}$ = kyselina kyanovodíková $CN^-\to$ kyanidy
+- $HSCN_{(aq)}$ = kyselina rhodanovodíková $\to$ je derivátem $HOCN$ = kyselina kyanatá
+
+$\to$ **kyselina thiokyanatá** $SCN^{-} \to$ thiokyanatan
+
+- $HCNS$ = kyselina isothiokyanatá $CNS^- \to$ isothiokyanatan
+
+
+
+
+
+## Kyslíkaté kyseliny
+

@@ -23,11 +23,13 @@ date=2022-04-25
 - optická zařízení
 - ohnisková vzdálenost $f$ $\to$ vzdálenost ohniska a středu čočky
 - optická mohutnost $\phi = 1/f$ [$D$]
+- skutečný obraz za čočkou X zdánlivý před čočkou
 
 ## Spojky
 
 - paprsky, které jsou rovnoběžné s optickou osou jdou směrem do ohniska
 - **spojuje paprsky**
+- 
 
 ## Rozptylky
 
@@ -45,7 +47,7 @@ date=2022-04-25
 - ohnisko je na středu cesty mezi vrcholem a středu křivosti
 
 1. Rovnoběžně dopadající jde do ohniska
-2. Paprsek, který jde ohniskem jde poté rovnozběžně
+2.   Paprsek, který jde ohniskem jde poté rovnozběžně
 3. paprsek, který jde středem se vrátí zpátky
 
 $\to$ tam, kde se protnou tyto paprsky je obraz 
@@ -63,4 +65,40 @@ $|FV|=f$ (ohnisková vzdálenost)
 - když obraz vznikne za zrcadlem, tak je zdánlivý
 - před zrcadlem je skutečný
 - vzpřímený x obrácený
-- 
+
+## Zobrazovací rovnice
+
+$\frac{1}{a}+\frac{1}{a'} = \frac{1}{f}$
+
+$a$ = předmětová vzdálenost (vzdálenost předmětu od středu čočky, nebo od vrcholu zrcadla) 
+
+$a'$ = obrazová vzdálenost
+
+$f$ = ohnisková vzdálenost
+
+> $a$ je vždy kladné <br>
+>
+> $f$ je vždy kladné <br>
+>
+> $a'$ je kladné pokud je za čočkou, záporné pokud před čočkou <br>
+>
+> $a'$ je kladné, pokud je obraz před zrcadlem, pokud za zrcadlem, tak je $a'$ záporné <br>
+>
+> $a'>0$ $\to$ obraz je skutečný <br>
+>
+> $a'<0\to$ obraz jezdánlivý
+
+$Z = -\frac{a'}{a} = \frac{y'}{y}$
+
+> $Z<0$ $\to$ obraz je převrácený <br>
+>
+> $Z>0\to$ obraz je vzpřímený <br>
+>
+> $|Z|> 1\to$ je zvětšený <br>
+>
+> $|Z|=1 \to$ obraz je stejně velký <br>
+>
+> $|Z|<1\to$ obraz je menší
+>
+> $y, y'\to$ velikost předmětu a velikost obrazu
+
