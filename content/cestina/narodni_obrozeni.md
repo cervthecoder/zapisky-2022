@@ -106,9 +106,26 @@ $\to$ nevinná nevěsta
 - děti
 - matka
 
+# Havlíček
 
+## petrolejové lampy
 
+- psychologický román
 
+- Štěpka má jako dítě málo lásky a něhy od svých rodičů $\to$ odpor
+
+- lineární vyprávění (málo retrospektivy) 
+- v er-formě (možná pohled samotného autora)
+- přechodníky, metafory, personifikace
+- časoprostor $\to$ Jilemnice, Jičín (přelom 19. a 20. století)
+- manžel Pavel
+
+# Jiří Hájíček
+
+## Selský baroko
+
+- hlavní hrdina Pavel sestavuje rodokmeny $\to$ Genealog
+- 
 
 
 
