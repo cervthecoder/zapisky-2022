@@ -104,13 +104,47 @@ $\to$ buňka má nástroje k tomu, aby chyby opravovali
 
 # Mendel
 
+- genom $\to$ soubor všech genů jedince
+- genotyp $\to$ konkrétní sestava alel (heterozygot x homozygot)
+- genofond $\to$ soubor genů populace
+- populace $\to$ skupina jednoho druhu na jednom místě
+- fenotyp $\to$ vnější znaky způsobene genotypem 
+
+> fenotypové znaky ovlivnitelné vnějším prostředím <br>
+>
+> fenotypové znaky neovlivnitelné vnějším prostředí
+
+- monogenní  znaky $\to$ vlastnosti ovlivněné jedním genem
+- polygenní znaky $\to$ vlastnosti ovlivněné více geny
+
 - diploidie $\to$ buňka s dvoumi sadami chromozomů
 - haploidie $\to$ jedna sada chromozomu
 - homologický chromozom $\to$ druhý chromozom do páru
 - **homozygotní kombinace alel**= pokud je lokus stejný na homologickém chromozomu, tak je jedno, který se přepíše
 - **heterozygot** = alely jsou různé $\to$ přepíše se dominantní alela (recesivní alela se nepřepíše)
-- **alela** $\to$ konkrétní forma genu (varianta genu, který kóduje určitý znak)
+- **alela** $\to$ konkrétní forma genu, která leží na chromozomu (varianta genu, který kóduje určitý znak)
+
+> Dominantní alela <br>
+>
+> Recesivní alela = je upozaděna dominantní alelou
+
+Aa = heterozygot
+
+AA = dominantní homozygot
+
+aa = recesivní homozygot
 
 - úplná dominance = dominantní alela naprosto zastíní recesivní alelu
 - neúplná dominance = neprojeví se ani jedna alelal
 - kodominance = obě alely se realizují (krevní skupiny)
+
+## Dědičnost
+
+- homologní pár chomozomů $\to$ chromozom od otce + chromozom od matky
+- meióza rozhoduje o tom, jaké pohlavní buňky jedinec tvoří
+
+## Meióza
+
+1. v profázy meiózy vznikají bivalenty $\to$ spojení homologních párů chromozomu (spojení dvou dvouchromatidových chromozomů)
+
+> v S fázy proběhne replikace $\to$ vzniknou dvouchromatidové chromozomy

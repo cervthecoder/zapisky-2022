@@ -211,9 +211,8 @@ $CaC_2$ = karbid vápenatý (triviální) !!! **acetylid vápenatý**
 ## Bezkyslíkaté $H^{I}A{-I, -II}$
 
 - kyselinotvorný prvek je vázán rovnonou na vodík
-
 - Halogenovodíkové kyseliny $HX_{(aq)}| HX_{(l)}$ $\to$ halogenidy
-
+- kyselina selenovodíková $H_2Se_{(aq)}$, kyselina telurovodíková
 - $HCN_{(aq)}$ = kyselina kyanovodíková $CN^-\to$ kyanidy
 - $HSCN_{(aq)}$ = kyselina rhodanovodíková $\to$ je derivátem $HOCN$ = kyselina kyanatá
 
@@ -221,9 +220,127 @@ $\to$ **kyselina thiokyanatá** $SCN^{-} \to$ thiokyanatan
 
 - $HCNS$ = kyselina isothiokyanatá $CNS^- \to$ isothiokyanatan
 
-
-
-
-
 ## Kyslíkaté kyseliny
 
+- podstatné jméno "kyselina" + přídavné jméno
+- Speciální
+
+1. $HOCN$ = kyselina kyanatá
+2. $HNCO$ = kyselina isokyanatá
+3. $HONC$ = kyselina fulminová (kyselina třaskavá)
+
+> kyselina fulminová tvoří rezonanční struktury <br>
+>
+> 1. $H-C\equiv N^+-O^-$ <br>
+> 2. $H-C^+=N-O^-$ <br>
+>
+> fulmináty $\to$ kationt kovu se váže na kyslík $MONC$
+
+## jednosytné / vícesytné kyseliny
+
+- musíme zhodnotit počet vodíků/ kyslíků, pokud je počet vodíků > 2
+
+$HIO_4$ = kyselina jodistá / kyselina tetraoxojodistá
+
+$H_3IO_5$ = kyselina trihydrogenjodistá / kyselina pentaoxojodistá
+
+## Polykyseliny (více jaderné kyseliny)
+
+$H_4P_2O_7$ = kyselina tetrahydrogendisfosforečná / kyselina heptaoxodisfosforečná (kyselina pyrofosforečná)
+
+> pyro = atom kyselinotvorného prvků je zde dvakrát <br>
+>
+> pyrofosfát
+
+# Deriváty kyslíkatých kyselin
+
+## Thiokyseliny
+
+- kyslík $O^{-II}$ nahradíme za $S^{-II}$
+
+$H_2CO_3 + S^{-II} - O^{-II} \to H_2CO_2S$ = kyselina **thio**uhličitá
+
+- někdy se thiosíra dává do závorky $H_2CO_2(S)$
+
+- od kyseliny uhličité je nejstabilnější $H_2CS_3$ 
+
+> **thiosíra se dává vždy nakonec**
+
+- problémy dělají thiokyseliny kyselin síry
+
+kys. thiosírová $H_2SO_4 \to H_2S_2O_3$
+
+kys. thiosiřičitá $H_2SO_3 \to H_2S_2O_2$
+
+> počet kyslíků je menší než součet počtu atomů síry a vodíku
+
+- thion = síra je nahrazena za kyslík $=OH$
+- thiol = síra je nahrazená za kyslík $-O-H$
+
+## Peroxokyseliny
+
+- kyslík $O^{-II}$ se nahradí peroxidickým kyslíkem $-O^{-I}-O^{-I}-$
+- $H_4P_2O_7 \to H_4P_2O_8$ kyselina tetrahydrogen**peroxo**difosforečná
+
+> kyselina tetrahydrogenperoxodisfoforečná se používá jako bělící složka
+
+$H_2SO_3 \to H_2SO_2(O_2)$ = peroxodický kyslík se musí dát do závorky, aby se peroxokyselina nezaměnila s jinou kyselinou
+
+# Halogenidy kyslíkatých kyselin
+
+- nahrazení $OH^-$ za $X^-$
+- musí být nahrazeny  všechny $OH^-$ skupiny
+
+$H_2CO_3 - 2OH^- \to CO^{2+} + 2Cl^- \to COCl_2$ = dichlorid kyseliny uhličité
+
+$H_2SO_4 - 2OH^- \to SO_2^{2+} +2F^-\to SO_2F_2 $ = difluorid kyseliny sírové
+
+# Amidy kyslíkatých kyselin
+
+- nahrazení $OH^-$ za $NH_2^-$ (amidová skupina)
+- musí být nahrazeny všechny $OH^-$ 
+
+$H_2CO_3 - 2OH^- \to CO^{2+} + 2NH_2^{-} \to CO(NH_2)_2$ diamid kyseliny uhličité (močovina) / diamid-karbonylu
+
+> $H_2SO_4 \to SO_2^{2+}$ = sulfuryl<br>
+>
+> $H_2SO_3 \to SO^{2+}$ = thionyl <br>
+>
+> $H_2CO_3 \to CO^{2+} $ = karbonyl <br>
+
+# Soli kyslíkatých kyselin
+
+- kyanatan $OCN^-$
+- isokyanatan $NCO^-$
+- fulminát $ONC^{-}$ 
+- Počet kationtů > 2 (1) $\to$ zaznamenávám počet kationtů  v názvu
+
+1. $NaPO_3$ = fosforečnan sodný
+2. $Na_3PO_4$ = fosforečnan trisodný / tetraoxofosforečnan sodný
+
+> Jakmile uvedu počet kationtů, tak už neuvádím počet kyslíků <br>
+>
+> Jakmile uvedu počet kyslíků, tak už neuvádím počet kationtů
+
+3. $K_5P_3O_{10}$ = trifosforečnan tetradraselný / dekaoxotrifosforečnan draselný
+
+- větší počet aniontů > 1 $\to$ musí se uvést
+
+> bis, tris, tetrakis, pentakis, hexakis...
+
+1. $Fe_2(SO_4)_3$ = tris(síran) diželezitý
+
+---
+
+- u solí elementárních kyselin (sírová, siřičitá, uhličitá, dusičná, dusitá) se pomocné názvosloví používat nemusí
+
+## Hydrogensoli
+
+- částečné nahrazování vodíku
+- dihydrogen, hydrogen se dává před podstatné jméno
+
+# Podvojné soli
+
+- obsahují dvě kationtové složky a jeden aniont
+
+1. Kationty řadíme podle rostoucího oxidačního čísla
