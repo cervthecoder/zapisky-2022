@@ -19,3 +19,8 @@ to boast = vychloubat se
 to condemn = to denounce
 to conceal = skrýt
 
+# Vocab
+- arson $\to$ žhářství (arsonist / set on fire x extinguish)
+- asssination $\to$ atempt to kill somebody (assasin / to assasinate)
+
+

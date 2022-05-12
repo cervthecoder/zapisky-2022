@@ -108,7 +108,9 @@ $\to$ buňka má nástroje k tomu, aby chyby opravovali
 - genotyp $\to$ konkrétní sestava alel (heterozygot x homozygot)
 - genofond $\to$ soubor genů populace
 - populace $\to$ skupina jednoho druhu na jednom místě
-- fenotyp $\to$ vnější znaky způsobene genotypem 
+- fenotyp $\to$ projev genotypu (realizace genotypu)
+
+$\to$ soubor  znaků, které se realizují z dna
 
 > fenotypové znaky ovlivnitelné vnějším prostředím <br>
 >
@@ -148,3 +150,37 @@ aa = recesivní homozygot
 1. v profázy meiózy vznikají bivalenty $\to$ spojení homologních párů chromozomu (spojení dvou dvouchromatidových chromozomů)
 
 > v S fázy proběhne replikace $\to$ vzniknou dvouchromatidové chromozomy
+
+- z dvou dvouchromatidových chromozomů se rozdělí do dvou buněk náhodně (homologní chromozomu)
+- z těchto dvou buněk vzniknou další čtyři buňky s
+
+# Mendelovy zákony
+
+- vlastnost v jedinocovi je kódována dvojicí alel (monogenní)
+- monohybridismus = křížení jednoho znaku (1. a 2. zákon)
+
+## 1. Uniformita první filiální generace (týká se jednoho genu)
+
+- generace P = parentální generace (rodiče) $\to$ homozygoti
+- generace $F_1$ = 1. filiální generace (potomci)
+- Uniformita $F_1$ generace
+- křížením dvou homozygotů je uniformní $\to$ stejný genotyp, stejný fenotyp
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUoAAAByCAMAAAACqWhDAAAABlBMVEX///8AAABVwtN+AAACeklEQVR4nO2aDW/DIAxEm///p6e1q+Z+qMFwtmz6TmoSTQkP38KBIi4XhBBCCCGEUFEdyCOslOmzlTm/eGVAPluZ4eS3WJnwTn6JlSkj3N3ls1zylimCNMzKnlaWzMqmVhbMyt8StWWKIP2ysquVBbOyqZUFs/L2gLRMEaRdVna1smBWtrWyXFYOfj1wlSmCdMvKvlaWy8q2VpbLyv/ihGWKIM2ysq+V5bKysZXFstKWpitTBGmWlbPKgDTLypAyMxj1sjKkzAxGuayMKTODQVbKGGSljEFWyhhkpYxBVsoYZKWMcSCPsFKm6VdWpW0gWJnD2KZKrHy9d3a+z4BgpQzSysrjmF2GZkCwUgaRWnm+vFqD2Cp9qAyI0sqRpeoK5NryrXkvKgMitPKP6fVyskpDLALRZ2WKleYPZSBqK/0jfNyOw55uqEqQgGknzkrTfFRWLkDU007cAH/4BHM/VoJIp53DnMYfG27eXERNOyuQzlYGDPAViNzKqKw0rV4X0SFZuQSJWKInWCnNMRFEPoO7R/jU4tWrDIh+iS7tQScIVuYwtqkSK3tBsDKHsU2VWNkLgpU5jG2qLGAl8ggrZZp+ZVXaBoKVOYxtqsTK13vZfqWCYOV8D55u/Z7tV1PCyve9OFterUHYybbQg6f27wd2si1C2Mm20oOnli+PlbGTbRLCTralHrxr3eZYJYh62okb4A+fYO7HShDptHOY0/hjw82bC3ayrUDYybbWA9u6vQxaV7KTrQZEPoO7R/jU4tWrDIh+iS7tQScIVuYwtqkSK3tBsDKHsU2VWNkLgpU5jG2qxMpekM9WIo8S/l0IIYQQQgghhBB6ox/MmRLCnF8g4QAAAABJRU5ErkJggg==)
+
+## 2. Různorodost druhé filiální generace (týká se jednoho genu)
+
+- křížení dvou heterozygotů
+- křížení mezi jedinci $F_1$
+- vznikají tři možnosti $\to$ dominantní hmozygot, recesivní homozygot, heterozygot
+
+![Evidence chovu .cz - aplikace pro evidenci chovu exotického ptactva a  králíků ...](https://evidencechovu.cz/images/2zakon.jpg)
+
+> poměr $\to$ 1:2:1 q
+
+## 3.  Volná kombinovatelnost alel při dihybridním křížení
+
+- všímá si situace dihybridismu $\to$ křížení dvou znaků
+
+![Elektronická učebnice - ELUC](https://eluc.ikap.cz/uploads/block_images/5704/content_3dihybridizmus_16.jpg)
+
