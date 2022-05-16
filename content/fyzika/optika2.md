@@ -102,3 +102,21 @@ $Z = -\frac{a'}{a} = \frac{y'}{y}$
 >
 > $y, y'\to$ velikost předmětu a velikost obrazu
 
+- $Z = -\frac{f}{a-f}$
+
+# Pomoc k testu
+## Spojka
+- $a>2f$ = obraz je skutečný | převrácený | zmenšený
+- $a=2f$ = obraz je skutečný, převrácený | stejně velký jako předmět
+- $2f< a< f$ = obraz je skutečný, převrácený, zvětšený
+- $a=f$ = obraz leží v nekonečnu 
+- $a<f$ = obraz je zdánlivý obraz, přímý, zvětšený
+## Rozptylka
+
+
+
+
+
+
+
+
