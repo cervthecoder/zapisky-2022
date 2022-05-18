@@ -32,3 +32,31 @@ date=2022-05-16
 
 - $E=hf$ $\to$ energie záření
 - intenzita záření závisí na amliptudě
+
+> Youngův pokus = vlnová podstata světla
+
+## Comptonův jev (1922)
+
+- částicová podstata světa
+- Einstein = světelná kvanta jsou hmotné objekty
+- Compton to potvrdil
+- rentgenové záření ($\lambda=0.07$) $\to$ tvrdé rentgenové záření
+- rentgenem osvěcoval uhlíkovou destičkou
+- záření se rozptylovalo různými směry
+- některé fotony se odrazily s menší frekvencí $\to$ energií
+- část energie je absorbovaná elektronem
+- muselo dojít k srážce fotonu a elektronu $\to$ částice (světelná kvanta)
+- foton $\to$ elektromagnetické kvantum, na které je nahlíženo jako na částici
+
+$hf = hf' + E_k$ 
+
+-  trajketori, nebo místo výskytu lze vždy zjisti pouze s určitou pravděpodobností
+
+## Louis de Broglie
+
+- vlnově korpuskulární charakter částic
+
+$\lambda = \frac{h}{m\cdot v}$
+
+- Debroglieho vlna
+- relativistická hmotnost $m = \frac{m_0}{\sqrt{1-v^2/c^2}}$
