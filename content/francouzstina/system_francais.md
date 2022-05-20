@@ -11,3 +11,15 @@ date=2022-05-17
 |Pour Combien de temps?|6 ans |(3-5 ans) |6 ans |
 
 
+1. Le president nomme le prime minister
+2. Prime minister choisit des ministres
+3. Le conseuil regional dirige le region 
+4. Le parlament represente la nation
+5. le livre Máj presnter le ganre de romantisme
+
+les députés = poslanci (volí je lidi)
+
+
+
+
+
