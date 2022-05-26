@@ -52,7 +52,7 @@ $hf = hf' + E_k$
 
 -  trajketori, nebo místo výskytu lze vždy zjisti pouze s určitou pravděpodobností
 
-## Louis de Broglie
+## Louis de Broglie (1924)
 
 - vlnově korpuskulární charakter částic
 
@@ -60,3 +60,30 @@ $\lambda = \frac{h}{m\cdot v}$
 
 - Debroglieho vlna
 - relativistická hmotnost $m = \frac{m_0}{\sqrt{1-v^2/c^2}}$
+- experimentální potvrzení v roce 1927 Davisson-Germerův experimentem
+
+$\to$ podařilo se vytvořit interfereční obrazec elektrony
+
+- v roce 1928 JJ Thompson dokázal vytvořit interferenční obrazec elektrony při průchodu mřížkou
+- v roce 1961 difrakce elektronu na dvojštěrbině
+
+## Tunelový jev $\to$ průchod částice přes překážku
+
+- v mikrosvětu nelze vysvětlit jevy klasickou fyzikou
+
+## Heisenbergův princip neurčitosti
+
+- $\Delta p \cdot \Delta x \geq h$
+- čím přesněji známe hybnost, tím méně známe polohu
+
+# Kvantování energie
+
+- energie atomů je kvantována
+- energie pro jednotlivé stavy jsou dány
+
+$E_1 = \frac{h^2}{8mL^2}n^2$
+
+- možné hodnoty energie, kde
+
+1. $n$ je hlavní kvantové číslo (n=1 základní stav)
+2. $L$ délka úsečky, na kterou je částice vázána
