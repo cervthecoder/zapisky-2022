@@ -42,4 +42,5 @@ date=2022-05-24
 - něco mezi románem a povídkou
 - Aschenbach se platonicky zamiluje do jednoho polského chlapce
 - následně do města přišla cholera
-- kontrast krásy chlapce a hnusoby cho
+- kontrast krásy chlapce a hnusoby cholery
+- estetická rovina
