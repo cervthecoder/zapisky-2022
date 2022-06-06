@@ -1,6 +1,6 @@
 +++
 
-title="Vazba genu"
+title="Genetika pokračovaní"
 
 date=2022-05-31
 
@@ -31,6 +31,12 @@ $\to$ v tu chvíli neplatí 3. mendelův zákon, pokud jsou sledované alely na 
 > z aabb a AaBb
 
 <img src="https://www.wikiskripta.eu/images/thumb/8/8b/Dihybridrecessivebc.png/1920px-Dihybridrecessivebc.png" alt="Štěpné poměry pro backcross AaBb x aabb" style="zoom:25%;" />
+
+
+
+
+
+
 
 ---
 
