@@ -229,6 +229,8 @@ $\to$ **kyselina thiokyanatá** $SCN^{-} \to$ thiokyanatan
 2. $HNCO$ = kyselina isokyanatá
 3. $HONC$ = kyselina fulminová (kyselina třaskavá)
 
+![IV. skupina PS, ns 2 np 2 Uhlík, křemík, germanium, cín, olovo - PDF Free  Download](https://docplayer.cz/docs-images/57/41046264/images/38-0.png)
+
 > kyselina fulminová tvoří rezonanční struktury <br>
 >
 > 1. $H-C\equiv N^+-O^-$ <br>

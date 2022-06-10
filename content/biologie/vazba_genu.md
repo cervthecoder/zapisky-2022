@@ -34,6 +34,8 @@ $\to$ v tu chvíli neplatí 3. mendelův zákon, pokud jsou sledované alely na 
 
 
 
+$P=\frac{Rekombinované}{Všechny}$
+
 
 
 
