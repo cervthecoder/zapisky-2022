@@ -6,7 +6,7 @@ date=2022-06-08
 
 +++
 
-# Nesnesitelná lehkost bytí
+# Nesnesitelná lehkost bytí (1984 ve Francii, 1985 samizdatově v česku)
 ## Milan Kundera
 - narozen 1929 v Brně
 - básník, dramatik, prozaik, esejista, překladatel

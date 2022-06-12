@@ -4,7 +4,7 @@ title="Mistr a Márkétka"
 date=2022-06-06
 
 +++
-# Mistr a Markétka 
+# Mistr a Markétka (1967 vydání) 
 ## Autor
 - Michail Alfanasjevič Bulgakov
 - syn profesora teologie
