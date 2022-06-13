@@ -8,7 +8,7 @@ date=2022-06-07
 
 # Já robot (1950)
 
-## Autor
+## Autor - Isaac Asimov (1920-1992)
 - rus židovského původu, který se nikdy nenaučil Rusky, protože se v jeho útlém dětství odstěhovali do Ameriky a jeho rodiče mluvili rusky
 - sbírka povídek s rámcem $\to$ novinář si povídá se Susan Calvinovou (robopsycholožka) : Povídky s jedné a druhé kapsy, Dekameron
 - rámcový soubor $\to$ nad povídkami stojí vypravěč(i)

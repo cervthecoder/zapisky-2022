@@ -256,6 +256,8 @@ $H_4P_2O_7$ = kyselina tetrahydrogendisfosforečná / kyselina heptaoxodisfosfor
 
 # Deriváty kyslíkatých kyselin
 
+- hydrogen je vždy na začátku a peroxo a thio až pak
+
 ## Thiokyseliny
 
 - kyslík $O^{-II}$ nahradíme za $S^{-II}$
@@ -343,6 +345,77 @@ $H_2CO_3 - 2OH^- \to CO^{2+} + 2NH_2^{-} \to CO(NH_2)_2$ diamid kyseliny uhliči
 
 # Podvojné soli
 
-- obsahují dvě kationtové složky a jeden aniont
+- obsahují více kationtových solí (u podvojných solí dvě složky $\to$ potrojné soli)
 
 1. Kationty řadíme podle rostoucího oxidačního čísla
+1. Kationty se stejným oxidačním číslem řadíme abecedně dle symbolu
+1. víceatomové kationty např $NH_4^+$ píšeme jako poslední ve skupině kationtů se stejným oxidačním číslem
+
+$Na_2(NH_4)\to$ fosforečnan disodno-amonný
+
+$NH_4MgPO_4 \to$ fosforečnan amonno-hořečnatý
+
+$CaMg(CO_3)_2 \to$ bis(uhličitan) vápenato-hořečnatý
+
+## Smíšené soli
+
+-  smíšené soli obsahují více aniontových složek
+- anionty se seřazují dle abecedního pořadí symbolů centrální atomu aniontu
+- před aniont od oxokyseliny bis, tris, tetrakis...
+- před ostatní anionty di, tri, tetra
+
+$Cu_3(CO_3)_2F_2 \to$ (bis)uhličitan-difluorid triměďnatý
+
+$NaClF(SO_4)_2 \to$ chlorid-fluorid-bis(síran) hexasodný
+
+### Oxido-, hydroxidosoli (zásadité soli)
+
+- zásadité soli obsahují kromě aniontů kyseliny také hydroxidové anionty $OH^-$, nebo oxidové anionty $O^{2-}$
+
+> každý druhý a další aniont se musí dávat do závorky
+
+$MgCl(OH)\to$ chlorid-hydroxid hořečnatý
+
+$TiCl(O)(OH)\to$ chlorid-oxid-hydroxid titaničitý
+
+## Hydráty solí
+
+- hydráty solí, kterých krystaly obsahují vázané molekuly vody (krystalová voda)
+
+$3/2H_2O:$ seskvihydrát
+
+# Názvosloví iontů
+
+## Kationty
+
+- kation + přídavné jméno
+
+$Al^{3+}\to$ kation hlinitý
+
+$H_3O^+ \to$ oxonium, kation oxoniový
+
+$PH_4^+ \to$ kation fosfoniový 
+
+$H_3S^+ \to$ kation sulfuniový
+
+$NH_4^+ \to$ kation amonný, amonium
+
+## Anionty
+
+- aniont + přídavné jméno (ový)
+
+$H^- \to$ aniont hydridový
+
+$Cl^- \to$ aniont chloridový
+
+$O^{2-} \to$ anion oxidový
+
+$N^{3-} \to$ anion nitridový
+
+$CO_3^{2-} \to$ anion uhličitanový
+
+$CN^{-} \to$ aniont kyanidový
+
+$HIO_4^{-} \to$ aniont tetraoxojodistanový / aniont jodistanový (1-)
+
+$HIO_5^{3-} \to$ aniont pentaoxojodistanový / aiont jodistanový (3-)
